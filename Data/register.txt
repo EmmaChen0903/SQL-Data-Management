@@ -1,0 +1,2492 @@
+VOID	AcctName	Name	Date	Accepted	Complete	NumHrs
+100	ale.johnson.509	Annual Nite Bike	2021-08-19	1	1	12
+100	ale.johnson.509	Annual Pedal x Paddle	2022-04-21	1	1	7
+100	ale.johnson.509	Hands-on workshops	2022-12-09	\N	\N	\N
+100	ale.johnson.509	Helping Hands	2023-02-04	1	0	\N
+100	ale.johnson.509	Howl-O-Ween	2021-02-21	1	1	9
+100	ale.johnson.509	Old But Gold	2023-09-23	1	0	\N
+100	ale.johnson.509	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	ale.johnson.509	Pendeza	2022-06-22	1	0	\N
+100	ale.johnson.509	Road Series rideouts	2021-12-25	1	1	15
+100	ale.johnson.509	Singapore International Martial Arts Tournament	2021-05-01	1	1	15
+100	ale.johnson.509	SMU Buddy Programme	2023-05-29	1	0	\N
+100	ale.johnson.509	SMU Host Programme	2021-08-28	\N	\N	\N
+100	ale.johnson.509	World Water Day	2022-01-08	1	1	9
+100	amy.floyd.618	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	amy.floyd.618	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	amy.floyd.618	Hands-on workshops	2022-12-09	1	0	\N
+100	amy.floyd.618	Helping Hands	2023-02-04	1	1	16
+100	amy.floyd.618	Howl-O-Ween	2021-02-21	1	1	2
+100	amy.floyd.618	Martial Mayhem	2021-12-25	1	0	\N
+100	amy.floyd.618	Old But Gold	2023-09-23	1	0	\N
+100	amy.floyd.618	Paddle to the Bay	2023-07-26	1	0	\N
+100	amy.floyd.618	Pendeza	2022-06-22	\N	\N	\N
+100	amy.floyd.618	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	amy.floyd.618	SMU Buddy Programme	2023-05-29	1	0	\N
+100	amy.floyd.618	SMU Host Programme	2021-08-28	\N	\N	\N
+100	amy.floyd.618	World Water Day	2022-01-08	1	0	\N
+100	amy.garcia.871	Annual Nite Bike	2021-08-19	0	\N	\N
+100	amy.garcia.871	Annual Pedal x Paddle	2022-04-21	1	1	4
+100	amy.garcia.871	Hands-on workshops	2022-12-09	1	0	\N
+100	amy.garcia.871	INSPIRAR	2021-07-25	1	0	\N
+100	amy.garcia.871	Old But Gold	2023-09-23	1	0	\N
+100	amy.garcia.871	Paddle to the Bay	2023-07-26	1	0	\N
+100	amy.garcia.871	Pendeza	2022-06-22	1	1	4
+100	amy.garcia.871	Road Series rideouts	2021-12-25	1	1	7
+100	amy.garcia.871	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	amy.garcia.871	SMU Buddy Programme	2023-05-29	\N	\N	\N
+100	amy.garcia.871	starringSMU	2021-06-16	1	0	\N
+100	amy.garcia.871	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	6
+100	amy.garcia.871	World Water Day	2022-01-08	\N	\N	\N
+100	amy.henderson.224	Annual Nite Bike	2021-08-19	1	1	4
+100	amy.henderson.224	Beach clean-up	2021-01-02	1	0	\N
+100	amy.henderson.224	Hands-on workshops	2022-12-09	1	0	\N
+100	amy.henderson.224	Helping Hands	2023-02-04	1	0	\N
+100	amy.henderson.224	Howl-O-Ween	2021-02-21	\N	\N	\N
+100	amy.henderson.224	Kidleidoscope 	2022-01-28	\N	\N	\N
+100	amy.henderson.224	Martial Mayhem	2021-12-25	1	0	\N
+100	amy.henderson.224	Old But Gold	2023-09-23	1	1	13
+100	amy.henderson.224	Singapore International Martial Arts Tournament	2021-05-01	1	1	4
+100	amy.henderson.224	SMU Buddy Programme	2023-05-29	1	0	\N
+100	amy.henderson.224	SMU Dragon Battle	2021-01-06	1	1	3
+100	amy.henderson.224	SMU Host Programme	2021-08-28	1	0	\N
+100	amy.henderson.224	SPLASH!	2021-09-24	1	1	12
+100	amy.henderson.224	starringSMU	2021-06-16	1	0	\N
+100	amy.henderson.224	Vegan Picnic	2023-01-19	1	0	\N
+100	amy.henderson.224	World Water Day	2022-01-08	1	1	7
+100	ang.hopkins.264	Hands-on workshops	2022-12-09	1	1	14
+100	ang.hopkins.264	Old But Gold	2023-09-23	1	0	\N
+100	ang.hopkins.264	Paddle to the Bay	2023-07-26	1	1	7
+100	ang.hopkins.264	Pendeza	2022-06-22	1	1	11
+100	ang.hopkins.264	SMU Buddy Programme	2023-05-29	1	1	3
+100	ang.hopkins.264	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	1
+100	ant.dennis.856	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	ant.dennis.856	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	ant.dennis.856	Hands-on workshops	2022-12-09	1	1	6
+100	ant.dennis.856	Helping Hands	2023-02-04	1	0	\N
+100	ant.dennis.856	Howl-O-Ween	2021-02-21	1	0	\N
+100	ant.dennis.856	INSPIRAR	2021-07-25	1	1	12
+100	ant.dennis.856	Kidleidoscope 	2022-01-28	1	1	5
+100	ant.dennis.856	Martial Mayhem	2021-12-25	\N	\N	\N
+100	ant.dennis.856	Old But Gold	2023-09-23	1	1	16
+100	ant.dennis.856	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	ant.dennis.856	Road Series rideouts	2021-12-25	1	0	\N
+100	ant.dennis.856	Singapore International Martial Arts Tournament	2021-05-01	1	1	1
+100	ant.dennis.856	SMU Buddy Programme	2023-05-29	1	0	\N
+100	ant.dennis.856	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	ant.dennis.856	World Water Day	2022-01-08	1	0	\N
+100	ant.fleming.613	Annual Nite Bike	2021-08-19	1	0	\N
+100	ant.fleming.613	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	ant.fleming.613	Hands-on workshops	2022-12-09	1	0	\N
+100	ant.fleming.613	Helping Hands	2023-02-04	\N	\N	\N
+100	ant.fleming.613	INSPIRAR	2021-07-25	1	1	4
+100	ant.fleming.613	Kidleidoscope 	2022-01-28	1	0	\N
+100	ant.fleming.613	Old But Gold	2023-09-23	1	1	6
+100	ant.fleming.613	Paddle to the Bay	2023-07-26	1	0	\N
+100	ant.fleming.613	Pendeza	2022-06-22	1	0	\N
+100	ant.fleming.613	Road Series rideouts	2021-12-25	\N	\N	\N
+100	ant.fleming.613	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	ant.fleming.613	SMU Host Programme	2021-08-28	1	0	\N
+100	ant.fleming.613	starringSMU	2021-06-16	\N	\N	\N
+100	ant.fleming.613	World Water Day	2022-01-08	1	1	7
+100	ash.robinson.400	Annual Nite Bike	2021-08-19	1	1	2
+100	ash.robinson.400	Annual Pedal x Paddle	2022-04-21	1	1	6
+100	ash.robinson.400	Howl-O-Ween	2021-02-21	1	1	6
+100	ash.robinson.400	INSPIRAR	2021-07-25	1	0	\N
+100	ash.robinson.400	Martial Mayhem	2021-12-25	\N	\N	\N
+100	ash.robinson.400	Old But Gold	2023-09-23	1	0	\N
+100	ash.robinson.400	Paddle to the Bay	2023-07-26	1	1	6
+100	ash.robinson.400	Pendeza	2022-06-22	\N	\N	\N
+100	ash.robinson.400	Road Series rideouts	2021-12-25	1	1	9
+100	ash.robinson.400	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	ash.robinson.400	SMU Buddy Programme	2023-05-29	1	1	3
+100	ash.robinson.400	SMU Host Programme	2021-08-28	1	0	\N
+100	ash.robinson.400	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	9
+100	ben.turner.392	Annual Pedal x Paddle	2022-04-21	1	1	9
+100	ben.turner.392	Hands-on workshops	2022-12-09	\N	\N	\N
+100	ben.turner.392	Howl-O-Ween	2021-02-21	1	0	\N
+100	ben.turner.392	INSPIRAR	2021-07-25	\N	\N	\N
+100	ben.turner.392	Kidleidoscope 	2022-01-28	1	1	15
+100	ben.turner.392	Martial Mayhem	2021-12-25	1	1	5
+100	ben.turner.392	Paddle to the Bay	2023-07-26	1	1	16
+100	ben.turner.392	Pendeza	2022-06-22	1	1	10
+100	ben.turner.392	Road Series rideouts	2021-12-25	\N	\N	\N
+100	ben.turner.392	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	ben.turner.392	SMU Host Programme	2021-08-28	\N	\N	\N
+100	ben.turner.392	World Water Day	2022-01-08	\N	\N	\N
+100	chr.rose.465	Annual Pedal x Paddle	2022-04-21	1	1	6
+100	chr.rose.465	Hands-on workshops	2022-12-09	\N	\N	\N
+100	chr.rose.465	Helping Hands	2023-02-04	1	0	\N
+100	chr.rose.465	Howl-O-Ween	2021-02-21	1	1	14
+100	chr.rose.465	INSPIRAR	2021-07-25	1	1	16
+100	chr.rose.465	Martial Mayhem	2021-12-25	1	0	\N
+100	chr.rose.465	Paddle to the Bay	2023-07-26	1	1	7
+100	chr.rose.465	Road Series rideouts	2021-12-25	0	\N	\N
+100	chr.rose.465	Singapore International Martial Arts Tournament	2021-05-01	0	\N	\N
+100	chr.rose.465	SMU Buddy Programme	2023-05-29	1	1	1
+100	chr.rose.465	starringSMU	2021-06-16	1	1	10
+100	chr.rose.465	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	chr.rose.465	World Water Day	2022-01-08	1	0	\N
+100	cor.jr..320	Annual Nite Bike	2021-08-19	0	\N	\N
+100	cor.jr..320	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	cor.jr..320	Hands-on workshops	2022-12-09	1	0	\N
+100	cor.jr..320	INSPIRAR	2021-07-25	1	0	\N
+100	cor.jr..320	Kidleidoscope 	2022-01-28	1	1	2
+100	cor.jr..320	Martial Mayhem	2021-12-25	1	0	\N
+100	cor.jr..320	Paddle to the Bay	2023-07-26	1	0	\N
+100	cor.jr..320	Paws for a Cause	2021-05-09	1	0	\N
+100	cor.jr..320	Road Series rideouts	2021-12-25	1	0	\N
+100	cor.jr..320	SMU Buddy Programme	2023-05-29	1	0	\N
+100	cor.jr..320	SMU Host Programme	2021-08-28	1	0	\N
+100	cor.jr..320	SPLASH!	2021-09-24	1	1	3
+100	cor.jr..320	starringSMU	2021-06-16	1	1	3
+100	cor.jr..320	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	cor.jr..320	World Water Day	2022-01-08	1	1	11
+100	cry.davis.502	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	cry.davis.502	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	\N	\N	\N
+100	cry.davis.502	Hands-on workshops	2022-12-09	1	1	10
+100	cry.davis.502	Helping Hands	2023-02-04	1	1	4
+100	cry.davis.502	Old But Gold	2023-09-23	1	0	\N
+100	cry.davis.502	Paddle to the Bay	2023-07-26	1	1	15
+100	cry.davis.502	Pendeza	2022-06-22	\N	\N	\N
+100	cry.davis.502	Road Series rideouts	2021-12-25	1	1	8
+100	cry.davis.502	SMU Buddy Programme	2023-05-29	0	\N	\N
+100	cry.davis.502	SMU Dragon Battle	2021-01-06	1	1	12
+100	cry.davis.502	SPLASH!	2021-09-24	1	1	6
+100	cry.davis.502	World Water Day	2022-01-08	1	0	\N
+100	dan.hayes.093	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	dan.hayes.093	Hands-on workshops	2022-12-09	\N	\N	\N
+100	dan.hayes.093	Howl-O-Ween	2021-02-21	1	0	\N
+100	dan.hayes.093	Kidleidoscope 	2022-01-28	1	0	\N
+100	dan.hayes.093	Martial Mayhem	2021-12-25	1	1	5
+100	dan.hayes.093	Paddle to the Bay	2023-07-26	1	1	8
+100	dan.hayes.093	Pendeza	2022-06-22	1	0	\N
+100	dan.hayes.093	Road Series rideouts	2021-12-25	1	1	14
+100	dan.hayes.093	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	dan.hayes.093	SMU Buddy Programme	2023-05-29	1	0	\N
+100	dan.hayes.093	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	\N	\N	\N
+100	dav.lloyd.779	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	dav.lloyd.779	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	dav.lloyd.779	Hands-on workshops	2022-12-09	0	\N	\N
+100	dav.lloyd.779	INSPIRAR	2021-07-25	\N	\N	\N
+100	dav.lloyd.779	Kidleidoscope 	2022-01-28	1	1	8
+100	dav.lloyd.779	Martial Mayhem	2021-12-25	1	1	1
+100	dav.lloyd.779	Old But Gold	2023-09-23	1	0	\N
+100	dav.lloyd.779	Paddle to the Bay	2023-07-26	1	0	\N
+100	dav.lloyd.779	Road Series rideouts	2021-12-25	1	1	4
+100	dav.lloyd.779	SMU Host Programme	2021-08-28	\N	\N	\N
+100	dav.lloyd.779	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	13
+100	dav.lloyd.779	World Water Day	2022-01-08	1	1	16
+100	dav.ryan.302	Annual Nite Bike	2021-08-19	1	0	\N
+100	dav.ryan.302	Hands-on workshops	2022-12-09	1	0	\N
+100	dav.ryan.302	Helping Hands	2023-02-04	\N	\N	\N
+100	dav.ryan.302	Kidleidoscope 	2022-01-28	1	0	\N
+100	dav.ryan.302	Pendeza	2022-06-22	1	0	\N
+100	dav.ryan.302	World Water Day	2022-01-08	\N	\N	\N
+100	daw.davis.370	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	daw.davis.370	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+100	daw.davis.370	Hands-on workshops	2022-12-09	1	1	2
+100	daw.davis.370	Helping Hands	2023-02-04	1	0	\N
+100	daw.davis.370	Howl-O-Ween	2021-02-21	\N	\N	\N
+100	daw.davis.370	INSPIRAR	2021-07-25	1	0	\N
+100	daw.davis.370	Kidleidoscope 	2022-01-28	1	0	\N
+100	daw.davis.370	Martial Mayhem	2021-12-25	1	1	14
+100	daw.davis.370	Paddle to the Bay	2023-07-26	0	\N	\N
+100	daw.davis.370	Paws for a Cause	2021-05-09	1	0	\N
+100	daw.davis.370	Road Series rideouts	2021-12-25	1	0	\N
+100	daw.davis.370	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	daw.davis.370	SPLASH!	2021-09-24	\N	\N	\N
+100	daw.davis.370	starringSMU	2021-06-16	1	0	\N
+100	daw.davis.370	Vegan Picnic	2023-01-19	1	1	2
+100	daw.davis.370	World Water Day	2022-01-08	1	1	14
+100	dr..espinoza.407	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	dr..espinoza.407	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	dr..espinoza.407	Hands-on workshops	2022-12-09	1	0	\N
+100	dr..espinoza.407	Helping Hands	2023-02-04	1	1	11
+100	dr..espinoza.407	Kidleidoscope 	2022-01-28	1	0	\N
+100	dr..espinoza.407	Paddle to the Bay	2023-07-26	0	\N	\N
+100	dr..espinoza.407	Pendeza	2022-06-22	1	0	\N
+100	dr..espinoza.407	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	dr..espinoza.407	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	10
+100	dr..espinoza.407	World Water Day	2022-01-08	1	1	12
+100	dyl.romero.144	Howl-O-Ween	2021-02-21	1	1	5
+100	dyl.romero.144	INSPIRAR	2021-07-25	1	0	\N
+100	dyl.romero.144	Kidleidoscope 	2022-01-28	1	1	8
+100	dyl.romero.144	Old But Gold	2023-09-23	1	0	\N
+100	dyl.romero.144	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	dyl.romero.144	Pendeza	2022-06-22	0	\N	\N
+100	dyl.romero.144	Road Series rideouts	2021-12-25	1	1	13
+100	dyl.romero.144	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	dyl.romero.144	SMU Buddy Programme	2023-05-29	1	1	14
+100	dyl.romero.144	SMU Host Programme	2021-08-28	\N	\N	\N
+100	dyl.romero.144	World Water Day	2022-01-08	1	0	\N
+100	eli.dawson.093	Annual Nite Bike	2021-08-19	1	1	11
+100	eli.dawson.093	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	eli.dawson.093	Hands-on workshops	2022-12-09	1	0	\N
+100	eli.dawson.093	Helping Hands	2023-02-04	1	1	2
+100	eli.dawson.093	Howl-O-Ween	2021-02-21	1	1	5
+100	eli.dawson.093	INSPIRAR	2021-07-25	1	0	\N
+100	eli.dawson.093	Kidleidoscope 	2022-01-28	1	0	\N
+100	eli.dawson.093	Martial Mayhem	2021-12-25	1	1	4
+100	eli.dawson.093	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	eli.dawson.093	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	eli.dawson.093	SMU Dragon Battle	2021-01-06	1	1	7
+100	eli.dawson.093	SMU Host Programme	2021-08-28	1	1	6
+100	eli.dawson.093	SPLASH!	2021-09-24	1	1	13
+100	eli.dawson.093	Vegan Picnic	2023-01-19	1	1	12
+100	eli.dawson.093	World Water Day	2022-01-08	1	0	\N
+100	eri.lopez.817	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	eri.lopez.817	Helping Hands	2023-02-04	1	0	\N
+100	eri.lopez.817	INSPIRAR	2021-07-25	1	1	11
+100	eri.lopez.817	Kidleidoscope 	2022-01-28	0	\N	\N
+100	eri.lopez.817	Paddle to the Bay	2023-07-26	1	1	8
+100	eri.lopez.817	Road Series rideouts	2021-12-25	1	1	12
+100	eri.lopez.817	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	eri.lopez.817	SMU Buddy Programme	2023-05-29	1	1	5
+100	eri.lopez.817	SMU Host Programme	2021-08-28	1	0	\N
+100	eri.lopez.817	starringSMU	2021-06-16	1	0	\N
+100	eri.lopez.817	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	ger.riley.934	Annual Nite Bike	2021-08-19	1	1	8
+100	ger.riley.934	Hands-on workshops	2022-12-09	1	0	\N
+100	ger.riley.934	Howl-O-Ween	2021-02-21	1	0	\N
+100	ger.riley.934	INSPIRAR	2021-07-25	1	1	14
+100	ger.riley.934	Martial Mayhem	2021-12-25	1	0	\N
+100	ger.riley.934	Old But Gold	2023-09-23	\N	\N	\N
+100	ger.riley.934	Paddle to the Bay	2023-07-26	1	1	2
+100	ger.riley.934	Road Series rideouts	2021-12-25	1	0	\N
+100	ger.riley.934	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	ger.riley.934	SMU Host Programme	2021-08-28	1	1	11
+100	ger.riley.934	starringSMU	2021-06-16	1	1	3
+100	ger.riley.934	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	6
+100	ger.riley.934	World Water Day	2022-01-08	1	1	10
+100	hea.baldwin.164	Annual Nite Bike	2021-08-19	1	0	\N
+100	hea.baldwin.164	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	hea.baldwin.164	Hands-on workshops	2022-12-09	0	\N	\N
+100	hea.baldwin.164	Howl-O-Ween	2021-02-21	1	1	12
+100	hea.baldwin.164	Martial Mayhem	2021-12-25	1	1	4
+100	hea.baldwin.164	Old But Gold	2023-09-23	\N	\N	\N
+100	hea.baldwin.164	Paddle to the Bay	2023-07-26	1	1	6
+100	hea.baldwin.164	Pendeza	2022-06-22	1	0	\N
+100	hea.baldwin.164	Road Series rideouts	2021-12-25	1	0	\N
+100	hea.baldwin.164	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	hea.baldwin.164	SMU Host Programme	2021-08-28	1	0	\N
+100	hea.baldwin.164	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	hea.baldwin.164	World Water Day	2022-01-08	1	1	8
+100	jam.johnson.153	Annual Nite Bike	2021-08-19	1	1	3
+100	jam.johnson.153	Annual Pedal x Paddle	2022-04-21	1	1	6
+100	jam.johnson.153	Hands-on workshops	2022-12-09	1	1	8
+100	jam.johnson.153	Howl-O-Ween	2021-02-21	0	\N	\N
+100	jam.johnson.153	Martial Mayhem	2021-12-25	1	1	3
+100	jam.johnson.153	Paddle to the Bay	2023-07-26	1	1	4
+100	jam.johnson.153	SMU Buddy Programme	2023-05-29	1	0	\N
+100	jam.johnson.153	SMU Dragon Battle	2021-01-06	0	\N	\N
+100	jam.johnson.153	SMU Host Programme	2021-08-28	1	1	9
+100	jam.johnson.153	SPLASH!	2021-09-24	1	0	\N
+100	jam.johnson.153	Vegan Picnic	2023-01-19	1	0	\N
+100	jam.johnson.153	World Water Day	2022-01-08	\N	\N	\N
+100	jam.terrell.239	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+100	jam.terrell.239	Hands-on workshops	2022-12-09	1	1	6
+100	jam.terrell.239	Kidleidoscope 	2022-01-28	1	1	6
+100	jam.terrell.239	Martial Mayhem	2021-12-25	1	0	\N
+100	jam.terrell.239	Old But Gold	2023-09-23	1	0	\N
+100	jam.terrell.239	Paddle to the Bay	2023-07-26	1	0	\N
+100	jam.terrell.239	Pendeza	2022-06-22	1	1	12
+100	jam.terrell.239	Road Series rideouts	2021-12-25	0	\N	\N
+100	jam.terrell.239	Singapore International Martial Arts Tournament	2021-05-01	1	1	9
+100	jam.terrell.239	SMU Buddy Programme	2023-05-29	1	1	13
+100	jam.terrell.239	SMU Dragon Battle	2021-01-06	1	0	\N
+100	jam.terrell.239	SPLASH!	2021-09-24	1	0	\N
+100	jam.terrell.239	starringSMU	2021-06-16	1	1	1
+100	jam.terrell.239	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	15
+100	jam.terrell.239	Vegan Picnic	2023-01-19	1	0	\N
+100	jam.terrell.239	World Water Day	2022-01-08	\N	\N	\N
+100	jas.keith.832	Annual Pedal x Paddle	2022-04-21	1	1	7
+100	jas.keith.832	Hands-on workshops	2022-12-09	\N	\N	\N
+100	jas.keith.832	Helping Hands	2023-02-04	1	1	16
+100	jas.keith.832	Howl-O-Ween	2021-02-21	1	0	\N
+100	jas.keith.832	INSPIRAR	2021-07-25	1	0	\N
+100	jas.keith.832	Martial Mayhem	2021-12-25	\N	\N	\N
+100	jas.keith.832	Paddle to the Bay	2023-07-26	0	\N	\N
+100	jas.keith.832	Pendeza	2022-06-22	1	1	6
+100	jas.keith.832	Road Series rideouts	2021-12-25	1	1	5
+100	jas.keith.832	SMU Host Programme	2021-08-28	1	1	10
+100	jas.keith.832	starringSMU	2021-06-16	1	1	14
+100	jas.keith.832	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	0	\N	\N
+100	jas.keith.832	World Water Day	2022-01-08	\N	\N	\N
+100	jen.huerta.328	Annual Nite Bike	2021-08-19	1	1	5
+100	jen.huerta.328	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	jen.huerta.328	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+100	jen.huerta.328	Hands-on workshops	2022-12-09	1	1	10
+100	jen.huerta.328	Howl-O-Ween	2021-02-21	0	\N	\N
+100	jen.huerta.328	INSPIRAR	2021-07-25	1	1	15
+100	jen.huerta.328	Martial Mayhem	2021-12-25	1	0	\N
+100	jen.huerta.328	Old But Gold	2023-09-23	1	1	1
+100	jen.huerta.328	Road Series rideouts	2021-12-25	\N	\N	\N
+100	jen.huerta.328	SMU Buddy Programme	2023-05-29	\N	\N	\N
+100	jen.huerta.328	SMU Dragon Battle	2021-01-06	1	1	8
+100	jen.huerta.328	SMU Host Programme	2021-08-28	\N	\N	\N
+100	jen.huerta.328	SPLASH!	2021-09-24	1	0	\N
+100	jen.huerta.328	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	jen.huerta.328	Vegan Picnic	2023-01-19	1	0	\N
+100	jen.huerta.328	World Water Day	2022-01-08	1	1	7
+100	jer.rollins.740	Hands-on workshops	2022-12-09	1	1	12
+100	jer.rollins.740	Helping Hands	2023-02-04	0	\N	\N
+100	jer.rollins.740	Old But Gold	2023-09-23	1	1	4
+100	jer.rollins.740	Paddle to the Bay	2023-07-26	1	0	\N
+100	jer.rollins.740	SMU Buddy Programme	2023-05-29	0	\N	\N
+100	jil.payne.892	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	jil.payne.892	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	11
+100	jil.payne.892	INSPIRAR	2021-07-25	1	0	\N
+100	jil.payne.892	Kidleidoscope 	2022-01-28	\N	\N	\N
+100	jil.payne.892	Martial Mayhem	2021-12-25	0	\N	\N
+100	jil.payne.892	Old But Gold	2023-09-23	1	1	14
+100	jil.payne.892	Road Series rideouts	2021-12-25	1	0	\N
+100	jil.payne.892	SMU Buddy Programme	2023-05-29	1	0	\N
+100	jil.payne.892	SMU Dragon Battle	2021-01-06	1	0	\N
+100	jil.payne.892	SMU Host Programme	2021-08-28	1	1	5
+100	jil.payne.892	SPLASH!	2021-09-24	1	0	\N
+100	jil.payne.892	starringSMU	2021-06-16	1	0	\N
+100	jil.payne.892	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	\N	\N	\N
+100	jil.payne.892	Vegan Picnic	2023-01-19	1	0	\N
+100	jil.payne.892	World Water Day	2022-01-08	1	0	\N
+100	jos.garcia.375	Annual Nite Bike	2021-08-19	1	0	\N
+100	jos.garcia.375	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	jos.garcia.375	Hands-on workshops	2022-12-09	1	0	\N
+100	jos.garcia.375	Kidleidoscope 	2022-01-28	1	0	\N
+100	jos.garcia.375	Martial Mayhem	2021-12-25	1	0	\N
+100	jos.garcia.375	Old But Gold	2023-09-23	1	0	\N
+100	jos.garcia.375	Paddle to the Bay	2023-07-26	1	0	\N
+100	jos.garcia.375	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	jos.garcia.375	SMU Buddy Programme	2023-05-29	1	0	\N
+100	jos.garcia.375	starringSMU	2021-06-16	1	0	\N
+100	jos.garcia.375	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	10
+100	jos.garcia.375	World Water Day	2022-01-08	1	1	16
+100	kar.carroll.734	Annual Nite Bike	2021-08-19	1	0	\N
+100	kar.carroll.734	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	kar.carroll.734	Hands-on workshops	2022-12-09	1	1	1
+100	kar.carroll.734	Howl-O-Ween	2021-02-21	\N	\N	\N
+100	kar.carroll.734	INSPIRAR	2021-07-25	1	0	\N
+100	kar.carroll.734	Kidleidoscope 	2022-01-28	1	0	\N
+100	kar.carroll.734	Old But Gold	2023-09-23	1	0	\N
+100	kar.carroll.734	Paddle to the Bay	2023-07-26	1	0	\N
+100	kar.carroll.734	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	kar.carroll.734	SMU Buddy Programme	2023-05-29	1	1	12
+100	kar.carroll.734	SMU Host Programme	2021-08-28	\N	\N	\N
+100	kar.carroll.734	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	13
+100	kar.carroll.734	World Water Day	2022-01-08	1	0	\N
+100	ker.mullen.690	Annual Nite Bike	2021-08-19	1	1	12
+100	ker.mullen.690	Annual Pedal x Paddle	2022-04-21	1	1	12
+100	ker.mullen.690	Helping Hands	2023-02-04	\N	\N	\N
+100	ker.mullen.690	INSPIRAR	2021-07-25	1	0	\N
+100	ker.mullen.690	Kidleidoscope 	2022-01-28	1	0	\N
+100	ker.mullen.690	Old But Gold	2023-09-23	1	0	\N
+100	ker.mullen.690	Paddle to the Bay	2023-07-26	1	0	\N
+100	ker.mullen.690	SMU Buddy Programme	2023-05-29	1	0	\N
+100	ker.mullen.690	SMU Host Programme	2021-08-28	1	1	13
+100	ker.mullen.690	starringSMU	2021-06-16	1	0	\N
+100	ker.mullen.690	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	ker.mullen.690	World Water Day	2022-01-08	\N	\N	\N
+100	kri.edwards.715	Annual Nite Bike	2021-08-19	1	0	\N
+100	kri.edwards.715	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	kri.edwards.715	Hands-on workshops	2022-12-09	1	1	10
+100	kri.edwards.715	Helping Hands	2023-02-04	\N	\N	\N
+100	kri.edwards.715	Howl-O-Ween	2021-02-21	1	1	6
+100	kri.edwards.715	INSPIRAR	2021-07-25	\N	\N	\N
+100	kri.edwards.715	Kidleidoscope 	2022-01-28	\N	\N	\N
+100	kri.edwards.715	Paddle to the Bay	2023-07-26	1	1	9
+100	kri.edwards.715	Road Series rideouts	2021-12-25	1	1	16
+100	kri.edwards.715	SMU Host Programme	2021-08-28	1	0	\N
+100	kri.edwards.715	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	\N	\N	\N
+100	lar.banks.335	Hands-on workshops	2022-12-09	1	1	8
+100	lar.banks.335	Helping Hands	2023-02-04	1	1	3
+100	lar.banks.335	Old But Gold	2023-09-23	1	1	12
+100	lar.banks.335	Paddle to the Bay	2023-07-26	1	1	7
+100	lar.banks.335	SMU Buddy Programme	2023-05-29	1	0	\N
+100	lar.banks.335	Vegan Picnic	2023-01-19	1	0	\N
+100	log.edwards.500	Annual Nite Bike	2021-08-19	1	1	16
+100	log.edwards.500	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	log.edwards.500	Beach clean-up	2021-01-02	1	0	\N
+100	log.edwards.500	Hands-on workshops	2022-12-09	1	0	\N
+100	log.edwards.500	Howl-O-Ween	2021-02-21	1	0	\N
+100	log.edwards.500	INSPIRAR	2021-07-25	\N	\N	\N
+100	log.edwards.500	Martial Mayhem	2021-12-25	1	0	\N
+100	log.edwards.500	Paddle to the Bay	2023-07-26	1	1	14
+100	log.edwards.500	Paws for a Cause	2021-05-09	1	1	14
+100	log.edwards.500	Pendeza	2022-06-22	1	0	\N
+100	log.edwards.500	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	log.edwards.500	SMU Dragon Battle	2021-01-06	1	0	\N
+100	log.edwards.500	Vegan Picnic	2023-01-19	1	0	\N
+100	log.edwards.500	World Water Day	2022-01-08	1	0	\N
+100	mar.gonzales.971	Annual Pedal x Paddle	2022-04-21	1	1	14
+100	mar.gonzales.971	Hands-on workshops	2022-12-09	1	0	\N
+100	mar.gonzales.971	Helping Hands	2023-02-04	1	0	\N
+100	mar.gonzales.971	Howl-O-Ween	2021-02-21	1	0	\N
+100	mar.gonzales.971	INSPIRAR	2021-07-25	1	1	12
+100	mar.gonzales.971	Martial Mayhem	2021-12-25	1	0	\N
+100	mar.gonzales.971	Old But Gold	2023-09-23	1	1	3
+100	mar.gonzales.971	Paddle to the Bay	2023-07-26	1	0	\N
+100	mar.gonzales.971	Road Series rideouts	2021-12-25	\N	\N	\N
+100	mar.gonzales.971	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	mar.gonzales.971	SMU Buddy Programme	2023-05-29	\N	\N	\N
+100	mar.gonzales.971	SMU Dragon Battle	2021-01-06	1	1	1
+100	mar.gonzales.971	Vegan Picnic	2023-01-19	1	1	16
+100	mar.gonzales.971	World Water Day	2022-01-08	\N	\N	\N
+100	mel.acevedo.523	Annual Nite Bike	2021-08-19	1	0	\N
+100	mel.acevedo.523	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	mel.acevedo.523	Beach clean-up	2021-01-02	1	0	\N
+100	mel.acevedo.523	Hands-on workshops	2022-12-09	1	1	15
+100	mel.acevedo.523	Helping Hands	2023-02-04	1	0	\N
+100	mel.acevedo.523	Howl-O-Ween	2021-02-21	1	1	6
+100	mel.acevedo.523	Martial Mayhem	2021-12-25	1	0	\N
+100	mel.acevedo.523	Old But Gold	2023-09-23	1	0	\N
+100	mel.acevedo.523	Paddle to the Bay	2023-07-26	1	0	\N
+100	mel.acevedo.523	Paws for a Cause	2021-05-09	1	0	\N
+100	mel.acevedo.523	SPLASH!	2021-09-24	\N	\N	\N
+100	mel.acevedo.523	starringSMU	2021-06-16	1	0	\N
+100	mel.acevedo.523	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	0	\N	\N
+100	mel.acevedo.523	Vegan Picnic	2023-01-19	1	0	\N
+100	mel.acevedo.523	World Water Day	2022-01-08	1	0	\N
+100	mic.case.027	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	mic.case.027	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	mic.case.027	Hands-on workshops	2022-12-09	1	0	\N
+100	mic.case.027	Howl-O-Ween	2021-02-21	\N	\N	\N
+100	mic.case.027	Paddle to the Bay	2023-07-26	1	0	\N
+100	mic.case.027	Pendeza	2022-06-22	1	0	\N
+100	mic.case.027	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	mic.case.027	SMU Host Programme	2021-08-28	1	1	9
+100	mic.case.027	starringSMU	2021-06-16	1	1	7
+100	mic.case.027	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	\N	\N	\N
+100	mic.case.027	World Water Day	2022-01-08	1	1	7
+100	mic.reynolds.319	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	mic.reynolds.319	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	mic.reynolds.319	Hands-on workshops	2022-12-09	1	0	\N
+100	mic.reynolds.319	Helping Hands	2023-02-04	\N	\N	\N
+100	mic.reynolds.319	Howl-O-Ween	2021-02-21	1	0	\N
+100	mic.reynolds.319	INSPIRAR	2021-07-25	\N	\N	\N
+100	mic.reynolds.319	Kidleidoscope 	2022-01-28	1	0	\N
+100	mic.reynolds.319	Martial Mayhem	2021-12-25	1	0	\N
+100	mic.reynolds.319	Old But Gold	2023-09-23	1	0	\N
+100	mic.reynolds.319	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	mic.reynolds.319	Pendeza	2022-06-22	1	1	6
+100	mic.reynolds.319	Road Series rideouts	2021-12-25	1	0	\N
+100	mic.reynolds.319	Singapore International Martial Arts Tournament	2021-05-01	1	1	4
+100	mic.reynolds.319	starringSMU	2021-06-16	0	\N	\N
+100	mic.reynolds.319	World Water Day	2022-01-08	0	\N	\N
+100	mic.thompson.255	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	mic.thompson.255	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	mic.thompson.255	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	\N	\N	\N
+100	mic.thompson.255	Hands-on workshops	2022-12-09	1	0	\N
+100	mic.thompson.255	Helping Hands	2023-02-04	1	1	16
+100	mic.thompson.255	Howl-O-Ween	2021-02-21	1	1	5
+100	mic.thompson.255	INSPIRAR	2021-07-25	1	0	\N
+100	mic.thompson.255	Old But Gold	2023-09-23	1	0	\N
+100	mic.thompson.255	Paddle to the Bay	2023-07-26	1	1	14
+100	mic.thompson.255	Pendeza	2022-06-22	1	0	\N
+100	mic.thompson.255	Road Series rideouts	2021-12-25	1	1	1
+100	mic.thompson.255	Singapore International Martial Arts Tournament	2021-05-01	1	1	14
+100	mic.thompson.255	SMU Dragon Battle	2021-01-06	1	0	\N
+100	mic.thompson.255	SMU Host Programme	2021-08-28	1	0	\N
+100	mic.thompson.255	SPLASH!	2021-09-24	1	1	10
+100	mic.thompson.255	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	11
+100	mic.thompson.255	Vegan Picnic	2023-01-19	1	1	8
+100	mic.thompson.255	World Water Day	2022-01-08	1	0	\N
+100	mic.woods.516	Annual Pedal x Paddle	2022-04-21	1	1	2
+100	mic.woods.516	Hands-on workshops	2022-12-09	1	0	\N
+100	mic.woods.516	Howl-O-Ween	2021-02-21	1	1	9
+100	mic.woods.516	Kidleidoscope 	2022-01-28	1	1	1
+100	mic.woods.516	Martial Mayhem	2021-12-25	1	0	\N
+100	mic.woods.516	Old But Gold	2023-09-23	1	0	\N
+100	mic.woods.516	Paddle to the Bay	2023-07-26	1	1	8
+100	mic.woods.516	Road Series rideouts	2021-12-25	1	0	\N
+100	mic.woods.516	Singapore International Martial Arts Tournament	2021-05-01	1	1	4
+100	mic.woods.516	SMU Buddy Programme	2023-05-29	1	1	10
+100	mic.woods.516	starringSMU	2021-06-16	1	1	7
+100	mic.woods.516	World Water Day	2022-01-08	1	1	1
+100	mig.brown.544	Annual Pedal x Paddle	2022-04-21	1	1	11
+100	mig.brown.544	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+100	mig.brown.544	Beach clean-up	2021-01-02	1	0	\N
+100	mig.brown.544	Howl-O-Ween	2021-02-21	1	1	15
+100	mig.brown.544	INSPIRAR	2021-07-25	1	1	10
+100	mig.brown.544	Kidleidoscope 	2022-01-28	1	0	\N
+100	mig.brown.544	Martial Mayhem	2021-12-25	1	0	\N
+100	mig.brown.544	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	mig.brown.544	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	mig.brown.544	SMU Buddy Programme	2023-05-29	1	0	\N
+100	mig.brown.544	SMU Dragon Battle	2021-01-06	\N	\N	\N
+100	mig.brown.544	SPLASH!	2021-09-24	1	1	1
+100	mig.brown.544	starringSMU	2021-06-16	1	1	1
+100	mig.brown.544	World Water Day	2022-01-08	1	1	8
+100	mit.diaz.120	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	mit.diaz.120	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	mit.diaz.120	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+100	mit.diaz.120	Hands-on workshops	2022-12-09	1	0	\N
+100	mit.diaz.120	Kidleidoscope 	2022-01-28	1	0	\N
+100	mit.diaz.120	Martial Mayhem	2021-12-25	1	0	\N
+100	mit.diaz.120	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	mit.diaz.120	Road Series rideouts	2021-12-25	1	1	7
+100	mit.diaz.120	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+100	mit.diaz.120	SMU Dragon Battle	2021-01-06	1	0	\N
+100	mit.diaz.120	SMU Host Programme	2021-08-28	1	0	\N
+100	mit.diaz.120	SPLASH!	2021-09-24	1	0	\N
+100	mit.diaz.120	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	mit.diaz.120	Vegan Picnic	2023-01-19	1	0	\N
+100	mit.diaz.120	World Water Day	2022-01-08	1	1	14
+100	mit.haynes.006	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	mit.haynes.006	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	3
+100	mit.haynes.006	Hands-on workshops	2022-12-09	1	0	\N
+100	mit.haynes.006	Helping Hands	2023-02-04	1	0	\N
+100	mit.haynes.006	INSPIRAR	2021-07-25	\N	\N	\N
+100	mit.haynes.006	Martial Mayhem	2021-12-25	1	1	11
+100	mit.haynes.006	Paddle to the Bay	2023-07-26	1	1	14
+100	mit.haynes.006	Pendeza	2022-06-22	1	1	1
+100	mit.haynes.006	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	mit.haynes.006	SMU Dragon Battle	2021-01-06	1	1	9
+100	mit.haynes.006	SPLASH!	2021-09-24	1	0	\N
+100	mit.haynes.006	Vegan Picnic	2023-01-19	1	1	16
+100	mit.haynes.006	World Water Day	2022-01-08	1	0	\N
+100	mon.barber.526	Annual Pedal x Paddle	2022-04-21	1	1	6
+100	mon.barber.526	Hands-on workshops	2022-12-09	\N	\N	\N
+100	mon.barber.526	Helping Hands	2023-02-04	\N	\N	\N
+100	mon.barber.526	Howl-O-Ween	2021-02-21	1	1	7
+100	mon.barber.526	Kidleidoscope 	2022-01-28	1	0	\N
+100	mon.barber.526	Martial Mayhem	2021-12-25	1	0	\N
+100	mon.barber.526	Old But Gold	2023-09-23	1	1	9
+100	mon.barber.526	Paddle to the Bay	2023-07-26	1	1	3
+100	mon.barber.526	Pendeza	2022-06-22	1	1	8
+100	mon.barber.526	Road Series rideouts	2021-12-25	1	1	8
+100	mon.barber.526	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+100	mon.barber.526	SMU Buddy Programme	2023-05-29	1	1	11
+100	mon.barber.526	SMU Dragon Battle	2021-01-06	1	0	\N
+100	mon.barber.526	SPLASH!	2021-09-24	\N	\N	\N
+100	mon.barber.526	starringSMU	2021-06-16	\N	\N	\N
+100	mon.barber.526	Vegan Picnic	2023-01-19	1	0	\N
+100	mon.barber.526	World Water Day	2022-01-08	1	0	\N
+100	mr..ferguson.506	Annual Pedal x Paddle	2022-04-21	1	1	10
+100	mr..ferguson.506	Hands-on workshops	2022-12-09	1	0	\N
+100	mr..ferguson.506	Helping Hands	2023-02-04	\N	\N	\N
+100	mr..ferguson.506	Martial Mayhem	2021-12-25	1	0	\N
+100	mr..ferguson.506	Paddle to the Bay	2023-07-26	1	0	\N
+100	mr..ferguson.506	Pendeza	2022-06-22	1	1	8
+100	mr..ferguson.506	Singapore International Martial Arts Tournament	2021-05-01	1	1	5
+100	mr..ferguson.506	starringSMU	2021-06-16	1	1	3
+100	mr..ferguson.506	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	\N	\N	\N
+100	mr..ferguson.506	World Water Day	2022-01-08	1	0	\N
+100	nic.sherman.130	Annual Nite Bike	2021-08-19	1	0	\N
+100	nic.sherman.130	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	nic.sherman.130	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	5
+100	nic.sherman.130	Hands-on workshops	2022-12-09	1	0	\N
+100	nic.sherman.130	Helping Hands	2023-02-04	1	0	\N
+100	nic.sherman.130	Howl-O-Ween	2021-02-21	1	0	\N
+100	nic.sherman.130	Kidleidoscope 	2022-01-28	1	0	\N
+100	nic.sherman.130	Martial Mayhem	2021-12-25	\N	\N	\N
+100	nic.sherman.130	Old But Gold	2023-09-23	1	1	9
+100	nic.sherman.130	Paddle to the Bay	2023-07-26	1	1	5
+100	nic.sherman.130	Pendeza	2022-06-22	1	0	\N
+100	nic.sherman.130	SMU Buddy Programme	2023-05-29	1	0	\N
+100	nic.sherman.130	SMU Host Programme	2021-08-28	1	1	11
+100	nic.sherman.130	SPLASH!	2021-09-24	0	\N	\N
+100	nic.sherman.130	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	2
+100	nic.sherman.130	Vegan Picnic	2023-01-19	1	0	\N
+100	nic.sherman.130	World Water Day	2022-01-08	1	1	16
+100	phi.wilson.040	Annual Nite Bike	2021-08-19	1	0	\N
+100	phi.wilson.040	Annual Pedal x Paddle	2022-04-21	1	1	6
+100	phi.wilson.040	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+100	phi.wilson.040	Beach clean-up	2021-01-02	1	1	4
+100	phi.wilson.040	Hands-on workshops	2022-12-09	1	1	2
+100	phi.wilson.040	Helping Hands	2023-02-04	1	0	\N
+100	phi.wilson.040	Howl-O-Ween	2021-02-21	1	1	8
+100	phi.wilson.040	INSPIRAR	2021-07-25	1	1	4
+100	phi.wilson.040	Martial Mayhem	2021-12-25	0	\N	\N
+100	phi.wilson.040	Old But Gold	2023-09-23	1	0	\N
+100	phi.wilson.040	Paddle to the Bay	2023-07-26	1	1	5
+100	phi.wilson.040	Paws for a Cause	2021-05-09	1	0	\N
+100	phi.wilson.040	Pendeza	2022-06-22	1	0	\N
+100	phi.wilson.040	Singapore International Martial Arts Tournament	2021-05-01	1	1	16
+100	phi.wilson.040	SMU Buddy Programme	2023-05-29	1	0	\N
+100	phi.wilson.040	SPLASH!	2021-09-24	\N	\N	\N
+100	phi.wilson.040	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	0	\N
+100	phi.wilson.040	Vegan Picnic	2023-01-19	1	0	\N
+100	phi.wilson.040	World Water Day	2022-01-08	1	1	5
+100	reg.hughes.236	Annual Nite Bike	2021-08-19	\N	\N	\N
+100	reg.hughes.236	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	reg.hughes.236	Hands-on workshops	2022-12-09	1	1	14
+100	reg.hughes.236	Helping Hands	2023-02-04	1	0	\N
+100	reg.hughes.236	INSPIRAR	2021-07-25	1	1	8
+100	reg.hughes.236	Kidleidoscope 	2022-01-28	1	0	\N
+100	reg.hughes.236	Martial Mayhem	2021-12-25	1	1	7
+100	reg.hughes.236	Old But Gold	2023-09-23	0	\N	\N
+100	reg.hughes.236	Paddle to the Bay	2023-07-26	\N	\N	\N
+100	reg.hughes.236	Pendeza	2022-06-22	1	1	12
+100	reg.hughes.236	Singapore International Martial Arts Tournament	2021-05-01	1	1	1
+100	reg.hughes.236	SMU Buddy Programme	2023-05-29	1	0	\N
+100	reg.hughes.236	SMU Dragon Battle	2021-01-06	1	1	14
+100	reg.hughes.236	SPLASH!	2021-09-24	\N	\N	\N
+100	reg.hughes.236	starringSMU	2021-06-16	1	0	\N
+100	reg.hughes.236	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	\N	\N	\N
+100	reg.hughes.236	Vegan Picnic	2023-01-19	1	1	16
+100	reg.hughes.236	World Water Day	2022-01-08	1	0	\N
+100	rob.valenzuela.589	Annual Nite Bike	2021-08-19	1	0	\N
+100	rob.valenzuela.589	Hands-on workshops	2022-12-09	\N	\N	\N
+100	rob.valenzuela.589	Helping Hands	2023-02-04	1	1	4
+100	rob.valenzuela.589	Howl-O-Ween	2021-02-21	1	1	1
+100	rob.valenzuela.589	Kidleidoscope 	2022-01-28	1	1	5
+100	rob.valenzuela.589	Martial Mayhem	2021-12-25	1	0	\N
+100	rob.valenzuela.589	Old But Gold	2023-09-23	1	0	\N
+100	rob.valenzuela.589	Paddle to the Bay	2023-07-26	0	\N	\N
+100	rob.valenzuela.589	Road Series rideouts	2021-12-25	1	1	10
+100	rob.valenzuela.589	SMU Host Programme	2021-08-28	1	0	\N
+100	rob.valenzuela.589	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	1	1	11
+100	san.wallace.423	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	san.wallace.423	Hands-on workshops	2022-12-09	1	0	\N
+100	san.wallace.423	Helping Hands	2023-02-04	1	1	5
+100	san.wallace.423	INSPIRAR	2021-07-25	1	0	\N
+100	san.wallace.423	Old But Gold	2023-09-23	\N	\N	\N
+100	san.wallace.423	Paddle to the Bay	2023-07-26	1	0	\N
+100	san.wallace.423	Pendeza	2022-06-22	1	0	\N
+100	san.wallace.423	Road Series rideouts	2021-12-25	1	0	\N
+100	san.wallace.423	Singapore International Martial Arts Tournament	2021-05-01	1	1	10
+100	san.wallace.423	SMU Buddy Programme	2023-05-29	1	1	13
+100	san.wallace.423	SMU Host Programme	2021-08-28	1	1	10
+100	san.wallace.423	World Water Day	2022-01-08	1	1	6
+100	vic.weaver.575	Annual Nite Bike	2021-08-19	1	0	\N
+100	vic.weaver.575	Annual Pedal x Paddle	2022-04-21	1	0	\N
+100	vic.weaver.575	Hands-on workshops	2022-12-09	\N	\N	\N
+100	vic.weaver.575	Helping Hands	2023-02-04	1	0	\N
+100	vic.weaver.575	INSPIRAR	2021-07-25	1	0	\N
+100	vic.weaver.575	Kidleidoscope 	2022-01-28	1	1	10
+100	vic.weaver.575	Old But Gold	2023-09-23	1	0	\N
+100	vic.weaver.575	Paddle to the Bay	2023-07-26	1	0	\N
+100	vic.weaver.575	Pendeza	2022-06-22	1	0	\N
+100	vic.weaver.575	Road Series rideouts	2021-12-25	1	1	15
+100	vic.weaver.575	SPLASH!	2021-09-24	1	1	4
+100	vic.weaver.575	Vegan Picnic	2023-01-19	1	1	7
+100	vic.weaver.575	World Water Day	2022-01-08	1	1	8
+100	wya.martinez.388	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+100	wya.martinez.388	Hands-on workshops	2022-12-09	\N	\N	\N
+100	wya.martinez.388	Kidleidoscope 	2022-01-28	1	1	7
+100	wya.martinez.388	Martial Mayhem	2021-12-25	0	\N	\N
+100	wya.martinez.388	Old But Gold	2023-09-23	\N	\N	\N
+100	wya.martinez.388	Paddle to the Bay	2023-07-26	1	1	6
+100	wya.martinez.388	Road Series rideouts	2021-12-25	1	1	10
+100	wya.martinez.388	SMU Buddy Programme	2023-05-29	\N	\N	\N
+100	wya.martinez.388	SMU Host Programme	2021-08-28	1	0	\N
+100	wya.martinez.388	World Water Day	2022-01-08	\N	\N	\N
+106	ale.johnson.509	Singapore International Martial Arts Tournament	2021-05-01	1	1	15
+106	amy.floyd.618	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	amy.garcia.871	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	amy.henderson.224	Martial Mayhem	2021-12-25	1	0	\N
+106	amy.henderson.224	Singapore International Martial Arts Tournament	2021-05-01	1	1	4
+106	ant.dennis.856	Martial Mayhem	2021-12-25	\N	\N	\N
+106	ant.dennis.856	Singapore International Martial Arts Tournament	2021-05-01	1	1	1
+106	ash.robinson.400	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	ben.turner.392	Martial Mayhem	2021-12-25	1	1	5
+106	chr.rose.465	Martial Mayhem	2021-12-25	1	0	\N
+106	cor.jr..320	Martial Mayhem	2021-12-25	1	0	\N
+106	dan.hayes.093	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	dav.lloyd.779	Martial Mayhem	2021-12-25	1	1	1
+106	daw.davis.370	Martial Mayhem	2021-12-25	1	1	14
+106	daw.davis.370	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	dr..espinoza.407	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	dyl.romero.144	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	ger.riley.934	Martial Mayhem	2021-12-25	1	0	\N
+106	ger.riley.934	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	jam.evans.413	Martial Mayhem	2021-12-25	1	0	\N
+106	jam.johnson.153	Martial Mayhem	2021-12-25	1	1	3
+106	jam.terrell.239	Martial Mayhem	2021-12-25	1	0	\N
+106	jas.keith.832	Martial Mayhem	2021-12-25	\N	\N	\N
+106	jas.morton.077	Martial Mayhem	2021-12-25	1	1	1
+106	jas.morton.077	Singapore International Martial Arts Tournament	2021-05-01	1	1	6
+106	jen.campbell.340	Singapore International Martial Arts Tournament	2021-05-01	1	1	16
+106	jen.huerta.328	Martial Mayhem	2021-12-25	1	0	\N
+106	jer.rollins.740	Martial Mayhem	2021-12-25	1	1	6
+106	jer.rollins.740	Singapore International Martial Arts Tournament	2021-05-01	1	1	16
+106	joh.coleman.076	Martial Mayhem	2021-12-25	1	1	7
+106	joh.coleman.076	Singapore International Martial Arts Tournament	2021-05-01	1	1	8
+106	jos.garcia.375	Martial Mayhem	2021-12-25	1	0	\N
+106	jos.garcia.375	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	kar.carroll.734	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	lar.banks.335	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	log.edwards.500	Martial Mayhem	2021-12-25	1	0	\N
+106	mar.gonzales.971	Martial Mayhem	2021-12-25	1	0	\N
+106	mar.gonzales.971	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	mic.case.027	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	mic.reynolds.319	Singapore International Martial Arts Tournament	2021-05-01	1	1	4
+106	mic.woods.516	Martial Mayhem	2021-12-25	1	0	\N
+106	mig.brown.544	Martial Mayhem	2021-12-25	1	0	\N
+106	mig.brown.544	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	mit.diaz.120	Martial Mayhem	2021-12-25	1	0	\N
+106	mit.diaz.120	Singapore International Martial Arts Tournament	2021-05-01	\N	\N	\N
+106	mit.haynes.006	Martial Mayhem	2021-12-25	1	1	11
+106	mit.haynes.006	Singapore International Martial Arts Tournament	2021-05-01	1	0	\N
+106	mr..ferguson.506	Singapore International Martial Arts Tournament	2021-05-01	1	1	5
+106	nic.sherman.130	Martial Mayhem	2021-12-25	\N	\N	\N
+106	phi.wilson.040	Martial Mayhem	2021-12-25	0	\N	\N
+106	reg.hughes.236	Martial Mayhem	2021-12-25	1	1	7
+106	reg.hughes.236	Singapore International Martial Arts Tournament	2021-05-01	1	1	1
+106	san.wallace.423	Singapore International Martial Arts Tournament	2021-05-01	1	1	10
+106	wya.martinez.388	Martial Mayhem	2021-12-25	0	\N	\N
+107	amy.henderson.224	SMU Dragon Battle	2021-01-06	1	1	3
+107	amy.henderson.224	SPLASH!	2021-09-24	1	1	12
+107	cor.jr..320	SMU Dragon Battle	2021-01-06	1	1	4
+107	cry.davis.502	SMU Dragon Battle	2021-01-06	1	1	12
+107	cry.davis.502	SPLASH!	2021-09-24	1	1	6
+107	eli.dawson.093	SMU Dragon Battle	2021-01-06	1	1	7
+107	jam.johnson.153	SMU Dragon Battle	2021-01-06	0	\N	\N
+107	jam.johnson.153	SPLASH!	2021-09-24	1	0	\N
+107	jam.terrell.239	SMU Dragon Battle	2021-01-06	1	0	\N
+107	jas.morton.077	SMU Dragon Battle	2021-01-06	1	1	11
+107	jen.campbell.340	SPLASH!	2021-09-24	1	1	14
+107	jen.huerta.328	SMU Dragon Battle	2021-01-06	1	1	8
+107	jen.huerta.328	SPLASH!	2021-09-24	1	0	\N
+107	jer.rollins.740	SMU Dragon Battle	2021-01-06	1	1	3
+107	jer.rollins.740	SPLASH!	2021-09-24	1	1	11
+107	jil.payne.892	SMU Dragon Battle	2021-01-06	1	0	\N
+107	jil.payne.892	SPLASH!	2021-09-24	1	0	\N
+107	lar.banks.335	SMU Dragon Battle	2021-01-06	1	1	12
+107	lar.banks.335	SPLASH!	2021-09-24	1	1	2
+107	mar.gonzales.971	SMU Dragon Battle	2021-01-06	1	1	1
+107	mic.thompson.255	SMU Dragon Battle	2021-01-06	1	0	\N
+107	mig.brown.544	SMU Dragon Battle	2021-01-06	\N	\N	\N
+107	mig.brown.544	SPLASH!	2021-09-24	1	1	1
+107	mit.diaz.120	SMU Dragon Battle	2021-01-06	1	0	\N
+107	mit.diaz.120	SPLASH!	2021-09-24	1	0	\N
+107	mit.haynes.006	SMU Dragon Battle	2021-01-06	1	1	9
+107	mit.haynes.006	SPLASH!	2021-09-24	1	0	\N
+107	mon.barber.526	SMU Dragon Battle	2021-01-06	1	0	\N
+107	mon.barber.526	SPLASH!	2021-09-24	\N	\N	\N
+107	reg.hughes.236	SMU Dragon Battle	2021-01-06	1	1	14
+107	reg.hughes.236	SPLASH!	2021-09-24	\N	\N	\N
+107	vic.weaver.575	SPLASH!	2021-09-24	1	1	4
+108	daw.davis.370	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	eli.dawson.093	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	\N	\N	\N
+108	jam.johnson.153	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	\N	\N	\N
+108	jam.terrell.239	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	jas.morton.077	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	\N	\N	\N
+108	jen.campbell.340	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	jen.huerta.328	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	jer.rollins.740	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	jil.payne.892	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	11
+108	mar.gonzales.971	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	15
+108	mel.acevedo.523	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	mic.thompson.255	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	\N	\N	\N
+108	mig.brown.544	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	mit.diaz.120	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+108	mit.haynes.006	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	3
+108	nic.sherman.130	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	1	5
+108	phi.wilson.040	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	1	0	\N
+111	ale.johnson.509	Bandaging Workshop	2023-03-06	1	1	5
+111	amy.floyd.618	Bandaging Workshop	2023-03-06	1	1	2
+111	amy.floyd.618	Biannual Blood Donation	2021-07-19	\N	\N	\N
+111	amy.garcia.871	Bandaging Workshop	2023-03-06	\N	\N	\N
+111	amy.garcia.871	Biannual Blood Donation	2021-07-19	1	1	16
+111	ang.hopkins.264	Bandaging Workshop	2023-03-06	1	0	\N
+111	ant.fleming.613	Bandaging Workshop	2023-03-06	1	0	\N
+111	ant.fleming.613	Biannual Blood Donation	2021-07-19	1	1	4
+111	ash.robinson.400	Bandaging Workshop	2023-03-06	1	1	7
+111	ash.robinson.400	Biannual Blood Donation	2021-07-19	\N	\N	\N
+111	cas.duran.250	Bandaging Workshop	2023-03-06	1	1	10
+111	cas.duran.250	Biannual Blood Donation	2021-07-19	1	0	\N
+111	cor.jr..320	Bandaging Workshop	2023-03-06	1	0	\N
+111	cou.brooks.739	Biannual Blood Donation	2021-07-19	1	0	\N
+111	cry.davis.502	Biannual Blood Donation	2021-07-19	1	0	\N
+111	dan.hayes.093	Biannual Blood Donation	2021-07-19	1	1	5
+111	dav.lloyd.779	Bandaging Workshop	2023-03-06	1	0	\N
+111	dav.lloyd.779	Biannual Blood Donation	2021-07-19	1	1	3
+111	dav.ryan.302	Bandaging Workshop	2023-03-06	1	1	11
+111	dav.ryan.302	Biannual Blood Donation	2021-07-19	\N	\N	\N
+111	dr..espinoza.407	Biannual Blood Donation	2021-07-19	\N	\N	\N
+111	eri.lopez.817	Bandaging Workshop	2023-03-06	1	0	\N
+111	eri.lopez.817	Biannual Blood Donation	2021-07-19	1	0	\N
+111	jam.evans.413	Bandaging Workshop	2023-03-06	1	0	\N
+111	jam.evans.413	Biannual Blood Donation	2021-07-19	1	1	14
+111	jam.johnson.153	Bandaging Workshop	2023-03-06	1	0	\N
+111	jam.johnson.153	Biannual Blood Donation	2021-07-19	1	1	5
+111	jam.terrell.239	Bandaging Workshop	2023-03-06	1	0	\N
+111	jam.terrell.239	Biannual Blood Donation	2021-07-19	1	0	\N
+111	jas.keith.832	Bandaging Workshop	2023-03-06	1	1	6
+111	jas.morton.077	Bandaging Workshop	2023-03-06	\N	\N	\N
+111	jas.morton.077	Biannual Blood Donation	2021-07-19	1	0	\N
+111	jen.campbell.340	Bandaging Workshop	2023-03-06	1	1	8
+111	jer.rollins.740	Bandaging Workshop	2023-03-06	1	1	15
+111	jil.payne.892	Bandaging Workshop	2023-03-06	\N	\N	\N
+111	joh.coleman.076	Biannual Blood Donation	2021-07-19	1	1	14
+111	jos.garcia.375	Bandaging Workshop	2023-03-06	\N	\N	\N
+111	kar.carroll.734	Bandaging Workshop	2023-03-06	\N	\N	\N
+111	ker.mullen.690	Biannual Blood Donation	2021-07-19	\N	\N	\N
+111	kri.edwards.715	Biannual Blood Donation	2021-07-19	1	1	15
+111	lar.banks.335	Biannual Blood Donation	2021-07-19	1	0	\N
+111	log.edwards.500	Bandaging Workshop	2023-03-06	1	0	\N
+111	log.edwards.500	Biannual Blood Donation	2021-07-19	1	0	\N
+111	lyn.tate.654	Bandaging Workshop	2023-03-06	1	0	\N
+111	mar.gonzales.971	Bandaging Workshop	2023-03-06	1	1	8
+111	mel.acevedo.523	Bandaging Workshop	2023-03-06	1	0	\N
+111	mel.acevedo.523	Biannual Blood Donation	2021-07-19	1	0	\N
+111	mic.case.027	Bandaging Workshop	2023-03-06	1	0	\N
+111	mic.case.027	Biannual Blood Donation	2021-07-19	1	1	16
+111	mic.woods.516	Bandaging Workshop	2023-03-06	1	1	5
+111	mic.woods.516	Biannual Blood Donation	2021-07-19	1	1	10
+111	mig.brown.544	Bandaging Workshop	2023-03-06	1	0	\N
+111	mit.haynes.006	Bandaging Workshop	2023-03-06	1	0	\N
+111	mit.haynes.006	Biannual Blood Donation	2021-07-19	1	1	10
+111	mon.barber.526	Biannual Blood Donation	2021-07-19	1	1	6
+111	mr..ferguson.506	Bandaging Workshop	2023-03-06	1	0	\N
+111	nic.horn.309	Bandaging Workshop	2023-03-06	1	1	6
+111	nic.horn.309	Biannual Blood Donation	2021-07-19	1	0	\N
+111	nic.sherman.130	Bandaging Workshop	2023-03-06	0	\N	\N
+111	phi.wilson.040	Bandaging Workshop	2023-03-06	1	0	\N
+111	phi.wilson.040	Biannual Blood Donation	2021-07-19	\N	\N	\N
+111	reg.hughes.236	Bandaging Workshop	2023-03-06	1	1	6
+111	reg.hughes.236	Biannual Blood Donation	2021-07-19	1	0	\N
+111	san.wallace.423	Bandaging Workshop	2023-03-06	1	0	\N
+111	san.wallace.423	Biannual Blood Donation	2021-07-19	1	1	10
+111	vic.weaver.575	Bandaging Workshop	2023-03-06	1	0	\N
+111	vic.weaver.575	Biannual Blood Donation	2021-07-19	1	1	12
+111	wya.martinez.388	Bandaging Workshop	2023-03-06	1	0	\N
+111	wya.martinez.388	Biannual Blood Donation	2021-07-19	1	1	10
+112	ale.johnson.509	Helping Hands	2023-02-04	1	0	\N
+112	ale.johnson.509	Howl-O-Ween	2021-02-21	1	1	9
+112	ale.johnson.509	Old But Gold	2023-09-23	1	0	\N
+112	amy.floyd.618	Helping Hands	2023-02-04	1	1	16
+112	amy.floyd.618	Howl-O-Ween	2021-02-21	1	1	2
+112	amy.floyd.618	Old But Gold	2023-09-23	1	0	\N
+112	amy.garcia.871	Howl-O-Ween	2021-02-21	1	1	7
+112	amy.garcia.871	Old But Gold	2023-09-23	1	0	\N
+112	amy.henderson.224	Helping Hands	2023-02-04	1	0	\N
+112	amy.henderson.224	Howl-O-Ween	2021-02-21	\N	\N	\N
+112	amy.henderson.224	Old But Gold	2023-09-23	1	1	13
+112	amy.henderson.224	Paws for a Cause	2021-05-09	1	0	\N
+112	ang.hopkins.264	Helping Hands	2023-02-04	1	1	12
+112	ang.hopkins.264	Old But Gold	2023-09-23	1	0	\N
+112	ant.dennis.856	Helping Hands	2023-02-04	1	0	\N
+112	ant.dennis.856	Howl-O-Ween	2021-02-21	1	0	\N
+112	ant.dennis.856	Old But Gold	2023-09-23	1	1	16
+112	ash.robinson.400	Helping Hands	2023-02-04	1	1	9
+112	ash.robinson.400	Howl-O-Ween	2021-02-21	1	1	6
+112	ash.robinson.400	Old But Gold	2023-09-23	1	0	\N
+112	ben.turner.392	Helping Hands	2023-02-04	1	1	13
+112	ben.turner.392	Howl-O-Ween	2021-02-21	1	0	\N
+112	cas.duran.250	Helping Hands	2023-02-04	1	1	7
+112	cas.duran.250	Old But Gold	2023-09-23	1	1	5
+112	chr.rose.465	Helping Hands	2023-02-04	1	0	\N
+112	chr.rose.465	Howl-O-Ween	2021-02-21	1	1	14
+112	cor.jr..320	Helping Hands	2023-02-04	1	0	\N
+112	cor.jr..320	Old But Gold	2023-09-23	1	0	\N
+112	cou.brooks.739	Helping Hands	2023-02-04	\N	\N	\N
+112	cou.brooks.739	Old But Gold	2023-09-23	1	0	\N
+112	cry.davis.502	Helping Hands	2023-02-04	1	1	4
+112	cry.davis.502	Old But Gold	2023-09-23	1	0	\N
+112	dan.hayes.093	Howl-O-Ween	2021-02-21	1	0	\N
+112	dan.hayes.093	Old But Gold	2023-09-23	1	1	5
+112	dav.lloyd.779	Howl-O-Ween	2021-02-21	1	0	\N
+112	dav.lloyd.779	Old But Gold	2023-09-23	1	0	\N
+112	dav.ryan.302	Helping Hands	2023-02-04	\N	\N	\N
+112	dav.ryan.302	Howl-O-Ween	2021-02-21	1	1	8
+112	daw.davis.370	Helping Hands	2023-02-04	1	0	\N
+112	daw.davis.370	Howl-O-Ween	2021-02-21	\N	\N	\N
+112	daw.davis.370	Old But Gold	2023-09-23	1	0	\N
+112	daw.davis.370	Paws for a Cause	2021-05-09	1	0	\N
+112	dr..espinoza.407	Helping Hands	2023-02-04	1	1	11
+112	dr..espinoza.407	Howl-O-Ween	2021-02-21	1	0	\N
+112	dr..espinoza.407	Old But Gold	2023-09-23	1	0	\N
+112	dyl.romero.144	Helping Hands	2023-02-04	1	1	9
+112	dyl.romero.144	Howl-O-Ween	2021-02-21	1	1	5
+112	dyl.romero.144	Old But Gold	2023-09-23	1	0	\N
+112	eli.dawson.093	Helping Hands	2023-02-04	1	1	2
+112	eli.dawson.093	Howl-O-Ween	2021-02-21	1	1	5
+112	eli.dawson.093	Old But Gold	2023-09-23	0	\N	\N
+112	ger.riley.934	Helping Hands	2023-02-04	1	1	9
+112	ger.riley.934	Howl-O-Ween	2021-02-21	1	0	\N
+112	ger.riley.934	Old But Gold	2023-09-23	\N	\N	\N
+112	hea.baldwin.164	Helping Hands	2023-02-04	1	0	\N
+112	hea.baldwin.164	Old But Gold	2023-09-23	\N	\N	\N
+112	jam.evans.413	Helping Hands	2023-02-04	0	\N	\N
+112	jam.evans.413	Howl-O-Ween	2021-02-21	1	0	\N
+112	jam.evans.413	Old But Gold	2023-09-23	1	0	\N
+112	jam.johnson.153	Helping Hands	2023-02-04	1	1	15
+112	jam.johnson.153	Howl-O-Ween	2021-02-21	0	\N	\N
+112	jam.terrell.239	Helping Hands	2023-02-04	1	1	13
+112	jam.terrell.239	Old But Gold	2023-09-23	1	0	\N
+112	jas.keith.832	Helping Hands	2023-02-04	1	1	16
+112	jas.keith.832	Howl-O-Ween	2021-02-21	1	0	\N
+112	jas.morton.077	Howl-O-Ween	2021-02-21	1	1	3
+112	jas.morton.077	Old But Gold	2023-09-23	1	1	16
+112	jas.morton.077	Paws for a Cause	2021-05-09	1	1	10
+112	jen.campbell.340	Helping Hands	2023-02-04	1	1	5
+112	jen.huerta.328	Howl-O-Ween	2021-02-21	0	\N	\N
+112	jen.huerta.328	Old But Gold	2023-09-23	1	1	1
+112	jer.rollins.740	Helping Hands	2023-02-04	0	\N	\N
+112	jer.rollins.740	Old But Gold	2023-09-23	1	1	4
+112	jer.rollins.740	Paws for a Cause	2021-05-09	\N	\N	\N
+112	jil.payne.892	Howl-O-Ween	2021-02-21	\N	\N	\N
+112	jil.payne.892	Old But Gold	2023-09-23	1	1	14
+112	joh.coleman.076	Helping Hands	2023-02-04	1	1	10
+112	joh.coleman.076	Howl-O-Ween	2021-02-21	1	0	\N
+112	joh.coleman.076	Old But Gold	2023-09-23	1	0	\N
+112	jos.garcia.375	Old But Gold	2023-09-23	1	0	\N
+112	kar.carroll.734	Helping Hands	2023-02-04	1	0	\N
+112	kar.carroll.734	Howl-O-Ween	2021-02-21	\N	\N	\N
+112	kar.carroll.734	Old But Gold	2023-09-23	1	0	\N
+112	ker.mullen.690	Helping Hands	2023-02-04	\N	\N	\N
+112	ker.mullen.690	Old But Gold	2023-09-23	1	0	\N
+112	kri.edwards.715	Helping Hands	2023-02-04	\N	\N	\N
+112	kri.edwards.715	Howl-O-Ween	2021-02-21	1	1	6
+112	kri.edwards.715	Old But Gold	2023-09-23	\N	\N	\N
+112	lar.banks.335	Helping Hands	2023-02-04	1	1	3
+112	lar.banks.335	Old But Gold	2023-09-23	1	1	12
+112	lar.banks.335	Paws for a Cause	2021-05-09	0	\N	\N
+112	log.edwards.500	Helping Hands	2023-02-04	1	1	12
+112	log.edwards.500	Howl-O-Ween	2021-02-21	1	0	\N
+112	log.edwards.500	Paws for a Cause	2021-05-09	1	1	14
+112	lyn.tate.654	Helping Hands	2023-02-04	1	0	\N
+112	lyn.tate.654	Old But Gold	2023-09-23	1	1	5
+112	mar.gonzales.971	Helping Hands	2023-02-04	1	0	\N
+112	mar.gonzales.971	Old But Gold	2023-09-23	1	1	3
+112	mel.acevedo.523	Helping Hands	2023-02-04	1	0	\N
+112	mel.acevedo.523	Howl-O-Ween	2021-02-21	1	1	6
+112	mel.acevedo.523	Old But Gold	2023-09-23	1	0	\N
+112	mel.acevedo.523	Paws for a Cause	2021-05-09	1	0	\N
+112	mic.case.027	Howl-O-Ween	2021-02-21	\N	\N	\N
+112	mic.reynolds.319	Helping Hands	2023-02-04	\N	\N	\N
+112	mic.reynolds.319	Howl-O-Ween	2021-02-21	1	0	\N
+112	mic.reynolds.319	Old But Gold	2023-09-23	1	0	\N
+112	mic.thompson.255	Helping Hands	2023-02-04	1	1	16
+112	mic.thompson.255	Howl-O-Ween	2021-02-21	1	1	5
+112	mic.thompson.255	Old But Gold	2023-09-23	1	0	\N
+112	mic.thompson.255	Paws for a Cause	2021-05-09	1	1	15
+112	mic.woods.516	Helping Hands	2023-02-04	\N	\N	\N
+112	mic.woods.516	Howl-O-Ween	2021-02-21	1	1	9
+112	mic.woods.516	Old But Gold	2023-09-23	1	0	\N
+112	mig.brown.544	Helping Hands	2023-02-04	1	1	3
+112	mig.brown.544	Howl-O-Ween	2021-02-21	1	1	15
+112	mig.brown.544	Paws for a Cause	2021-05-09	1	1	8
+112	mit.diaz.120	Howl-O-Ween	2021-02-21	1	1	5
+112	mit.haynes.006	Helping Hands	2023-02-04	1	0	\N
+112	mit.haynes.006	Old But Gold	2023-09-23	1	1	10
+112	mr..ferguson.506	Helping Hands	2023-02-04	\N	\N	\N
+112	mr..ferguson.506	Old But Gold	2023-09-23	\N	\N	\N
+112	nic.horn.309	Helping Hands	2023-02-04	1	1	12
+112	nic.horn.309	Howl-O-Ween	2021-02-21	1	0	\N
+112	nic.sherman.130	Helping Hands	2023-02-04	1	0	\N
+112	nic.sherman.130	Howl-O-Ween	2021-02-21	1	0	\N
+112	nic.sherman.130	Old But Gold	2023-09-23	1	1	9
+112	phi.wilson.040	Helping Hands	2023-02-04	1	0	\N
+112	phi.wilson.040	Old But Gold	2023-09-23	1	0	\N
+112	reg.hughes.236	Helping Hands	2023-02-04	1	0	\N
+112	reg.hughes.236	Howl-O-Ween	2021-02-21	1	1	15
+112	reg.hughes.236	Old But Gold	2023-09-23	0	\N	\N
+112	rob.valenzuela.589	Helping Hands	2023-02-04	1	1	4
+112	rob.valenzuela.589	Howl-O-Ween	2021-02-21	1	1	1
+112	rob.valenzuela.589	Old But Gold	2023-09-23	1	0	\N
+112	san.wallace.423	Helping Hands	2023-02-04	1	1	5
+112	san.wallace.423	Howl-O-Ween	2021-02-21	0	\N	\N
+112	san.wallace.423	Old But Gold	2023-09-23	\N	\N	\N
+112	vic.weaver.575	Helping Hands	2023-02-04	1	0	\N
+112	vic.weaver.575	Old But Gold	2023-09-23	1	0	\N
+112	vic.weaver.575	Paws for a Cause	2021-05-09	\N	\N	\N
+112	wya.martinez.388	Helping Hands	2023-02-04	0	\N	\N
+112	wya.martinez.388	Howl-O-Ween	2021-02-21	1	0	\N
+112	wya.martinez.388	Old But Gold	2023-09-23	\N	\N	\N
+116	amy.floyd.618	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+116	ash.robinson.400	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	ben.turner.392	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	chr.rose.465	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	cou.brooks.739	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+116	eri.lopez.817	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	hea.baldwin.164	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	jam.evans.413	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	jas.keith.832	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	2
+116	jen.huerta.328	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	8
+116	joh.coleman.076	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	8
+116	jos.garcia.375	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	0	\N	\N
+116	log.edwards.500	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+116	mic.woods.516	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	4
+116	mit.diaz.120	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+116	mon.barber.526	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	7
+116	mr..ferguson.506	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	15
+116	nic.sherman.130	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	16
+116	vic.weaver.575	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+117	ale.johnson.509	Project Illuminate	2021-02-15	1	0	\N
+117	amy.floyd.618	Project Enrich	2021-02-18	1	0	\N
+117	amy.floyd.618	Project Illuminate	2021-02-15	0	\N	\N
+117	ang.hopkins.264	Project Enrich	2021-02-18	1	1	5
+117	ant.fleming.613	Project Illuminate	2021-02-15	1	0	\N
+117	ash.robinson.400	Project Illuminate	2021-02-15	1	1	11
+117	ben.turner.392	Project Enrich	2021-02-18	1	1	5
+117	chr.rose.465	Project Illuminate	2021-02-15	1	1	16
+117	cor.jr..320	Project Ai	2022-08-09	1	0	\N
+117	cor.jr..320	Project Enrich	2021-02-18	1	1	7
+117	cor.jr..320	YOLO 2022	2022-04-03	1	0	\N
+117	cou.brooks.739	Project Enrich	2021-02-18	1	1	11
+117	dav.lloyd.779	Project Enrich	2021-02-18	0	\N	\N
+117	dav.lloyd.779	Project Illuminate	2021-02-15	1	1	12
+117	dav.ryan.302	Project Illuminate	2021-02-15	\N	\N	\N
+117	daw.davis.370	Project Enrich	2021-02-18	1	0	\N
+117	daw.davis.370	YOLO 2022	2022-04-03	1	1	4
+117	eli.dawson.093	Project Enrich	2021-02-18	0	\N	\N
+117	eli.dawson.093	Project Illuminate	2021-02-15	1	0	\N
+117	eri.lopez.817	Project Illuminate	2021-02-15	1	1	12
+117	hea.baldwin.164	Project Illuminate	2021-02-15	1	1	6
+117	jam.evans.413	Project Enrich	2021-02-18	\N	\N	\N
+117	jam.evans.413	Project Illuminate	2021-02-15	1	0	\N
+117	jam.johnson.153	Project Illuminate	2021-02-15	1	1	4
+117	jam.terrell.239	Project Enrich	2021-02-18	1	0	\N
+117	jas.keith.832	Project Illuminate	2021-02-15	\N	\N	\N
+117	jas.morton.077	Project Ai	2022-08-09	1	1	13
+117	jas.morton.077	Project Enrich	2021-02-18	1	1	8
+117	jen.campbell.340	Project Enrich	2021-02-18	1	1	2
+117	jen.huerta.328	Project Illuminate	2021-02-15	1	0	\N
+117	jer.rollins.740	Project Enrich	2021-02-18	1	0	\N
+117	jer.rollins.740	Project Illuminate	2021-02-15	1	0	\N
+117	jil.payne.892	Project Enrich	2021-02-18	\N	\N	\N
+117	jil.payne.892	Project Illuminate	2021-02-15	1	0	\N
+117	joh.coleman.076	Project Enrich	2021-02-18	0	\N	\N
+117	joh.coleman.076	Project Illuminate	2021-02-15	1	0	\N
+117	jos.garcia.375	Project Illuminate	2021-02-15	1	1	6
+117	kar.carroll.734	Project Illuminate	2021-02-15	1	0	\N
+117	kri.edwards.715	Project Illuminate	2021-02-15	1	0	\N
+117	lar.banks.335	Project Ai	2022-08-09	1	0	\N
+117	lar.banks.335	Project Enrich	2021-02-18	1	1	1
+117	lar.banks.335	Project Illuminate	2021-02-15	1	0	\N
+117	lar.banks.335	YOLO 2022	2022-04-03	1	1	8
+117	log.edwards.500	Project Ai	2022-08-09	1	0	\N
+117	log.edwards.500	Project Enrich	2021-02-18	1	0	\N
+117	log.edwards.500	YOLO 2022	2022-04-03	1	1	16
+117	lyn.tate.654	Project Illuminate	2021-02-15	1	1	11
+117	mar.gonzales.971	Project Illuminate	2021-02-15	\N	\N	\N
+117	mic.reynolds.319	Project Enrich	2021-02-18	1	0	\N
+117	mic.reynolds.319	Project Illuminate	2021-02-15	1	1	2
+117	mic.thompson.255	Project Ai	2022-08-09	1	1	15
+117	mic.thompson.255	Project Enrich	2021-02-18	1	1	9
+117	mic.woods.516	Project Enrich	2021-02-18	1	1	16
+117	mig.brown.544	Project Ai	2022-08-09	1	1	12
+117	mig.brown.544	YOLO 2022	2022-04-03	1	0	\N
+117	mit.haynes.006	Project Enrich	2021-02-18	1	1	14
+117	vic.weaver.575	Project Ai	2022-08-09	1	0	\N
+117	wya.martinez.388	Project Enrich	2021-02-18	1	0	\N
+117	wya.martinez.388	Project Illuminate	2021-02-15	1	0	\N
+118	ale.johnson.509	Hands-on workshops	2022-12-09	\N	\N	\N
+118	ale.johnson.509	World Water Day	2022-01-08	1	1	9
+118	amy.floyd.618	Hands-on workshops	2022-12-09	1	0	\N
+118	amy.garcia.871	World Water Day	2022-01-08	\N	\N	\N
+118	amy.henderson.224	Beach clean-up	2021-01-02	1	0	\N
+118	amy.henderson.224	Hands-on workshops	2022-12-09	1	0	\N
+118	amy.henderson.224	World Water Day	2022-01-08	1	1	7
+118	ang.hopkins.264	Hands-on workshops	2022-12-09	1	1	14
+118	ant.dennis.856	Hands-on workshops	2022-12-09	1	1	6
+118	ant.dennis.856	World Water Day	2022-01-08	1	0	\N
+118	ant.fleming.613	World Water Day	2022-01-08	1	1	7
+118	ben.turner.392	Hands-on workshops	2022-12-09	\N	\N	\N
+118	ben.turner.392	World Water Day	2022-01-08	\N	\N	\N
+118	chr.rose.465	Hands-on workshops	2022-12-09	\N	\N	\N
+118	chr.rose.465	World Water Day	2022-01-08	1	0	\N
+118	cor.jr..320	Beach clean-up	2021-01-02	1	1	8
+118	cor.jr..320	Hands-on workshops	2022-12-09	1	0	\N
+118	cor.jr..320	World Water Day	2022-01-08	1	1	11
+118	cry.davis.502	Hands-on workshops	2022-12-09	1	1	10
+118	cry.davis.502	World Water Day	2022-01-08	1	0	\N
+118	dan.hayes.093	Hands-on workshops	2022-12-09	\N	\N	\N
+118	dav.lloyd.779	Hands-on workshops	2022-12-09	0	\N	\N
+118	dav.lloyd.779	World Water Day	2022-01-08	1	1	16
+118	dav.ryan.302	Hands-on workshops	2022-12-09	1	0	\N
+118	dr..espinoza.407	Hands-on workshops	2022-12-09	1	0	\N
+118	dyl.romero.144	World Water Day	2022-01-08	1	0	\N
+118	eli.dawson.093	Hands-on workshops	2022-12-09	1	0	\N
+118	eli.dawson.093	Vegan Picnic	2023-01-19	1	1	12
+118	eli.dawson.093	World Water Day	2022-01-08	1	0	\N
+118	ger.riley.934	Hands-on workshops	2022-12-09	1	0	\N
+118	hea.baldwin.164	Hands-on workshops	2022-12-09	0	\N	\N
+118	hea.baldwin.164	World Water Day	2022-01-08	1	1	8
+118	jam.evans.413	World Water Day	2022-01-08	1	0	\N
+118	jam.johnson.153	Hands-on workshops	2022-12-09	1	1	8
+118	jam.johnson.153	World Water Day	2022-01-08	\N	\N	\N
+118	jam.terrell.239	Vegan Picnic	2023-01-19	1	0	\N
+118	jam.terrell.239	World Water Day	2022-01-08	\N	\N	\N
+118	jas.keith.832	Hands-on workshops	2022-12-09	\N	\N	\N
+118	jas.keith.832	World Water Day	2022-01-08	\N	\N	\N
+118	jas.morton.077	World Water Day	2022-01-08	1	0	\N
+118	jen.campbell.340	Hands-on workshops	2022-12-09	0	\N	\N
+118	jen.campbell.340	World Water Day	2022-01-08	1	1	14
+118	jen.huerta.328	Hands-on workshops	2022-12-09	1	1	10
+118	jen.huerta.328	World Water Day	2022-01-08	1	1	7
+118	jer.rollins.740	Hands-on workshops	2022-12-09	1	1	12
+118	jer.rollins.740	World Water Day	2022-01-08	1	0	\N
+118	jil.payne.892	World Water Day	2022-01-08	1	0	\N
+118	joh.coleman.076	World Water Day	2022-01-08	1	1	10
+118	jos.garcia.375	Hands-on workshops	2022-12-09	1	0	\N
+118	kar.carroll.734	Hands-on workshops	2022-12-09	1	1	1
+118	kar.carroll.734	World Water Day	2022-01-08	1	0	\N
+118	ker.mullen.690	World Water Day	2022-01-08	\N	\N	\N
+118	kri.edwards.715	Hands-on workshops	2022-12-09	1	1	10
+118	lar.banks.335	Beach clean-up	2021-01-02	1	0	\N
+118	lar.banks.335	Hands-on workshops	2022-12-09	1	1	8
+118	lar.banks.335	Vegan Picnic	2023-01-19	1	0	\N
+118	log.edwards.500	Hands-on workshops	2022-12-09	1	0	\N
+118	mar.gonzales.971	Hands-on workshops	2022-12-09	1	0	\N
+118	mar.gonzales.971	Vegan Picnic	2023-01-19	1	1	16
+118	mar.gonzales.971	World Water Day	2022-01-08	\N	\N	\N
+118	mel.acevedo.523	World Water Day	2022-01-08	1	0	\N
+118	mic.case.027	Hands-on workshops	2022-12-09	1	0	\N
+118	mic.reynolds.319	Hands-on workshops	2022-12-09	1	0	\N
+118	mic.reynolds.319	World Water Day	2022-01-08	0	\N	\N
+118	mic.thompson.255	Hands-on workshops	2022-12-09	1	0	\N
+118	mic.woods.516	Hands-on workshops	2022-12-09	1	0	\N
+118	mic.woods.516	World Water Day	2022-01-08	1	1	1
+118	mig.brown.544	Beach clean-up	2021-01-02	1	0	\N
+118	mig.brown.544	World Water Day	2022-01-08	1	1	8
+118	mit.diaz.120	Hands-on workshops	2022-12-09	1	0	\N
+118	mr..ferguson.506	Hands-on workshops	2022-12-09	1	0	\N
+118	mr..ferguson.506	World Water Day	2022-01-08	1	0	\N
+118	nic.horn.309	Hands-on workshops	2022-12-09	1	1	7
+118	nic.horn.309	World Water Day	2022-01-08	1	0	\N
+118	nic.sherman.130	Hands-on workshops	2022-12-09	1	0	\N
+118	nic.sherman.130	Vegan Picnic	2023-01-19	1	0	\N
+118	phi.wilson.040	Hands-on workshops	2022-12-09	1	1	2
+118	phi.wilson.040	Vegan Picnic	2023-01-19	1	0	\N
+118	reg.hughes.236	Vegan Picnic	2023-01-19	1	1	16
+118	san.wallace.423	Hands-on workshops	2022-12-09	1	0	\N
+118	san.wallace.423	World Water Day	2022-01-08	1	1	6
+118	vic.weaver.575	Hands-on workshops	2022-12-09	\N	\N	\N
+118	vic.weaver.575	Vegan Picnic	2023-01-19	1	1	7
+118	vic.weaver.575	World Water Day	2022-01-08	1	1	8
+118	wya.martinez.388	Hands-on workshops	2022-12-09	\N	\N	\N
+122	amy.floyd.618	Club Cohesion	2023-05-22	1	1	5
+122	amy.garcia.871	Club Cohesion	2023-05-22	\N	\N	\N
+122	amy.henderson.224	Club Cohesion	2023-05-22	1	0	\N
+122	ang.hopkins.264	Club Cohesion	2023-05-22	1	1	2
+122	ant.dennis.856	Club Cohesion	2023-05-22	1	0	\N
+122	ant.fleming.613	Club Cohesion	2023-05-22	1	0	\N
+122	ash.robinson.400	Club Cohesion	2023-05-22	0	\N	\N
+122	ben.turner.392	Club Cohesion	2023-05-22	1	1	7
+122	chr.rose.465	Club Cohesion	2023-05-22	1	1	4
+122	cor.jr..320	Club Cohesion	2023-05-22	1	0	\N
+122	cry.davis.502	Club Cohesion	2023-05-22	1	0	\N
+122	dav.lloyd.779	Club Cohesion	2023-05-22	1	0	\N
+122	dr..espinoza.407	Club Cohesion	2023-05-22	1	1	16
+122	dyl.romero.144	Club Cohesion	2023-05-22	1	1	7
+122	eli.dawson.093	Club Cohesion	2023-05-22	\N	\N	\N
+122	eri.lopez.817	Club Cohesion	2023-05-22	1	1	2
+122	hea.baldwin.164	Club Cohesion	2023-05-22	1	1	15
+122	jam.evans.413	Club Cohesion	2023-05-22	1	1	5
+122	jam.johnson.153	Club Cohesion	2023-05-22	\N	\N	\N
+122	jas.morton.077	Club Cohesion	2023-05-22	1	0	\N
+122	jen.huerta.328	Club Cohesion	2023-05-22	1	0	\N
+122	jer.rollins.740	Club Cohesion	2023-05-22	\N	\N	\N
+122	jil.payne.892	Club Cohesion	2023-05-22	\N	\N	\N
+122	joh.coleman.076	Club Cohesion	2023-05-22	1	1	7
+122	jos.garcia.375	Club Cohesion	2023-05-22	1	1	10
+122	kar.carroll.734	Club Cohesion	2023-05-22	1	1	5
+122	ker.mullen.690	Club Cohesion	2023-05-22	1	0	\N
+122	kri.edwards.715	Club Cohesion	2023-05-22	1	1	2
+122	log.edwards.500	Club Cohesion	2023-05-22	1	0	\N
+122	lyn.tate.654	Club Cohesion	2023-05-22	1	0	\N
+122	mel.acevedo.523	Club Cohesion	2023-05-22	1	1	7
+122	mic.reynolds.319	Club Cohesion	2023-05-22	1	0	\N
+122	mic.thompson.255	Club Cohesion	2023-05-22	1	0	\N
+122	mic.woods.516	Club Cohesion	2023-05-22	1	1	3
+122	mig.brown.544	Club Cohesion	2023-05-22	\N	\N	\N
+122	mit.haynes.006	Club Cohesion	2023-05-22	\N	\N	\N
+122	mr..ferguson.506	Club Cohesion	2023-05-22	1	1	12
+122	nic.horn.309	Club Cohesion	2023-05-22	1	1	3
+122	nic.sherman.130	Club Cohesion	2023-05-22	1	1	15
+122	phi.wilson.040	Club Cohesion	2023-05-22	1	0	\N
+122	reg.hughes.236	Club Cohesion	2023-05-22	1	1	14
+122	vic.weaver.575	Club Cohesion	2023-05-22	\N	\N	\N
+122	wya.martinez.388	Club Cohesion	2023-05-22	1	1	1
+150	ale.johnson.509	Annual Nite Bike	2021-08-19	1	1	12
+150	ale.johnson.509	Road Series rideouts	2021-12-25	1	1	15
+150	amy.floyd.618	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	amy.floyd.618	Bike4Change	2022-07-04	1	1	16
+150	amy.garcia.871	Annual Nite Bike	2021-08-19	0	\N	\N
+150	amy.garcia.871	Paddle to the Bay	2023-07-26	1	0	\N
+150	amy.garcia.871	Road Series rideouts	2021-12-25	1	1	7
+150	ang.hopkins.264	Bike4Change	2022-07-04	1	1	6
+150	ang.hopkins.264	Paddle to the Bay	2023-07-26	1	1	7
+150	ant.dennis.856	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	ant.dennis.856	Paddle to the Bay	2023-07-26	\N	\N	\N
+150	ant.dennis.856	Road Series rideouts	2021-12-25	1	0	\N
+150	ant.fleming.613	Annual Nite Bike	2021-08-19	1	0	\N
+150	ant.fleming.613	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	ant.fleming.613	Paddle to the Bay	2023-07-26	1	0	\N
+150	ant.fleming.613	Road Series rideouts	2021-12-25	\N	\N	\N
+150	ash.robinson.400	Annual Nite Bike	2021-08-19	1	1	2
+150	ash.robinson.400	Paddle to the Bay	2023-07-26	1	1	6
+150	ash.robinson.400	Road Series rideouts	2021-12-25	1	1	9
+150	ben.turner.392	Annual Pedal x Paddle	2022-04-21	1	1	9
+150	ben.turner.392	Bike4Change	2022-07-04	1	0	\N
+150	ben.turner.392	Road Series rideouts	2021-12-25	\N	\N	\N
+150	cas.duran.250	Paddle to the Bay	2023-07-26	1	1	1
+150	chr.rose.465	Annual Nite Bike	2021-08-19	1	1	2
+150	chr.rose.465	Bike4Change	2022-07-04	1	0	\N
+150	chr.rose.465	Paddle to the Bay	2023-07-26	1	1	7
+150	chr.rose.465	Road Series rideouts	2021-12-25	0	\N	\N
+150	cor.jr..320	Annual Nite Bike	2021-08-19	0	\N	\N
+150	cor.jr..320	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	cor.jr..320	Bike4Change	2022-07-04	\N	\N	\N
+150	cor.jr..320	Paddle to the Bay	2023-07-26	1	0	\N
+150	cor.jr..320	Road Series rideouts	2021-12-25	1	0	\N
+150	cou.brooks.739	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	cou.brooks.739	Bike4Change	2022-07-04	1	1	13
+150	cou.brooks.739	Road Series rideouts	2021-12-25	1	0	\N
+150	cry.davis.502	Bike4Change	2022-07-04	1	1	9
+150	cry.davis.502	Paddle to the Bay	2023-07-26	1	1	15
+150	cry.davis.502	Road Series rideouts	2021-12-25	1	1	8
+150	dan.hayes.093	Annual Nite Bike	2021-08-19	1	0	\N
+150	dan.hayes.093	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	dan.hayes.093	Bike4Change	2022-07-04	\N	\N	\N
+150	dan.hayes.093	Road Series rideouts	2021-12-25	1	1	14
+150	dav.lloyd.779	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	dav.lloyd.779	Bike4Change	2022-07-04	1	1	14
+150	dav.lloyd.779	Road Series rideouts	2021-12-25	1	1	4
+150	daw.davis.370	Annual Nite Bike	2021-08-19	1	1	16
+150	daw.davis.370	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	daw.davis.370	Bike4Change	2022-07-04	\N	\N	\N
+150	daw.davis.370	Road Series rideouts	2021-12-25	1	0	\N
+150	dr..espinoza.407	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	dr..espinoza.407	Paddle to the Bay	2023-07-26	0	\N	\N
+150	dr..espinoza.407	Road Series rideouts	2021-12-25	1	1	9
+150	hea.baldwin.164	Annual Nite Bike	2021-08-19	1	0	\N
+150	hea.baldwin.164	Bike4Change	2022-07-04	1	0	\N
+150	hea.baldwin.164	Paddle to the Bay	2023-07-26	1	1	6
+150	hea.baldwin.164	Road Series rideouts	2021-12-25	1	0	\N
+150	jam.evans.413	Annual Nite Bike	2021-08-19	0	\N	\N
+150	jam.evans.413	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	jam.evans.413	Paddle to the Bay	2023-07-26	1	1	10
+150	jam.evans.413	Road Series rideouts	2021-12-25	1	0	\N
+150	jam.johnson.153	Annual Nite Bike	2021-08-19	1	1	3
+150	jam.johnson.153	Annual Pedal x Paddle	2022-04-21	1	1	6
+150	jam.terrell.239	Bike4Change	2022-07-04	1	1	3
+150	jam.terrell.239	Paddle to the Bay	2023-07-26	1	0	\N
+150	jas.keith.832	Annual Nite Bike	2021-08-19	1	0	\N
+150	jas.keith.832	Annual Pedal x Paddle	2022-04-21	1	1	7
+150	jas.keith.832	Bike4Change	2022-07-04	\N	\N	\N
+150	jas.keith.832	Road Series rideouts	2021-12-25	1	1	5
+150	jas.morton.077	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	jas.morton.077	Bike4Change	2022-07-04	1	1	3
+150	jas.morton.077	Paddle to the Bay	2023-07-26	1	1	11
+150	jas.morton.077	Road Series rideouts	2021-12-25	1	0	\N
+150	jen.campbell.340	Bike4Change	2022-07-04	1	1	13
+150	jen.campbell.340	Paddle to the Bay	2023-07-26	1	1	5
+150	jen.campbell.340	Road Series rideouts	2021-12-25	0	\N	\N
+150	jen.huerta.328	Annual Nite Bike	2021-08-19	1	1	5
+150	jen.huerta.328	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	jen.huerta.328	Bike4Change	2022-07-04	0	\N	\N
+150	jen.huerta.328	Road Series rideouts	2021-12-25	\N	\N	\N
+150	jer.rollins.740	Annual Nite Bike	2021-08-19	1	1	12
+150	jer.rollins.740	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	jer.rollins.740	Bike4Change	2022-07-04	\N	\N	\N
+150	jer.rollins.740	Paddle to the Bay	2023-07-26	1	0	\N
+150	joh.coleman.076	Bike4Change	2022-07-04	1	0	\N
+150	joh.coleman.076	Paddle to the Bay	2023-07-26	\N	\N	\N
+150	jos.garcia.375	Bike4Change	2022-07-04	1	0	\N
+150	jos.garcia.375	Paddle to the Bay	2023-07-26	1	0	\N
+150	kar.carroll.734	Annual Nite Bike	2021-08-19	1	0	\N
+150	ker.mullen.690	Annual Nite Bike	2021-08-19	1	1	12
+150	ker.mullen.690	Road Series rideouts	2021-12-25	1	1	1
+150	kri.edwards.715	Annual Nite Bike	2021-08-19	1	0	\N
+150	kri.edwards.715	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	kri.edwards.715	Paddle to the Bay	2023-07-26	1	1	9
+150	kri.edwards.715	Road Series rideouts	2021-12-25	1	1	16
+150	lar.banks.335	Annual Nite Bike	2021-08-19	1	0	\N
+150	lar.banks.335	Annual Pedal x Paddle	2022-04-21	1	1	9
+150	log.edwards.500	Annual Nite Bike	2021-08-19	1	1	16
+150	log.edwards.500	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	log.edwards.500	Bike4Change	2022-07-04	1	0	\N
+150	log.edwards.500	Paddle to the Bay	2023-07-26	1	1	14
+150	log.edwards.500	Road Series rideouts	2021-12-25	1	1	12
+150	lyn.tate.654	Annual Nite Bike	2021-08-19	1	0	\N
+150	mar.gonzales.971	Bike4Change	2022-07-04	1	1	12
+150	mar.gonzales.971	Paddle to the Bay	2023-07-26	1	0	\N
+150	mar.gonzales.971	Road Series rideouts	2021-12-25	\N	\N	\N
+150	mel.acevedo.523	Annual Nite Bike	2021-08-19	1	0	\N
+150	mel.acevedo.523	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	mel.acevedo.523	Bike4Change	2022-07-04	0	\N	\N
+150	mel.acevedo.523	Road Series rideouts	2021-12-25	1	0	\N
+150	mic.case.027	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	mic.case.027	Paddle to the Bay	2023-07-26	1	0	\N
+150	mic.case.027	Road Series rideouts	2021-12-25	1	0	\N
+150	mic.reynolds.319	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	mic.reynolds.319	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	mic.reynolds.319	Bike4Change	2022-07-04	1	1	4
+150	mic.reynolds.319	Road Series rideouts	2021-12-25	1	0	\N
+150	mic.thompson.255	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	mic.thompson.255	Bike4Change	2022-07-04	1	0	\N
+150	mic.thompson.255	Paddle to the Bay	2023-07-26	1	1	14
+150	mic.thompson.255	Road Series rideouts	2021-12-25	1	1	1
+150	mic.woods.516	Annual Nite Bike	2021-08-19	1	0	\N
+150	mic.woods.516	Bike4Change	2022-07-04	1	0	\N
+150	mic.woods.516	Paddle to the Bay	2023-07-26	1	1	8
+150	mic.woods.516	Road Series rideouts	2021-12-25	1	0	\N
+150	mig.brown.544	Annual Pedal x Paddle	2022-04-21	1	1	11
+150	mig.brown.544	Bike4Change	2022-07-04	1	0	\N
+150	mig.brown.544	Paddle to the Bay	2023-07-26	\N	\N	\N
+150	mig.brown.544	Road Series rideouts	2021-12-25	1	1	2
+150	mit.diaz.120	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	mit.diaz.120	Bike4Change	2022-07-04	0	\N	\N
+150	mit.diaz.120	Road Series rideouts	2021-12-25	1	1	7
+150	mit.haynes.006	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	mit.haynes.006	Bike4Change	2022-07-04	1	1	9
+150	mit.haynes.006	Paddle to the Bay	2023-07-26	1	1	14
+150	mon.barber.526	Annual Pedal x Paddle	2022-04-21	1	1	6
+150	mon.barber.526	Bike4Change	2022-07-04	\N	\N	\N
+150	mon.barber.526	Paddle to the Bay	2023-07-26	1	1	3
+150	mon.barber.526	Road Series rideouts	2021-12-25	1	1	8
+150	mr..ferguson.506	Bike4Change	2022-07-04	\N	\N	\N
+150	mr..ferguson.506	Paddle to the Bay	2023-07-26	1	0	\N
+150	nic.horn.309	Paddle to the Bay	2023-07-26	1	0	\N
+150	nic.horn.309	Road Series rideouts	2021-12-25	1	0	\N
+150	nic.sherman.130	Annual Nite Bike	2021-08-19	1	0	\N
+150	nic.sherman.130	Annual Pedal x Paddle	2022-04-21	1	0	\N
+150	nic.sherman.130	Bike4Change	2022-07-04	1	0	\N
+150	nic.sherman.130	Road Series rideouts	2021-12-25	1	0	\N
+150	phi.wilson.040	Annual Nite Bike	2021-08-19	1	0	\N
+150	phi.wilson.040	Annual Pedal x Paddle	2022-04-21	1	1	6
+150	phi.wilson.040	Bike4Change	2022-07-04	1	0	\N
+150	phi.wilson.040	Paddle to the Bay	2023-07-26	1	1	5
+150	phi.wilson.040	Road Series rideouts	2021-12-25	1	0	\N
+150	reg.hughes.236	Annual Nite Bike	2021-08-19	\N	\N	\N
+150	reg.hughes.236	Bike4Change	2022-07-04	1	0	\N
+150	reg.hughes.236	Road Series rideouts	2021-12-25	1	1	7
+150	rob.valenzuela.589	Annual Nite Bike	2021-08-19	1	0	\N
+150	rob.valenzuela.589	Bike4Change	2022-07-04	1	1	7
+150	rob.valenzuela.589	Paddle to the Bay	2023-07-26	0	\N	\N
+150	rob.valenzuela.589	Road Series rideouts	2021-12-25	1	1	10
+150	san.wallace.423	Annual Nite Bike	2021-08-19	1	1	4
+150	san.wallace.423	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	san.wallace.423	Road Series rideouts	2021-12-25	1	0	\N
+150	vic.weaver.575	Annual Nite Bike	2021-08-19	1	0	\N
+150	vic.weaver.575	Paddle to the Bay	2023-07-26	1	0	\N
+150	vic.weaver.575	Road Series rideouts	2021-12-25	1	1	15
+150	wya.martinez.388	Annual Nite Bike	2021-08-19	1	0	\N
+150	wya.martinez.388	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+150	wya.martinez.388	Bike4Change	2022-07-04	0	\N	\N
+150	wya.martinez.388	Road Series rideouts	2021-12-25	1	1	10
+151	ale.johnson.509	Annual Pedal x Paddle	2022-04-21	1	1	7
+151	amy.floyd.618	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	amy.floyd.618	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	amy.floyd.618	Bike4Change	2022-07-04	1	1	16
+151	amy.floyd.618	Road Series rideouts	2021-12-25	1	1	10
+151	ang.hopkins.264	Bike4Change	2022-07-04	1	1	6
+151	ant.dennis.856	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	ant.dennis.856	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	ant.dennis.856	Road Series rideouts	2021-12-25	1	0	\N
+151	ant.fleming.613	Annual Nite Bike	2021-08-19	1	0	\N
+151	ant.fleming.613	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	ant.fleming.613	Road Series rideouts	2021-12-25	\N	\N	\N
+151	ash.robinson.400	Annual Nite Bike	2021-08-19	1	1	2
+151	ash.robinson.400	Annual Pedal x Paddle	2022-04-21	1	1	6
+151	ash.robinson.400	Road Series rideouts	2021-12-25	1	1	9
+151	ben.turner.392	Annual Pedal x Paddle	2022-04-21	1	1	9
+151	ben.turner.392	Bike4Change	2022-07-04	1	0	\N
+151	ben.turner.392	Road Series rideouts	2021-12-25	\N	\N	\N
+151	cas.duran.250	Annual Nite Bike	2021-08-19	1	0	\N
+151	cas.duran.250	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	cas.duran.250	Road Series rideouts	2021-12-25	1	0	\N
+151	chr.rose.465	Annual Nite Bike	2021-08-19	1	1	2
+151	chr.rose.465	Annual Pedal x Paddle	2022-04-21	1	1	6
+151	chr.rose.465	Bike4Change	2022-07-04	1	0	\N
+151	chr.rose.465	Road Series rideouts	2021-12-25	0	\N	\N
+151	cor.jr..320	Annual Nite Bike	2021-08-19	0	\N	\N
+151	cor.jr..320	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	cor.jr..320	Bike4Change	2022-07-04	\N	\N	\N
+151	cor.jr..320	Road Series rideouts	2021-12-25	1	0	\N
+151	cou.brooks.739	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	cou.brooks.739	Bike4Change	2022-07-04	1	1	13
+151	cou.brooks.739	Road Series rideouts	2021-12-25	1	0	\N
+151	cry.davis.502	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	cry.davis.502	Bike4Change	2022-07-04	1	1	9
+151	cry.davis.502	Road Series rideouts	2021-12-25	1	1	8
+151	dan.hayes.093	Annual Nite Bike	2021-08-19	1	0	\N
+151	dan.hayes.093	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	dan.hayes.093	Bike4Change	2022-07-04	\N	\N	\N
+151	dan.hayes.093	Road Series rideouts	2021-12-25	1	1	14
+151	dav.lloyd.779	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	dav.lloyd.779	Road Series rideouts	2021-12-25	1	1	4
+151	daw.davis.370	Annual Nite Bike	2021-08-19	1	1	16
+151	daw.davis.370	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	daw.davis.370	Road Series rideouts	2021-12-25	1	0	\N
+151	dr..espinoza.407	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	dr..espinoza.407	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	dr..espinoza.407	Road Series rideouts	2021-12-25	1	1	9
+151	hea.baldwin.164	Annual Nite Bike	2021-08-19	1	0	\N
+151	hea.baldwin.164	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	hea.baldwin.164	Bike4Change	2022-07-04	1	0	\N
+151	hea.baldwin.164	Road Series rideouts	2021-12-25	1	0	\N
+151	jam.evans.413	Annual Nite Bike	2021-08-19	0	\N	\N
+151	jam.evans.413	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	jam.evans.413	Road Series rideouts	2021-12-25	1	0	\N
+151	jam.johnson.153	Annual Nite Bike	2021-08-19	1	1	3
+151	jam.johnson.153	Annual Pedal x Paddle	2022-04-21	1	1	6
+151	jam.johnson.153	Road Series rideouts	2021-12-25	0	\N	\N
+151	jam.terrell.239	Bike4Change	2022-07-04	1	1	3
+151	jam.terrell.239	Road Series rideouts	2021-12-25	0	\N	\N
+151	jas.keith.832	Annual Nite Bike	2021-08-19	1	0	\N
+151	jas.keith.832	Annual Pedal x Paddle	2022-04-21	1	1	7
+151	jas.keith.832	Bike4Change	2022-07-04	\N	\N	\N
+151	jas.keith.832	Road Series rideouts	2021-12-25	1	1	5
+151	jas.morton.077	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	jas.morton.077	Annual Pedal x Paddle	2022-04-21	1	1	1
+151	jas.morton.077	Bike4Change	2022-07-04	1	1	3
+151	jas.morton.077	Road Series rideouts	2021-12-25	1	0	\N
+151	jen.campbell.340	Bike4Change	2022-07-04	1	1	13
+151	jen.campbell.340	Road Series rideouts	2021-12-25	0	\N	\N
+151	jen.huerta.328	Annual Nite Bike	2021-08-19	1	1	5
+151	jen.huerta.328	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	jen.huerta.328	Bike4Change	2022-07-04	0	\N	\N
+151	jen.huerta.328	Road Series rideouts	2021-12-25	\N	\N	\N
+151	jer.rollins.740	Annual Nite Bike	2021-08-19	1	1	12
+151	jer.rollins.740	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	jer.rollins.740	Bike4Change	2022-07-04	\N	\N	\N
+151	joh.coleman.076	Annual Nite Bike	2021-08-19	1	1	4
+151	joh.coleman.076	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	joh.coleman.076	Road Series rideouts	2021-12-25	\N	\N	\N
+151	jos.garcia.375	Annual Nite Bike	2021-08-19	1	0	\N
+151	jos.garcia.375	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	jos.garcia.375	Bike4Change	2022-07-04	1	0	\N
+151	jos.garcia.375	Road Series rideouts	2021-12-25	1	0	\N
+151	kar.carroll.734	Annual Nite Bike	2021-08-19	1	0	\N
+151	ker.mullen.690	Annual Pedal x Paddle	2022-04-21	1	1	12
+151	ker.mullen.690	Road Series rideouts	2021-12-25	1	1	1
+151	kri.edwards.715	Annual Nite Bike	2021-08-19	1	0	\N
+151	kri.edwards.715	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	kri.edwards.715	Road Series rideouts	2021-12-25	1	1	16
+151	lar.banks.335	Annual Nite Bike	2021-08-19	1	0	\N
+151	lar.banks.335	Annual Pedal x Paddle	2022-04-21	1	1	9
+151	lar.banks.335	Road Series rideouts	2021-12-25	1	0	\N
+151	log.edwards.500	Annual Nite Bike	2021-08-19	1	1	16
+151	log.edwards.500	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	log.edwards.500	Bike4Change	2022-07-04	1	0	\N
+151	log.edwards.500	Road Series rideouts	2021-12-25	1	1	12
+151	lyn.tate.654	Annual Nite Bike	2021-08-19	1	0	\N
+151	lyn.tate.654	Road Series rideouts	2021-12-25	1	0	\N
+151	mar.gonzales.971	Bike4Change	2022-07-04	1	1	12
+151	mar.gonzales.971	Road Series rideouts	2021-12-25	\N	\N	\N
+151	mel.acevedo.523	Annual Nite Bike	2021-08-19	1	0	\N
+151	mel.acevedo.523	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	mel.acevedo.523	Road Series rideouts	2021-12-25	1	0	\N
+151	mic.case.027	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	mic.case.027	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	mic.case.027	Road Series rideouts	2021-12-25	1	0	\N
+151	mic.reynolds.319	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	mic.reynolds.319	Road Series rideouts	2021-12-25	1	0	\N
+151	mic.thompson.255	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	mic.thompson.255	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	mic.thompson.255	Road Series rideouts	2021-12-25	1	1	1
+151	mic.woods.516	Annual Nite Bike	2021-08-19	1	0	\N
+151	mic.woods.516	Annual Pedal x Paddle	2022-04-21	1	1	2
+151	mic.woods.516	Bike4Change	2022-07-04	1	0	\N
+151	mic.woods.516	Road Series rideouts	2021-12-25	1	0	\N
+151	mig.brown.544	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	mig.brown.544	Annual Pedal x Paddle	2022-04-21	1	1	11
+151	mig.brown.544	Bike4Change	2022-07-04	1	0	\N
+151	mig.brown.544	Road Series rideouts	2021-12-25	1	1	2
+151	mit.diaz.120	Bike4Change	2022-07-04	0	\N	\N
+151	mit.haynes.006	Annual Nite Bike	2021-08-19	0	\N	\N
+151	mit.haynes.006	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	mit.haynes.006	Bike4Change	2022-07-04	1	1	9
+151	mon.barber.526	Annual Pedal x Paddle	2022-04-21	1	1	6
+151	mon.barber.526	Bike4Change	2022-07-04	\N	\N	\N
+151	mon.barber.526	Road Series rideouts	2021-12-25	1	1	8
+151	mr..ferguson.506	Bike4Change	2022-07-04	\N	\N	\N
+151	nic.horn.309	Annual Pedal x Paddle	2022-04-21	0	\N	\N
+151	nic.horn.309	Road Series rideouts	2021-12-25	1	0	\N
+151	nic.sherman.130	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	nic.sherman.130	Bike4Change	2022-07-04	1	0	\N
+151	nic.sherman.130	Road Series rideouts	2021-12-25	1	0	\N
+151	phi.wilson.040	Annual Nite Bike	2021-08-19	1	0	\N
+151	phi.wilson.040	Annual Pedal x Paddle	2022-04-21	1	1	6
+151	phi.wilson.040	Bike4Change	2022-07-04	1	0	\N
+151	phi.wilson.040	Road Series rideouts	2021-12-25	1	0	\N
+151	reg.hughes.236	Annual Nite Bike	2021-08-19	\N	\N	\N
+151	reg.hughes.236	Annual Pedal x Paddle	2022-04-21	1	0	\N
+151	reg.hughes.236	Bike4Change	2022-07-04	1	0	\N
+151	reg.hughes.236	Road Series rideouts	2021-12-25	1	1	7
+151	rob.valenzuela.589	Annual Nite Bike	2021-08-19	1	0	\N
+151	rob.valenzuela.589	Bike4Change	2022-07-04	1	1	7
+151	rob.valenzuela.589	Road Series rideouts	2021-12-25	1	1	10
+151	san.wallace.423	Annual Nite Bike	2021-08-19	1	1	4
+151	san.wallace.423	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+151	san.wallace.423	Road Series rideouts	2021-12-25	1	0	\N
+152	ale.johnson.509	Annual Pedal x Paddle	2022-04-21	1	1	7
+152	ale.johnson.509	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	amy.floyd.618	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	amy.floyd.618	Paddle to the Bay	2023-07-26	1	0	\N
+152	amy.garcia.871	Annual Pedal x Paddle	2022-04-21	1	1	4
+152	amy.garcia.871	Paddle to the Bay	2023-07-26	1	0	\N
+152	ang.hopkins.264	Paddle to the Bay	2023-07-26	1	1	7
+152	ant.dennis.856	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	ant.dennis.856	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	ant.fleming.613	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	ant.fleming.613	Paddle to the Bay	2023-07-26	1	0	\N
+152	ash.robinson.400	Annual Pedal x Paddle	2022-04-21	1	1	6
+152	ash.robinson.400	Paddle to the Bay	2023-07-26	1	1	6
+152	cas.duran.250	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	cas.duran.250	Paddle to the Bay	2023-07-26	1	1	1
+152	chr.rose.465	Annual Pedal x Paddle	2022-04-21	1	1	6
+152	chr.rose.465	Paddle to the Bay	2023-07-26	1	1	7
+152	cor.jr..320	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	cor.jr..320	Paddle to the Bay	2023-07-26	1	0	\N
+152	cou.brooks.739	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	cou.brooks.739	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	cry.davis.502	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	cry.davis.502	Paddle to the Bay	2023-07-26	1	1	15
+152	dan.hayes.093	Paddle to the Bay	2023-07-26	1	1	8
+152	dav.lloyd.779	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	daw.davis.370	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	dr..espinoza.407	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	dr..espinoza.407	Paddle to the Bay	2023-07-26	0	\N	\N
+152	hea.baldwin.164	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	hea.baldwin.164	Paddle to the Bay	2023-07-26	1	1	6
+152	jam.evans.413	Paddle to the Bay	2023-07-26	1	1	10
+152	jam.johnson.153	Annual Pedal x Paddle	2022-04-21	1	1	6
+152	jam.johnson.153	Paddle to the Bay	2023-07-26	1	1	4
+152	jam.terrell.239	Paddle to the Bay	2023-07-26	1	0	\N
+152	jas.morton.077	Annual Pedal x Paddle	2022-04-21	1	1	1
+152	jas.morton.077	Paddle to the Bay	2023-07-26	1	1	11
+152	jen.campbell.340	Annual Pedal x Paddle	2022-04-21	1	1	8
+152	jen.campbell.340	Paddle to the Bay	2023-07-26	1	1	5
+152	jen.huerta.328	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	jer.rollins.740	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	jer.rollins.740	Paddle to the Bay	2023-07-26	1	0	\N
+152	joh.coleman.076	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	joh.coleman.076	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	jos.garcia.375	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	jos.garcia.375	Paddle to the Bay	2023-07-26	1	0	\N
+152	kar.carroll.734	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	kar.carroll.734	Paddle to the Bay	2023-07-26	1	0	\N
+152	ker.mullen.690	Annual Pedal x Paddle	2022-04-21	1	1	12
+152	kri.edwards.715	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	kri.edwards.715	Paddle to the Bay	2023-07-26	1	1	9
+152	lar.banks.335	Annual Pedal x Paddle	2022-04-21	1	1	9
+152	lar.banks.335	Paddle to the Bay	2023-07-26	1	1	7
+152	log.edwards.500	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	log.edwards.500	Paddle to the Bay	2023-07-26	1	1	14
+152	lyn.tate.654	Annual Pedal x Paddle	2022-04-21	0	\N	\N
+152	lyn.tate.654	Paddle to the Bay	2023-07-26	1	0	\N
+152	mar.gonzales.971	Paddle to the Bay	2023-07-26	1	0	\N
+152	mel.acevedo.523	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	mel.acevedo.523	Paddle to the Bay	2023-07-26	1	0	\N
+152	mic.case.027	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	mic.case.027	Paddle to the Bay	2023-07-26	1	0	\N
+152	mic.reynolds.319	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	mic.reynolds.319	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	mic.thompson.255	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	mic.thompson.255	Paddle to the Bay	2023-07-26	1	1	14
+152	mic.woods.516	Annual Pedal x Paddle	2022-04-21	1	1	2
+152	mic.woods.516	Paddle to the Bay	2023-07-26	1	1	8
+152	mig.brown.544	Annual Pedal x Paddle	2022-04-21	1	1	11
+152	mig.brown.544	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	mit.diaz.120	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	mit.diaz.120	Paddle to the Bay	2023-07-26	\N	\N	\N
+152	mit.haynes.006	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	mit.haynes.006	Paddle to the Bay	2023-07-26	1	1	14
+152	mon.barber.526	Annual Pedal x Paddle	2022-04-21	1	1	6
+152	mon.barber.526	Paddle to the Bay	2023-07-26	1	1	3
+152	mr..ferguson.506	Annual Pedal x Paddle	2022-04-21	1	1	10
+152	mr..ferguson.506	Paddle to the Bay	2023-07-26	1	0	\N
+152	nic.horn.309	Annual Pedal x Paddle	2022-04-21	0	\N	\N
+152	nic.horn.309	Paddle to the Bay	2023-07-26	1	0	\N
+152	nic.sherman.130	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	nic.sherman.130	Paddle to the Bay	2023-07-26	1	1	5
+152	phi.wilson.040	Annual Pedal x Paddle	2022-04-21	1	1	6
+152	phi.wilson.040	Paddle to the Bay	2023-07-26	1	1	5
+152	reg.hughes.236	Annual Pedal x Paddle	2022-04-21	1	0	\N
+152	rob.valenzuela.589	Paddle to the Bay	2023-07-26	0	\N	\N
+152	san.wallace.423	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+152	san.wallace.423	Paddle to the Bay	2023-07-26	1	0	\N
+152	vic.weaver.575	Paddle to the Bay	2023-07-26	1	0	\N
+152	wya.martinez.388	Annual Pedal x Paddle	2022-04-21	\N	\N	\N
+313	ale.johnson.509	fostering 101 workshop	2023-11-18	1	0	\N
+313	ale.johnson.509	Old Is Gold	2021-02-19	1	0	\N
+313	amy.floyd.618	fostering 101 workshop	2023-11-18	1	1	5
+313	amy.garcia.871	Animal Run	2021-04-10	1	0	\N
+313	amy.garcia.871	fostering 101 workshop	2023-11-18	\N	\N	\N
+313	amy.garcia.871	Old Is Gold	2021-02-19	1	0	\N
+313	amy.henderson.224	Animal Run	2021-04-10	1	0	\N
+313	amy.henderson.224	fostering 101 workshop	2023-11-18	1	0	\N
+313	amy.henderson.224	Old Is Gold	2021-02-19	\N	\N	\N
+313	ant.fleming.613	Animal Run	2021-04-10	1	0	\N
+313	ant.fleming.613	fostering 101 workshop	2023-11-18	1	0	\N
+313	ant.fleming.613	Old Is Gold	2021-02-19	1	0	\N
+313	ash.robinson.400	Animal Run	2021-04-10	1	1	8
+313	ash.robinson.400	fostering 101 workshop	2023-11-18	1	0	\N
+313	ben.turner.392	fostering 101 workshop	2023-11-18	1	0	\N
+313	cas.duran.250	Animal Run	2021-04-10	1	0	\N
+313	cas.duran.250	Old Is Gold	2021-02-19	1	0	\N
+313	chr.rose.465	Animal Run	2021-04-10	\N	\N	\N
+313	cor.jr..320	fostering 101 workshop	2023-11-18	1	0	\N
+313	cor.jr..320	Old Is Gold	2021-02-19	1	0	\N
+313	cou.brooks.739	Animal Run	2021-04-10	1	1	9
+313	cry.davis.502	Animal Run	2021-04-10	\N	\N	\N
+313	dav.ryan.302	Animal Run	2021-04-10	1	0	\N
+313	daw.davis.370	Animal Run	2021-04-10	1	1	10
+313	daw.davis.370	fostering 101 workshop	2023-11-18	0	\N	\N
+313	daw.davis.370	Old Is Gold	2021-02-19	1	1	14
+313	dr..espinoza.407	Animal Run	2021-04-10	1	0	\N
+313	dr..espinoza.407	fostering 101 workshop	2023-11-18	1	1	16
+313	dr..espinoza.407	Old Is Gold	2021-02-19	1	0	\N
+313	dyl.romero.144	Animal Run	2021-04-10	1	1	1
+313	dyl.romero.144	fostering 101 workshop	2023-11-18	1	0	\N
+313	dyl.romero.144	Old Is Gold	2021-02-19	1	1	16
+313	ger.riley.934	fostering 101 workshop	2023-11-18	1	1	13
+313	jam.evans.413	Animal Run	2021-04-10	1	1	14
+313	jam.evans.413	Old Is Gold	2021-02-19	1	1	16
+313	jam.johnson.153	fostering 101 workshop	2023-11-18	1	1	10
+313	jam.johnson.153	Old Is Gold	2021-02-19	1	1	12
+313	jas.keith.832	fostering 101 workshop	2023-11-18	1	1	3
+313	jas.keith.832	Old Is Gold	2021-02-19	1	0	\N
+313	jas.morton.077	Animal Run	2021-04-10	1	0	\N
+313	jas.morton.077	Old Is Gold	2021-02-19	1	0	\N
+313	jen.huerta.328	fostering 101 workshop	2023-11-18	1	1	1
+313	jen.huerta.328	Old Is Gold	2021-02-19	\N	\N	\N
+313	jer.rollins.740	fostering 101 workshop	2023-11-18	\N	\N	\N
+313	jer.rollins.740	Old Is Gold	2021-02-19	\N	\N	\N
+313	jil.payne.892	Animal Run	2021-04-10	1	1	10
+313	jil.payne.892	Old Is Gold	2021-02-19	1	0	\N
+313	joh.coleman.076	Animal Run	2021-04-10	1	1	1
+313	joh.coleman.076	Old Is Gold	2021-02-19	1	1	11
+313	jos.garcia.375	Animal Run	2021-04-10	1	0	\N
+313	jos.garcia.375	Old Is Gold	2021-02-19	1	1	8
+313	kri.edwards.715	fostering 101 workshop	2023-11-18	1	0	\N
+313	lar.banks.335	Animal Run	2021-04-10	1	0	\N
+313	log.edwards.500	fostering 101 workshop	2023-11-18	1	0	\N
+313	log.edwards.500	Old Is Gold	2021-02-19	1	0	\N
+313	lyn.tate.654	Old Is Gold	2021-02-19	1	0	\N
+313	mar.gonzales.971	Animal Run	2021-04-10	1	1	16
+313	mar.gonzales.971	Old Is Gold	2021-02-19	\N	\N	\N
+313	mel.acevedo.523	Animal Run	2021-04-10	\N	\N	\N
+313	mel.acevedo.523	Old Is Gold	2021-02-19	1	1	9
+313	mic.case.027	Animal Run	2021-04-10	0	\N	\N
+313	mic.case.027	Old Is Gold	2021-02-19	\N	\N	\N
+313	mic.reynolds.319	Animal Run	2021-04-10	1	0	\N
+313	mic.reynolds.319	Old Is Gold	2021-02-19	1	1	6
+313	mig.brown.544	fostering 101 workshop	2023-11-18	1	1	6
+313	mig.brown.544	Old Is Gold	2021-02-19	1	0	\N
+313	mon.barber.526	fostering 101 workshop	2023-11-18	1	0	\N
+313	nic.horn.309	fostering 101 workshop	2023-11-18	\N	\N	\N
+313	nic.sherman.130	fostering 101 workshop	2023-11-18	0	\N	\N
+313	nic.sherman.130	Old Is Gold	2021-02-19	1	1	15
+313	phi.wilson.040	Animal Run	2021-04-10	1	0	\N
+313	phi.wilson.040	fostering 101 workshop	2023-11-18	1	0	\N
+313	rob.valenzuela.589	fostering 101 workshop	2023-11-18	1	1	12
+313	wya.martinez.388	fostering 101 workshop	2023-11-18	1	0	\N
+313	wya.martinez.388	Old Is Gold	2021-02-19	\N	\N	\N
+318	ale.johnson.509	BAKING FOR THE POOR	2023-07-28	1	1	2
+318	ale.johnson.509	KIDS TUTORING	2021-12-29	1	0	\N
+318	amy.floyd.618	BAKING FOR THE POOR	2023-07-28	1	1	6
+318	amy.garcia.871	KIDS TUTORING	2021-12-29	1	1	5
+318	amy.henderson.224	BAKING FOR THE POOR	2023-07-28	1	1	11
+318	amy.henderson.224	KIDS TUTORING	2021-12-29	1	0	\N
+318	amy.henderson.224	THE WISHMAKERS PROGRAM	2023-11-14	1	1	2
+318	ang.hopkins.264	KIDS TUTORING	2021-12-29	1	0	\N
+318	ant.dennis.856	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	ant.dennis.856	KIDS TUTORING	2021-12-29	1	1	9
+318	ant.fleming.613	BAKING FOR THE POOR	2023-07-28	1	1	7
+318	cas.duran.250	BAKING FOR THE POOR	2023-07-28	\N	\N	\N
+318	chr.rose.465	KIDS TUTORING	2021-12-29	\N	\N	\N
+318	cou.brooks.739	BAKING FOR THE POOR	2023-07-28	1	1	3
+318	cou.brooks.739	KIDS TUTORING	2021-12-29	1	0	\N
+318	dan.hayes.093	BAKING FOR THE POOR	2023-07-28	1	1	14
+318	dav.lloyd.779	BAKING FOR THE POOR	2023-07-28	1	1	1
+318	dav.ryan.302	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	dav.ryan.302	KIDS TUTORING	2021-12-29	1	1	12
+318	daw.davis.370	BAKING FOR THE POOR	2023-07-28	1	1	15
+318	dr..espinoza.407	BAKING FOR THE POOR	2023-07-28	1	1	4
+318	dyl.romero.144	BAKING FOR THE POOR	2023-07-28	\N	\N	\N
+318	dyl.romero.144	KIDS TUTORING	2021-12-29	1	0	\N
+318	eli.dawson.093	KIDS TUTORING	2021-12-29	1	1	13
+318	eri.lopez.817	BAKING FOR THE POOR	2023-07-28	1	1	6
+318	ger.riley.934	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	ger.riley.934	KIDS TUTORING	2021-12-29	1	0	\N
+318	hea.baldwin.164	BAKING FOR THE POOR	2023-07-28	1	1	14
+318	jam.terrell.239	THE WISHMAKERS PROGRAM	2023-11-14	0	\N	\N
+318	jas.keith.832	KIDS TUTORING	2021-12-29	\N	\N	\N
+318	jas.morton.077	BAKING FOR THE POOR	2023-07-28	\N	\N	\N
+318	jas.morton.077	THE WISHMAKERS PROGRAM	2023-11-14	1	1	1
+318	jen.campbell.340	BAKING FOR THE POOR	2023-07-28	\N	\N	\N
+318	jen.campbell.340	KIDS TUTORING	2021-12-29	1	0	\N
+318	jen.campbell.340	THE WISHMAKERS PROGRAM	2023-11-14	\N	\N	\N
+318	jen.huerta.328	KIDS TUTORING	2021-12-29	1	0	\N
+318	jer.rollins.740	KIDS TUTORING	2021-12-29	1	0	\N
+318	jil.payne.892	KIDS TUTORING	2021-12-29	1	0	\N
+318	jil.payne.892	THE WISHMAKERS PROGRAM	2023-11-14	1	0	\N
+318	joh.coleman.076	BAKING FOR THE POOR	2023-07-28	1	1	7
+318	jos.garcia.375	BAKING FOR THE POOR	2023-07-28	1	1	3
+318	kar.carroll.734	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	ker.mullen.690	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	kri.edwards.715	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	lar.banks.335	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	lar.banks.335	KIDS TUTORING	2021-12-29	1	1	11
+318	lar.banks.335	THE WISHMAKERS PROGRAM	2023-11-14	1	0	\N
+318	log.edwards.500	THE WISHMAKERS PROGRAM	2023-11-14	1	0	\N
+318	lyn.tate.654	BAKING FOR THE POOR	2023-07-28	1	1	12
+318	lyn.tate.654	KIDS TUTORING	2021-12-29	1	0	\N
+318	mar.gonzales.971	BAKING FOR THE POOR	2023-07-28	1	1	7
+318	mar.gonzales.971	KIDS TUTORING	2021-12-29	1	0	\N
+318	mar.gonzales.971	THE WISHMAKERS PROGRAM	2023-11-14	1	1	2
+318	mel.acevedo.523	BAKING FOR THE POOR	2023-07-28	1	1	12
+318	mel.acevedo.523	KIDS TUTORING	2021-12-29	\N	\N	\N
+318	mic.thompson.255	BAKING FOR THE POOR	2023-07-28	1	1	6
+318	mic.thompson.255	THE WISHMAKERS PROGRAM	2023-11-14	1	1	5
+318	mic.woods.516	BAKING FOR THE POOR	2023-07-28	1	0	\N
+318	mit.diaz.120	BAKING FOR THE POOR	2023-07-28	1	1	13
+318	mit.diaz.120	KIDS TUTORING	2021-12-29	1	0	\N
+318	mit.diaz.120	THE WISHMAKERS PROGRAM	2023-11-14	1	0	\N
+318	mit.haynes.006	BAKING FOR THE POOR	2023-07-28	1	1	5
+318	mit.haynes.006	KIDS TUTORING	2021-12-29	1	1	7
+318	mon.barber.526	KIDS TUTORING	2021-12-29	1	1	13
+318	mr..ferguson.506	BAKING FOR THE POOR	2023-07-28	1	1	5
+318	nic.horn.309	KIDS TUTORING	2021-12-29	\N	\N	\N
+318	nic.sherman.130	BAKING FOR THE POOR	2023-07-28	1	1	9
+318	nic.sherman.130	KIDS TUTORING	2021-12-29	0	\N	\N
+318	nic.sherman.130	THE WISHMAKERS PROGRAM	2023-11-14	1	1	2
+318	phi.wilson.040	BAKING FOR THE POOR	2023-07-28	1	1	16
+318	phi.wilson.040	KIDS TUTORING	2021-12-29	1	0	\N
+318	phi.wilson.040	THE WISHMAKERS PROGRAM	2023-11-14	1	1	3
+318	reg.hughes.236	KIDS TUTORING	2021-12-29	1	1	10
+318	reg.hughes.236	THE WISHMAKERS PROGRAM	2023-11-14	1	0	\N
+318	vic.weaver.575	KIDS TUTORING	2021-12-29	1	1	11
+318	vic.weaver.575	THE WISHMAKERS PROGRAM	2023-11-14	\N	\N	\N
+318	wya.martinez.388	BAKING FOR THE POOR	2023-07-28	1	1	1
+318	wya.martinez.388	KIDS TUTORING	2021-12-29	1	0	\N
+319	ale.johnson.509	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	amy.floyd.618	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	amy.garcia.871	Assessment with Social Service Office?	2021-07-23	\N	\N	\N
+319	amy.garcia.871	South West Community Job Fair	2023-11-20	1	1	14
+319	amy.henderson.224	Assessment with Social Service Office?	2021-07-23	1	1	15
+319	amy.henderson.224	South West Community Job Fair	2023-11-20	1	0	\N
+319	amy.henderson.224	Street Count of Rough Sleepers	2021-06-13	1	1	2
+319	ang.hopkins.264	Assessment with Social Service Office?	2021-07-23	1	1	4
+319	ang.hopkins.264	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	ant.dennis.856	Assessment with Social Service Office?	2021-07-23	1	1	16
+319	ant.dennis.856	South West Community Job Fair	2023-11-20	1	1	8
+319	ben.turner.392	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	ben.turner.392	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	cas.duran.250	South West Community Job Fair	2023-11-20	1	1	9
+319	cor.jr..320	Street Count of Rough Sleepers	2021-06-13	1	0	\N
+319	cry.davis.502	Assessment with Social Service Office?	2021-07-23	1	1	6
+319	cry.davis.502	South West Community Job Fair	2023-11-20	1	0	\N
+319	dan.hayes.093	South West Community Job Fair	2023-11-20	1	1	2
+319	dav.lloyd.779	South West Community Job Fair	2023-11-20	1	0	\N
+319	daw.davis.370	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	daw.davis.370	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	daw.davis.370	Street Count of Rough Sleepers	2021-06-13	1	1	14
+319	dyl.romero.144	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	dyl.romero.144	South West Community Job Fair	2023-11-20	1	0	\N
+319	eli.dawson.093	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	eli.dawson.093	South West Community Job Fair	2023-11-20	1	1	13
+319	eri.lopez.817	Assessment with Social Service Office?	2021-07-23	\N	\N	\N
+319	eri.lopez.817	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	ger.riley.934	South West Community Job Fair	2023-11-20	1	0	\N
+319	jam.evans.413	South West Community Job Fair	2023-11-20	1	1	5
+319	jam.johnson.153	Assessment with Social Service Office?	2021-07-23	1	1	9
+319	jam.terrell.239	Assessment with Social Service Office?	2021-07-23	1	1	15
+319	jam.terrell.239	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	jam.terrell.239	Street Count of Rough Sleepers	2021-06-13	0	\N	\N
+319	jas.keith.832	Assessment with Social Service Office?	2021-07-23	1	1	16
+319	jen.huerta.328	Assessment with Social Service Office?	2021-07-23	1	1	15
+319	jen.huerta.328	South West Community Job Fair	2023-11-20	1	0	\N
+319	jil.payne.892	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	jil.payne.892	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	jil.payne.892	Street Count of Rough Sleepers	2021-06-13	1	1	14
+319	joh.coleman.076	Assessment with Social Service Office?	2021-07-23	1	1	15
+319	joh.coleman.076	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	jos.garcia.375	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	ker.mullen.690	South West Community Job Fair	2023-11-20	1	1	11
+319	kri.edwards.715	Assessment with Social Service Office?	2021-07-23	1	1	13
+319	kri.edwards.715	South West Community Job Fair	2023-11-20	0	\N	\N
+319	lar.banks.335	South West Community Job Fair	2023-11-20	1	0	\N
+319	log.edwards.500	Assessment with Social Service Office?	2021-07-23	0	\N	\N
+319	log.edwards.500	Street Count of Rough Sleepers	2021-06-13	1	1	4
+319	lyn.tate.654	South West Community Job Fair	2023-11-20	1	0	\N
+319	mic.case.027	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	mic.reynolds.319	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	mic.reynolds.319	South West Community Job Fair	2023-11-20	1	0	\N
+319	mit.diaz.120	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	mon.barber.526	Assessment with Social Service Office?	2021-07-23	1	1	13
+319	mon.barber.526	South West Community Job Fair	2023-11-20	1	1	4
+319	mon.barber.526	Street Count of Rough Sleepers	2021-06-13	1	0	\N
+319	nic.horn.309	Assessment with Social Service Office?	2021-07-23	1	1	8
+319	nic.horn.309	South West Community Job Fair	2023-11-20	\N	\N	\N
+319	nic.sherman.130	South West Community Job Fair	2023-11-20	1	1	3
+319	nic.sherman.130	Street Count of Rough Sleepers	2021-06-13	1	1	10
+319	phi.wilson.040	Assessment with Social Service Office?	2021-07-23	1	0	\N
+319	phi.wilson.040	Street Count of Rough Sleepers	2021-06-13	1	0	\N
+319	reg.hughes.236	Assessment with Social Service Office?	2021-07-23	1	1	16
+319	reg.hughes.236	Street Count of Rough Sleepers	2021-06-13	\N	\N	\N
+319	rob.valenzuela.589	Assessment with Social Service Office?	2021-07-23	0	\N	\N
+319	rob.valenzuela.589	South West Community Job Fair	2023-11-20	1	0	\N
+319	san.wallace.423	South West Community Job Fair	2023-11-20	1	1	3
+319	vic.weaver.575	Assessment with Social Service Office?	2021-07-23	\N	\N	\N
+319	vic.weaver.575	South West Community Job Fair	2023-11-20	\N	\N	\N
+322	ale.johnson.509	GUI Volunteer Programme	2023-10-10	1	1	6
+322	amy.garcia.871	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	ang.hopkins.264	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	ant.dennis.856	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	ant.fleming.613	GUI Volunteer Programme	2023-10-10	1	1	3
+322	ben.turner.392	GUI Volunteer Programme	2023-10-10	1	1	7
+322	cas.duran.250	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	cor.jr..320	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	cry.davis.502	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	dan.hayes.093	GUI Volunteer Programme	2023-10-10	1	1	15
+322	dav.lloyd.779	GUI Volunteer Programme	2023-10-10	1	1	9
+322	dav.ryan.302	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	daw.davis.370	GUI Volunteer Programme	2023-10-10	0	\N	\N
+322	dyl.romero.144	GUI Volunteer Programme	2023-10-10	1	1	4
+322	jam.evans.413	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	jam.terrell.239	GUI Volunteer Programme	2023-10-10	1	1	9
+322	jen.campbell.340	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	jen.huerta.328	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	joh.coleman.076	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	kar.carroll.734	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	kri.edwards.715	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	lar.banks.335	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	log.edwards.500	GUI Volunteer Programme	2023-10-10	\N	\N	\N
+322	mar.gonzales.971	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	mic.case.027	GUI Volunteer Programme	2023-10-10	1	1	11
+322	mic.reynolds.319	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	mic.woods.516	GUI Volunteer Programme	2023-10-10	1	1	12
+322	mig.brown.544	GUI Volunteer Programme	2023-10-10	0	\N	\N
+322	mit.haynes.006	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	mr..ferguson.506	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	nic.horn.309	GUI Volunteer Programme	2023-10-10	1	1	16
+322	nic.sherman.130	GUI Volunteer Programme	2023-10-10	1	1	11
+322	rob.valenzuela.589	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	san.wallace.423	GUI Volunteer Programme	2023-10-10	1	0	\N
+322	wya.martinez.388	GUI Volunteer Programme	2023-10-10	1	1	8
+337	ang.hopkins.264	Balloon Sculpting Artist	2021-08-18	1	0	\N
+337	ash.robinson.400	Mural Wall Painting	2022-09-07	1	1	1
+337	ben.turner.392	Mural Wall Painting	2022-09-07	1	0	\N
+337	chr.rose.465	Mural Wall Painting	2022-09-07	1	0	\N
+337	cor.jr..320	Balloon Sculpting Artist	2021-08-18	1	0	\N
+337	cor.jr..320	Mural Wall Painting	2022-09-07	1	0	\N
+337	cou.brooks.739	Mural Wall Painting	2022-09-07	0	\N	\N
+337	cry.davis.502	Mural Wall Painting	2022-09-07	1	0	\N
+337	dan.hayes.093	Balloon Sculpting Artist	2021-08-18	1	1	2
+337	dr..espinoza.407	Mural Wall Painting	2022-09-07	1	1	2
+337	eli.dawson.093	Balloon Sculpting Artist	2021-08-18	1	0	\N
+337	hea.baldwin.164	Mural Wall Painting	2022-09-07	1	0	\N
+337	jam.johnson.153	Mural Wall Painting	2022-09-07	1	0	\N
+337	jen.campbell.340	Balloon Sculpting Artist	2021-08-18	1	0	\N
+337	jil.payne.892	Balloon Sculpting Artist	2021-08-18	1	1	4
+337	jos.garcia.375	Mural Wall Painting	2022-09-07	1	1	3
+337	kar.carroll.734	Mural Wall Painting	2022-09-07	\N	\N	\N
+337	kri.edwards.715	Mural Wall Painting	2022-09-07	1	0	\N
+337	lar.banks.335	Mural Wall Painting	2022-09-07	1	1	12
+337	log.edwards.500	Balloon Sculpting Artist	2021-08-18	1	1	8
+337	log.edwards.500	Mural Wall Painting	2022-09-07	0	\N	\N
+337	lyn.tate.654	Mural Wall Painting	2022-09-07	1	1	9
+337	mar.gonzales.971	Mural Wall Painting	2022-09-07	1	1	3
+337	mel.acevedo.523	Balloon Sculpting Artist	2021-08-18	0	\N	\N
+337	mel.acevedo.523	Mural Wall Painting	2022-09-07	1	0	\N
+337	mic.thompson.255	Mural Wall Painting	2022-09-07	1	0	\N
+337	mic.woods.516	Mural Wall Painting	2022-09-07	1	1	4
+337	mig.brown.544	Balloon Sculpting Artist	2021-08-18	1	1	9
+337	mig.brown.544	Mural Wall Painting	2022-09-07	1	0	\N
+337	mit.diaz.120	Balloon Sculpting Artist	2021-08-18	1	0	\N
+337	mit.diaz.120	Mural Wall Painting	2022-09-07	1	0	\N
+337	mit.haynes.006	Mural Wall Painting	2022-09-07	1	0	\N
+337	mon.barber.526	Mural Wall Painting	2022-09-07	1	1	13
+337	mr..ferguson.506	Balloon Sculpting Artist	2021-08-18	1	1	4
+337	nic.horn.309	Mural Wall Painting	2022-09-07	1	0	\N
+337	rob.valenzuela.589	Mural Wall Painting	2022-09-07	0	\N	\N
+337	vic.weaver.575	Mural Wall Painting	2022-09-07	0	\N	\N
+349	cor.jr..320	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	1	2
+349	cry.davis.502	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	0	\N
+349	jam.johnson.153	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	\N	\N	\N
+349	jam.terrell.239	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	1	15
+349	jen.campbell.340	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	0	\N
+349	lar.banks.335	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	\N	\N	\N
+349	log.edwards.500	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	1	1
+349	mar.gonzales.971	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	1	12
+349	mel.acevedo.523	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	0	\N
+349	mic.thompson.255	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	1	13
+349	mig.brown.544	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	1	15
+349	mon.barber.526	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	0	\N	\N
+349	nic.sherman.130	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	0	\N
+349	phi.wilson.040	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	1	0	\N
+356	ale.johnson.509	GoodLife! Makan	2023-12-24	1	0	\N
+356	ale.johnson.509	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	amy.floyd.618	Activity Ageing Programme	2023-02-09	1	0	\N
+356	amy.floyd.618	GoodLife! Makan	2023-12-24	\N	\N	\N
+356	amy.floyd.618	The GoodLife! Workout 	2022-07-29	1	1	6
+356	amy.garcia.871	Activity Ageing Programme	2023-02-09	1	0	\N
+356	amy.garcia.871	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	amy.henderson.224	Activity Ageing Programme	2023-02-09	1	1	14
+356	amy.henderson.224	The GoodLife! Workout 	2022-07-29	1	1	4
+356	ang.hopkins.264	Activity Ageing Programme	2023-02-09	1	0	\N
+356	ang.hopkins.264	The GoodLife! Workout 	2022-07-29	1	1	5
+356	ant.dennis.856	GoodLife! Makan	2023-12-24	1	1	15
+356	ant.dennis.856	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	ant.fleming.613	GoodLife! Makan	2023-12-24	0	\N	\N
+356	ash.robinson.400	GoodLife! Makan	2023-12-24	1	1	10
+356	ash.robinson.400	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	ben.turner.392	Activity Ageing Programme	2023-02-09	1	1	4
+356	ben.turner.392	The GoodLife! Workout 	2022-07-29	\N	\N	\N
+356	cas.duran.250	Activity Ageing Programme	2023-02-09	1	0	\N
+356	cas.duran.250	The GoodLife! Workout 	2022-07-29	1	1	12
+356	cor.jr..320	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	cou.brooks.739	Activity Ageing Programme	2023-02-09	1	0	\N
+356	cry.davis.502	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	dan.hayes.093	Activity Ageing Programme	2023-02-09	1	1	8
+356	dav.lloyd.779	Activity Ageing Programme	2023-02-09	1	0	\N
+356	dav.lloyd.779	GoodLife! Makan	2023-12-24	1	0	\N
+356	dav.lloyd.779	The GoodLife! Workout 	2022-07-29	0	\N	\N
+356	daw.davis.370	Activity Ageing Programme	2023-02-09	1	0	\N
+356	daw.davis.370	GoodLife! Makan	2023-12-24	1	0	\N
+356	dr..espinoza.407	Activity Ageing Programme	2023-02-09	1	0	\N
+356	dyl.romero.144	GoodLife! Makan	2023-12-24	\N	\N	\N
+356	dyl.romero.144	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	eri.lopez.817	The GoodLife! Workout 	2022-07-29	1	1	8
+356	jam.evans.413	GoodLife! Makan	2023-12-24	1	1	12
+356	jam.johnson.153	Activity Ageing Programme	2023-02-09	1	1	8
+356	jam.johnson.153	The GoodLife! Workout 	2022-07-29	1	1	14
+356	jam.terrell.239	Activity Ageing Programme	2023-02-09	1	0	\N
+356	jam.terrell.239	GoodLife! Makan	2023-12-24	1	1	12
+356	jam.terrell.239	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	jas.keith.832	Activity Ageing Programme	2023-02-09	1	0	\N
+356	jas.keith.832	GoodLife! Makan	2023-12-24	1	0	\N
+356	jas.keith.832	The GoodLife! Workout 	2022-07-29	\N	\N	\N
+356	jas.morton.077	Activity Ageing Programme	2023-02-09	1	0	\N
+356	jas.morton.077	GoodLife! Makan	2023-12-24	1	0	\N
+356	jen.campbell.340	GoodLife! Makan	2023-12-24	1	0	\N
+356	jen.campbell.340	The GoodLife! Workout 	2022-07-29	\N	\N	\N
+356	jer.rollins.740	GoodLife! Makan	2023-12-24	1	0	\N
+356	jer.rollins.740	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	joh.coleman.076	Activity Ageing Programme	2023-02-09	1	1	15
+356	joh.coleman.076	GoodLife! Makan	2023-12-24	1	1	12
+356	joh.coleman.076	The GoodLife! Workout 	2022-07-29	1	1	13
+356	jos.garcia.375	Activity Ageing Programme	2023-02-09	1	1	2
+356	jos.garcia.375	GoodLife! Makan	2023-12-24	1	1	14
+356	jos.garcia.375	The GoodLife! Workout 	2022-07-29	1	1	3
+356	kar.carroll.734	Activity Ageing Programme	2023-02-09	1	1	16
+356	kar.carroll.734	GoodLife! Makan	2023-12-24	1	0	\N
+356	ker.mullen.690	Activity Ageing Programme	2023-02-09	1	1	3
+356	ker.mullen.690	GoodLife! Makan	2023-12-24	1	1	6
+356	ker.mullen.690	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	kri.edwards.715	Activity Ageing Programme	2023-02-09	1	1	7
+356	lar.banks.335	Activity Ageing Programme	2023-02-09	1	0	\N
+356	log.edwards.500	Activity Ageing Programme	2023-02-09	1	1	11
+356	log.edwards.500	GoodLife! Makan	2023-12-24	1	0	\N
+356	log.edwards.500	The GoodLife! Workout 	2022-07-29	1	1	1
+356	lyn.tate.654	Activity Ageing Programme	2023-02-09	\N	\N	\N
+356	lyn.tate.654	GoodLife! Makan	2023-12-24	1	0	\N
+356	mar.gonzales.971	Activity Ageing Programme	2023-02-09	1	0	\N
+356	mar.gonzales.971	GoodLife! Makan	2023-12-24	1	0	\N
+356	mel.acevedo.523	Activity Ageing Programme	2023-02-09	1	1	10
+356	mel.acevedo.523	GoodLife! Makan	2023-12-24	\N	\N	\N
+356	mic.case.027	GoodLife! Makan	2023-12-24	0	\N	\N
+356	mic.reynolds.319	Activity Ageing Programme	2023-02-09	1	1	9
+356	mic.reynolds.319	GoodLife! Makan	2023-12-24	\N	\N	\N
+356	mic.reynolds.319	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	mic.thompson.255	Activity Ageing Programme	2023-02-09	1	0	\N
+356	mic.woods.516	Activity Ageing Programme	2023-02-09	1	0	\N
+356	mic.woods.516	GoodLife! Makan	2023-12-24	1	0	\N
+356	mig.brown.544	Activity Ageing Programme	2023-02-09	1	1	10
+356	mit.haynes.006	Activity Ageing Programme	2023-02-09	1	1	16
+356	mon.barber.526	GoodLife! Makan	2023-12-24	1	1	1
+356	mon.barber.526	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	mr..ferguson.506	Activity Ageing Programme	2023-02-09	1	0	\N
+356	nic.horn.309	Activity Ageing Programme	2023-02-09	1	1	8
+356	nic.horn.309	The GoodLife! Workout 	2022-07-29	\N	\N	\N
+356	nic.sherman.130	Activity Ageing Programme	2023-02-09	1	1	4
+356	phi.wilson.040	Activity Ageing Programme	2023-02-09	1	1	13
+356	phi.wilson.040	GoodLife! Makan	2023-12-24	1	0	\N
+356	reg.hughes.236	Activity Ageing Programme	2023-02-09	0	\N	\N
+356	reg.hughes.236	The GoodLife! Workout 	2022-07-29	1	0	\N
+356	rob.valenzuela.589	The GoodLife! Workout 	2022-07-29	1	1	12
+356	san.wallace.423	Activity Ageing Programme	2023-02-09	1	1	16
+356	san.wallace.423	The GoodLife! Workout 	2022-07-29	1	1	6
+356	vic.weaver.575	GoodLife! Makan	2023-12-24	1	0	\N
+356	vic.weaver.575	The GoodLife! Workout 	2022-07-29	1	0	\N
+362	ale.johnson.509	Animal Run	2021-04-10	1	0	\N
+362	ale.johnson.509	fostering 101 workshop	2023-11-18	1	0	\N
+362	ale.johnson.509	Old Is Gold	2021-02-19	1	0	\N
+362	amy.floyd.618	Animal Run	2021-04-10	\N	\N	\N
+362	amy.floyd.618	fostering 101 workshop	2023-11-18	1	1	5
+362	amy.garcia.871	Animal Run	2021-04-10	1	0	\N
+362	amy.garcia.871	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	amy.garcia.871	Old Is Gold	2021-02-19	1	0	\N
+362	amy.henderson.224	Animal Run	2021-04-10	1	0	\N
+362	amy.henderson.224	fostering 101 workshop	2023-11-18	1	0	\N
+362	amy.henderson.224	Old Is Gold	2021-02-19	\N	\N	\N
+362	ant.fleming.613	Animal Run	2021-04-10	1	0	\N
+362	ant.fleming.613	fostering 101 workshop	2023-11-18	1	0	\N
+362	ant.fleming.613	Old Is Gold	2021-02-19	1	0	\N
+362	ash.robinson.400	Animal Run	2021-04-10	1	1	8
+362	ash.robinson.400	fostering 101 workshop	2023-11-18	1	0	\N
+362	ben.turner.392	fostering 101 workshop	2023-11-18	1	0	\N
+362	cas.duran.250	Animal Run	2021-04-10	1	0	\N
+362	cas.duran.250	Old Is Gold	2021-02-19	1	0	\N
+362	chr.rose.465	Animal Run	2021-04-10	\N	\N	\N
+362	chr.rose.465	fostering 101 workshop	2023-11-18	0	\N	\N
+362	cor.jr..320	fostering 101 workshop	2023-11-18	1	0	\N
+362	cor.jr..320	Old Is Gold	2021-02-19	1	0	\N
+362	cou.brooks.739	Animal Run	2021-04-10	1	1	9
+362	cou.brooks.739	fostering 101 workshop	2023-11-18	1	0	\N
+362	cou.brooks.739	Old Is Gold	2021-02-19	\N	\N	\N
+362	cry.davis.502	Animal Run	2021-04-10	\N	\N	\N
+362	cry.davis.502	fostering 101 workshop	2023-11-18	1	1	13
+362	dan.hayes.093	fostering 101 workshop	2023-11-18	1	1	11
+362	dav.ryan.302	Animal Run	2021-04-10	1	0	\N
+362	dav.ryan.302	fostering 101 workshop	2023-11-18	0	\N	\N
+362	daw.davis.370	Animal Run	2021-04-10	1	1	10
+362	daw.davis.370	fostering 101 workshop	2023-11-18	0	\N	\N
+362	daw.davis.370	Old Is Gold	2021-02-19	1	1	14
+362	dr..espinoza.407	Animal Run	2021-04-10	1	0	\N
+362	dr..espinoza.407	fostering 101 workshop	2023-11-18	1	1	16
+362	dr..espinoza.407	Old Is Gold	2021-02-19	1	0	\N
+362	dyl.romero.144	Animal Run	2021-04-10	1	1	1
+362	dyl.romero.144	fostering 101 workshop	2023-11-18	1	0	\N
+362	dyl.romero.144	Old Is Gold	2021-02-19	1	1	16
+362	eli.dawson.093	fostering 101 workshop	2023-11-18	1	1	3
+362	eli.dawson.093	Old Is Gold	2021-02-19	1	1	10
+362	eri.lopez.817	Old Is Gold	2021-02-19	1	1	15
+362	ger.riley.934	Animal Run	2021-04-10	1	1	14
+362	ger.riley.934	fostering 101 workshop	2023-11-18	1	1	13
+362	ger.riley.934	Old Is Gold	2021-02-19	1	1	1
+362	hea.baldwin.164	Animal Run	2021-04-10	1	1	3
+362	hea.baldwin.164	fostering 101 workshop	2023-11-18	1	0	\N
+362	hea.baldwin.164	Old Is Gold	2021-02-19	\N	\N	\N
+362	jam.evans.413	Animal Run	2021-04-10	1	1	14
+362	jam.evans.413	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	jam.evans.413	Old Is Gold	2021-02-19	1	1	16
+362	jam.johnson.153	fostering 101 workshop	2023-11-18	1	1	10
+362	jas.keith.832	fostering 101 workshop	2023-11-18	1	1	3
+362	jas.keith.832	Old Is Gold	2021-02-19	1	0	\N
+362	jas.morton.077	Animal Run	2021-04-10	1	0	\N
+362	jas.morton.077	fostering 101 workshop	2023-11-18	1	0	\N
+362	jas.morton.077	Old Is Gold	2021-02-19	1	0	\N
+362	jen.campbell.340	fostering 101 workshop	2023-11-18	0	\N	\N
+362	jen.huerta.328	fostering 101 workshop	2023-11-18	1	1	1
+362	jen.huerta.328	Old Is Gold	2021-02-19	\N	\N	\N
+362	jer.rollins.740	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	jil.payne.892	Animal Run	2021-04-10	1	1	10
+362	jil.payne.892	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	jil.payne.892	Old Is Gold	2021-02-19	1	0	\N
+362	joh.coleman.076	fostering 101 workshop	2023-11-18	1	0	\N
+362	jos.garcia.375	Animal Run	2021-04-10	1	0	\N
+362	jos.garcia.375	fostering 101 workshop	2023-11-18	1	1	9
+362	jos.garcia.375	Old Is Gold	2021-02-19	1	1	8
+362	kri.edwards.715	fostering 101 workshop	2023-11-18	1	0	\N
+362	log.edwards.500	fostering 101 workshop	2023-11-18	1	0	\N
+362	lyn.tate.654	Animal Run	2021-04-10	1	0	\N
+362	lyn.tate.654	fostering 101 workshop	2023-11-18	1	0	\N
+362	lyn.tate.654	Old Is Gold	2021-02-19	1	0	\N
+362	mar.gonzales.971	Animal Run	2021-04-10	1	1	16
+362	mar.gonzales.971	fostering 101 workshop	2023-11-18	1	0	\N
+362	mar.gonzales.971	Old Is Gold	2021-02-19	\N	\N	\N
+362	mel.acevedo.523	Animal Run	2021-04-10	\N	\N	\N
+362	mel.acevedo.523	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	mel.acevedo.523	Old Is Gold	2021-02-19	1	1	9
+362	mic.case.027	Animal Run	2021-04-10	0	\N	\N
+362	mic.case.027	fostering 101 workshop	2023-11-18	1	0	\N
+362	mic.case.027	Old Is Gold	2021-02-19	\N	\N	\N
+362	mic.reynolds.319	Animal Run	2021-04-10	1	0	\N
+362	mic.reynolds.319	fostering 101 workshop	2023-11-18	1	0	\N
+362	mic.reynolds.319	Old Is Gold	2021-02-19	1	1	6
+362	mic.woods.516	fostering 101 workshop	2023-11-18	1	1	12
+362	mic.woods.516	Old Is Gold	2021-02-19	\N	\N	\N
+362	mig.brown.544	Animal Run	2021-04-10	\N	\N	\N
+362	mig.brown.544	fostering 101 workshop	2023-11-18	1	1	6
+362	mig.brown.544	Old Is Gold	2021-02-19	1	0	\N
+362	mit.diaz.120	Animal Run	2021-04-10	1	0	\N
+362	mit.diaz.120	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	mit.diaz.120	Old Is Gold	2021-02-19	0	\N	\N
+362	mon.barber.526	fostering 101 workshop	2023-11-18	1	0	\N
+362	nic.horn.309	fostering 101 workshop	2023-11-18	\N	\N	\N
+362	nic.sherman.130	Animal Run	2021-04-10	1	0	\N
+362	nic.sherman.130	fostering 101 workshop	2023-11-18	0	\N	\N
+362	nic.sherman.130	Old Is Gold	2021-02-19	1	1	15
+362	phi.wilson.040	Animal Run	2021-04-10	1	0	\N
+362	phi.wilson.040	fostering 101 workshop	2023-11-18	1	0	\N
+362	rob.valenzuela.589	fostering 101 workshop	2023-11-18	1	1	12
+362	vic.weaver.575	Animal Run	2021-04-10	1	1	15
+362	wya.martinez.388	fostering 101 workshop	2023-11-18	1	0	\N
+377	ang.hopkins.264	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	1
+377	ash.robinson.400	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	ben.turner.392	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	chr.rose.465	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	cor.jr..320	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+377	cou.brooks.739	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+377	dan.hayes.093	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	dav.lloyd.779	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	12
+377	eli.dawson.093	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	1
+377	eri.lopez.817	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	hea.baldwin.164	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	jam.evans.413	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	jam.johnson.153	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+377	jas.keith.832	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	2
+377	jen.campbell.340	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	12
+377	jen.huerta.328	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	8
+377	jer.rollins.740	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	jil.payne.892	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	5
+377	joh.coleman.076	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	8
+377	jos.garcia.375	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	0	\N	\N
+377	lar.banks.335	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	log.edwards.500	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+377	mel.acevedo.523	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	4
+377	mic.reynolds.319	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	2
+377	mic.thompson.255	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	5
+377	mig.brown.544	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+377	mit.diaz.120	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	mit.haynes.006	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	mon.barber.526	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	7
+377	mr..ferguson.506	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	15
+377	nic.sherman.130	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	1	16
+377	phi.wilson.040	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	1	0	\N
+377	vic.weaver.575	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+377	wya.martinez.388	Project HomeWorks: Creating safe & sanitary homes	2021-06-30	\N	\N	\N
+378	ale.johnson.509	Sparks!	2023-01-28	1	1	9
+378	amy.floyd.618	Sparks!	2023-01-28	1	0	\N
+378	ang.hopkins.264	Sparks!	2023-01-28	1	1	8
+378	ant.fleming.613	Sparks!	2023-01-28	1	1	15
+378	ben.turner.392	Sparks!	2023-01-28	0	\N	\N
+378	cou.brooks.739	Sparks!	2023-01-28	1	0	\N
+378	cry.davis.502	Sparks!	2023-01-28	\N	\N	\N
+378	dan.hayes.093	Sparks!	2023-01-28	1	0	\N
+378	dav.lloyd.779	Sparks!	2023-01-28	1	0	\N
+378	dav.ryan.302	Sparks!	2023-01-28	1	1	14
+378	daw.davis.370	Sparks!	2023-01-28	0	\N	\N
+378	eli.dawson.093	Sparks!	2023-01-28	1	0	\N
+378	ger.riley.934	Sparks!	2023-01-28	0	\N	\N
+378	hea.baldwin.164	Sparks!	2023-01-28	1	1	10
+378	jam.evans.413	Sparks!	2023-01-28	1	0	\N
+378	jas.keith.832	Sparks!	2023-01-28	0	\N	\N
+378	jas.morton.077	Sparks!	2023-01-28	1	0	\N
+378	jen.campbell.340	Sparks!	2023-01-28	1	1	15
+378	jer.rollins.740	Sparks!	2023-01-28	0	\N	\N
+378	jil.payne.892	Sparks!	2023-01-28	\N	\N	\N
+378	jos.garcia.375	Sparks!	2023-01-28	1	0	\N
+378	ker.mullen.690	Sparks!	2023-01-28	1	0	\N
+378	lar.banks.335	Sparks!	2023-01-28	1	0	\N
+378	log.edwards.500	Sparks!	2023-01-28	1	0	\N
+378	mic.case.027	Sparks!	2023-01-28	1	1	5
+378	mic.reynolds.319	Sparks!	2023-01-28	1	1	4
+378	mit.haynes.006	Sparks!	2023-01-28	1	1	11
+378	mon.barber.526	Sparks!	2023-01-28	1	1	7
+378	mr..ferguson.506	Sparks!	2023-01-28	1	0	\N
+378	nic.horn.309	Sparks!	2023-01-28	1	1	7
+378	nic.sherman.130	Sparks!	2023-01-28	1	0	\N
+378	phi.wilson.040	Sparks!	2023-01-28	1	1	14
+378	vic.weaver.575	Sparks!	2023-01-28	1	1	3
+378	wya.martinez.388	Sparks!	2023-01-28	1	0	\N
+379	ale.johnson.509	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	amy.floyd.618	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	amy.garcia.871	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	amy.henderson.224	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	ant.dennis.856	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	cas.duran.250	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	10
+379	chr.rose.465	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	11
+379	cou.brooks.739	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	cry.davis.502	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	7
+379	dan.hayes.093	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	4
+379	dav.lloyd.779	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	9
+379	daw.davis.370	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	dr..espinoza.407	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	eli.dawson.093	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	ger.riley.934	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	13
+379	hea.baldwin.164	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	jam.johnson.153	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	3
+379	jam.terrell.239	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	jen.campbell.340	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	jer.rollins.740	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	jil.payne.892	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	joh.coleman.076	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	kar.carroll.734	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	0	\N	\N
+379	ker.mullen.690	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+379	log.edwards.500	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	mel.acevedo.523	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	mic.case.027	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	\N	\N	\N
+379	mic.thompson.255	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	2
+379	mig.brown.544	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	15
+379	mr..ferguson.506	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	2
+379	nic.sherman.130	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	1	13
+379	vic.weaver.575	Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	1	0	\N
+380	ale.johnson.509	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	amy.floyd.618	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	14
+380	amy.floyd.618	Staying Connected in a 3G Family	2022-01-26	1	1	16
+380	amy.garcia.871	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	ang.hopkins.264	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	\N	\N	\N
+380	ang.hopkins.264	Staying Connected in a 3G Family	2022-01-26	1	1	14
+380	ant.dennis.856	Staying Connected in a 3G Family	2022-01-26	\N	\N	\N
+380	ant.fleming.613	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	1
+380	ant.fleming.613	Staying Connected in a 3G Family	2022-01-26	\N	\N	\N
+380	ash.robinson.400	Essential Guide to Parenting	2021-02-14	1	1	3
+380	ash.robinson.400	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	ash.robinson.400	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	ben.turner.392	Essential Guide to Parenting	2021-02-14	1	1	12
+380	ben.turner.392	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	11
+380	ben.turner.392	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	cas.duran.250	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	cas.duran.250	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	chr.rose.465	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	chr.rose.465	Staying Connected in a 3G Family	2022-01-26	1	1	7
+380	cor.jr..320	Christmas Carnival for Migrant Workers	2021-01-31	\N	\N	\N
+380	cor.jr..320	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	2
+380	cor.jr..320	Staying Connected in a 3G Family	2022-01-26	1	1	2
+380	cou.brooks.739	Essential Guide to Parenting	2021-02-14	\N	\N	\N
+380	cou.brooks.739	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	10
+380	cou.brooks.739	Staying Connected in a 3G Family	2022-01-26	0	\N	\N
+380	cry.davis.502	Essential Guide to Parenting	2021-02-14	\N	\N	\N
+380	cry.davis.502	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	cry.davis.502	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	dan.hayes.093	Essential Guide to Parenting	2021-02-14	0	\N	\N
+380	dan.hayes.093	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	5
+380	dan.hayes.093	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	dav.lloyd.779	Essential Guide to Parenting	2021-02-14	1	1	13
+380	dav.lloyd.779	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	dav.lloyd.779	Staying Connected in a 3G Family	2022-01-26	\N	\N	\N
+380	dav.ryan.302	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	dav.ryan.302	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	daw.davis.370	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	daw.davis.370	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	\N	\N	\N
+380	daw.davis.370	Staying Connected in a 3G Family	2022-01-26	1	1	14
+380	dr..espinoza.407	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	7
+380	dyl.romero.144	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	0	\N	\N
+380	dyl.romero.144	Staying Connected in a 3G Family	2022-01-26	1	1	1
+380	eli.dawson.093	Staying Connected in a 3G Family	2022-01-26	1	1	7
+380	eri.lopez.817	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	7
+380	eri.lopez.817	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	hea.baldwin.164	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	hea.baldwin.164	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	16
+380	hea.baldwin.164	Staying Connected in a 3G Family	2022-01-26	0	\N	\N
+380	jam.evans.413	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	jam.evans.413	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	7
+380	jam.evans.413	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	jam.terrell.239	Christmas Carnival for Migrant Workers	2021-01-31	\N	\N	\N
+380	jam.terrell.239	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	jam.terrell.239	Staying Connected in a 3G Family	2022-01-26	\N	\N	\N
+380	jas.keith.832	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	jas.keith.832	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	jas.morton.077	Christmas Carnival for Migrant Workers	2021-01-31	1	0	\N
+380	jas.morton.077	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	jas.morton.077	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	jas.morton.077	Staying Connected in a 3G Family	2022-01-26	1	1	13
+380	jen.campbell.340	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	jen.huerta.328	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	jen.huerta.328	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	jen.huerta.328	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	jer.rollins.740	Christmas Carnival for Migrant Workers	2021-01-31	1	1	12
+380	jer.rollins.740	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	1
+380	jer.rollins.740	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	jil.payne.892	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	11
+380	jil.payne.892	Staying Connected in a 3G Family	2022-01-26	1	1	14
+380	joh.coleman.076	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	joh.coleman.076	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	0	\N	\N
+380	joh.coleman.076	Staying Connected in a 3G Family	2022-01-26	1	1	9
+380	jos.garcia.375	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	4
+380	kar.carroll.734	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	\N	\N	\N
+380	kar.carroll.734	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	lar.banks.335	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	lar.banks.335	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	log.edwards.500	Essential Guide to Parenting	2021-02-14	1	1	16
+380	log.edwards.500	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	0	\N	\N
+380	log.edwards.500	Staying Connected in a 3G Family	2022-01-26	0	\N	\N
+380	lyn.tate.654	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	10
+380	mar.gonzales.971	Essential Guide to Parenting	2021-02-14	\N	\N	\N
+380	mar.gonzales.971	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	10
+380	mar.gonzales.971	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	mel.acevedo.523	Christmas Carnival for Migrant Workers	2021-01-31	1	1	11
+380	mel.acevedo.523	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	mel.acevedo.523	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	mic.case.027	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	12
+380	mic.case.027	Staying Connected in a 3G Family	2022-01-26	1	1	10
+380	mic.reynolds.319	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	6
+380	mic.reynolds.319	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	mic.thompson.255	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	1
+380	mic.thompson.255	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	mic.woods.516	Essential Guide to Parenting	2021-02-14	1	1	4
+380	mic.woods.516	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	5
+380	mic.woods.516	Staying Connected in a 3G Family	2022-01-26	1	1	10
+380	mit.diaz.120	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	3
+380	mit.haynes.006	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	mit.haynes.006	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	mon.barber.526	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	mon.barber.526	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	mon.barber.526	Staying Connected in a 3G Family	2022-01-26	1	1	11
+380	mr..ferguson.506	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	nic.horn.309	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	nic.horn.309	Staying Connected in a 3G Family	2022-01-26	\N	\N	\N
+380	nic.sherman.130	Essential Guide to Parenting	2021-02-14	\N	\N	\N
+380	nic.sherman.130	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	nic.sherman.130	Staying Connected in a 3G Family	2022-01-26	1	1	11
+380	phi.wilson.040	Christmas Carnival for Migrant Workers	2021-01-31	1	0	\N
+380	phi.wilson.040	Essential Guide to Parenting	2021-02-14	1	0	\N
+380	phi.wilson.040	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	15
+380	phi.wilson.040	Staying Connected in a 3G Family	2022-01-26	1	0	\N
+380	reg.hughes.236	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	reg.hughes.236	Staying Connected in a 3G Family	2022-01-26	0	\N	\N
+380	vic.weaver.575	Christmas Carnival for Migrant Workers	2021-01-31	1	1	1
+380	vic.weaver.575	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	0	\N
+380	vic.weaver.575	Staying Connected in a 3G Family	2022-01-26	1	1	8
+380	wya.martinez.388	Essential Guide to Parenting	2021-02-14	0	\N	\N
+380	wya.martinez.388	How to Coach Your Child on Goal Setting & Time Management	2022-08-11	1	1	10
+380	wya.martinez.388	Staying Connected in a 3G Family	2022-01-26	0	\N	\N
+396	ale.johnson.509	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	ale.johnson.509	Racial Harmony Day	2021-07-19	1	0	\N
+396	ale.johnson.509	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	amy.floyd.618	CHARITY WALK TO UNITY	2021-12-11	0	\N	\N
+396	amy.garcia.871	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	14
+396	amy.garcia.871	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	amy.henderson.224	CHARITY WALK TO UNITY	2021-12-11	1	1	4
+396	amy.henderson.224	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	10
+396	amy.henderson.224	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	ang.hopkins.264	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	ang.hopkins.264	Racial Harmony Day	2021-07-19	1	1	2
+396	ant.dennis.856	Racial Harmony Day	2021-07-19	1	1	12
+396	ash.robinson.400	Racial Harmony Day	2021-07-19	1	1	10
+396	ash.robinson.400	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	5
+396	ben.turner.392	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	6
+396	ben.turner.392	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	cas.duran.250	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	6
+396	cas.duran.250	Racial Harmony Day	2021-07-19	1	1	11
+396	cas.duran.250	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	8
+396	cor.jr..320	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	cor.jr..320	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	8
+396	cor.jr..320	Racial Harmony Day	2021-07-19	1	1	7
+396	cou.brooks.739	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	cou.brooks.739	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	14
+396	cou.brooks.739	Racial Harmony Day	2021-07-19	1	1	2
+396	cry.davis.502	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	dav.lloyd.779	CHARITY WALK TO UNITY	2021-12-11	\N	\N	\N
+396	dav.lloyd.779	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	9
+396	dav.ryan.302	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	dav.ryan.302	Racial Harmony Day	2021-07-19	1	1	5
+396	daw.davis.370	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	daw.davis.370	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	5
+396	daw.davis.370	Racial Harmony Day	2021-07-19	1	1	12
+396	daw.davis.370	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	dr..espinoza.407	Chinese New Year Goodie Bag Distribution	2023-03-11	\N	\N	\N
+396	dyl.romero.144	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	1
+396	dyl.romero.144	Racial Harmony Day	2021-07-19	1	0	\N
+396	eri.lopez.817	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	10
+396	eri.lopez.817	Racial Harmony Day	2021-07-19	1	0	\N
+396	eri.lopez.817	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	4
+396	ger.riley.934	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	13
+396	jam.evans.413	CHARITY WALK TO UNITY	2021-12-11	1	1	11
+396	jam.evans.413	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	jam.johnson.153	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	jam.johnson.153	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	4
+396	jam.johnson.153	Racial Harmony Day	2021-07-19	1	1	2
+396	jam.johnson.153	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	12
+396	jam.terrell.239	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	jas.keith.832	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	1
+396	jas.keith.832	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	5
+396	jas.morton.077	Racial Harmony Day	2021-07-19	1	1	8
+396	jen.campbell.340	Chinese New Year Goodie Bag Distribution	2023-03-11	\N	\N	\N
+396	jen.campbell.340	Racial Harmony Day	2021-07-19	1	1	10
+396	jen.campbell.340	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	8
+396	jen.huerta.328	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	jen.huerta.328	Racial Harmony Day	2021-07-19	1	1	15
+396	jer.rollins.740	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	jer.rollins.740	Racial Harmony Day	2021-07-19	1	1	1
+396	jer.rollins.740	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	7
+396	joh.coleman.076	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	joh.coleman.076	Racial Harmony Day	2021-07-19	1	0	\N
+396	jos.garcia.375	CHARITY WALK TO UNITY	2021-12-11	1	1	9
+396	jos.garcia.375	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	jos.garcia.375	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	15
+396	kar.carroll.734	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	ker.mullen.690	Racial Harmony Day	2021-07-19	1	0	\N
+396	kri.edwards.715	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	16
+396	kri.edwards.715	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	lar.banks.335	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	lar.banks.335	Chinese New Year Goodie Bag Distribution	2023-03-11	\N	\N	\N
+396	lar.banks.335	Ramadan Drive by Assyafaah Mosque	2021-05-25	\N	\N	\N
+396	log.edwards.500	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	13
+396	log.edwards.500	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	6
+396	lyn.tate.654	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	13
+396	lyn.tate.654	Racial Harmony Day	2021-07-19	1	0	\N
+396	mar.gonzales.971	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	mar.gonzales.971	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	mar.gonzales.971	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	mel.acevedo.523	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	mel.acevedo.523	Racial Harmony Day	2021-07-19	1	1	15
+396	mel.acevedo.523	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	0	\N
+396	mic.case.027	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	5
+396	mic.thompson.255	CHARITY WALK TO UNITY	2021-12-11	1	0	\N
+396	mic.thompson.255	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	15
+396	mic.thompson.255	Racial Harmony Day	2021-07-19	0	\N	\N
+396	mic.woods.516	CHARITY WALK TO UNITY	2021-12-11	1	1	3
+396	mic.woods.516	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	2
+396	mic.woods.516	Racial Harmony Day	2021-07-19	0	\N	\N
+396	mic.woods.516	Ramadan Drive by Assyafaah Mosque	2021-05-25	0	\N	\N
+396	mig.brown.544	CHARITY WALK TO UNITY	2021-12-11	1	1	10
+396	mig.brown.544	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	mig.brown.544	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	5
+396	mit.diaz.120	CHARITY WALK TO UNITY	2021-12-11	1	1	9
+396	mit.diaz.120	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	mit.diaz.120	Racial Harmony Day	2021-07-19	1	1	3
+396	mit.haynes.006	CHARITY WALK TO UNITY	2021-12-11	0	\N	\N
+396	mon.barber.526	CHARITY WALK TO UNITY	2021-12-11	1	1	6
+396	mr..ferguson.506	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	12
+396	nic.sherman.130	CHARITY WALK TO UNITY	2021-12-11	1	1	1
+396	nic.sherman.130	Chinese New Year Goodie Bag Distribution	2023-03-11	1	1	5
+396	phi.wilson.040	Chinese New Year Goodie Bag Distribution	2023-03-11	1	0	\N
+396	reg.hughes.236	Chinese New Year Goodie Bag Distribution	2023-03-11	\N	\N	\N
+396	reg.hughes.236	Racial Harmony Day	2021-07-19	1	0	\N
+396	rob.valenzuela.589	CHARITY WALK TO UNITY	2021-12-11	1	1	1
+396	rob.valenzuela.589	Chinese New Year Goodie Bag Distribution	2023-03-11	\N	\N	\N
+396	rob.valenzuela.589	Racial Harmony Day	2021-07-19	1	1	3
+396	rob.valenzuela.589	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	14
+396	san.wallace.423	Racial Harmony Day	2021-07-19	1	0	\N
+396	san.wallace.423	Ramadan Drive by Assyafaah Mosque	2021-05-25	1	1	5
+396	vic.weaver.575	Chinese New Year Goodie Bag Distribution	2023-03-11	\N	\N	\N
+396	vic.weaver.575	Racial Harmony Day	2021-07-19	1	0	\N
+396	vic.weaver.575	Ramadan Drive by Assyafaah Mosque	2021-05-25	\N	\N	\N
+397	amy.floyd.618	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	13
+397	amy.henderson.224	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	3
+397	ang.hopkins.264	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	13
+397	ant.dennis.856	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	ash.robinson.400	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	\N	\N	\N
+397	ben.turner.392	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	9
+397	cor.jr..320	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	cou.brooks.739	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	cry.davis.502	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	dav.lloyd.779	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	10
+397	daw.davis.370	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	12
+397	hea.baldwin.164	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	\N	\N	\N
+397	jam.johnson.153	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	14
+397	jam.terrell.239	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	2
+397	jas.keith.832	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	jen.campbell.340	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	\N	\N	\N
+397	jer.rollins.740	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	14
+397	joh.coleman.076	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	6
+397	jos.garcia.375	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	mar.gonzales.971	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	mel.acevedo.523	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	9
+397	mic.reynolds.319	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	mic.thompson.255	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	2
+397	mic.woods.516	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	mit.haynes.006	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	5
+397	mon.barber.526	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	\N	\N	\N
+397	rob.valenzuela.589	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	vic.weaver.575	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	0	\N
+397	wya.martinez.388	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	1	1	10
+398	amy.henderson.224	OTR Listens Chatline	2022-06-05	1	1	11
+398	ant.dennis.856	OTR Listens Chatline	2022-06-05	1	0	\N
+398	chr.rose.465	OTR Listens Chatline	2022-06-05	1	1	6
+398	cor.jr..320	OTR Listens Chatline	2022-06-05	1	1	9
+398	dav.lloyd.779	OTR Listens Chatline	2022-06-05	1	0	\N
+398	daw.davis.370	OTR Listens Chatline	2022-06-05	1	0	\N
+398	jam.johnson.153	OTR Listens Chatline	2022-06-05	1	1	15
+398	jam.terrell.239	OTR Listens Chatline	2022-06-05	1	1	9
+398	jas.keith.832	OTR Listens Chatline	2022-06-05	1	0	\N
+398	jen.campbell.340	OTR Listens Chatline	2022-06-05	1	1	13
+398	jen.huerta.328	OTR Listens Chatline	2022-06-05	1	0	\N
+398	jer.rollins.740	OTR Listens Chatline	2022-06-05	1	0	\N
+398	jil.payne.892	OTR Listens Chatline	2022-06-05	1	0	\N
+398	joh.coleman.076	OTR Listens Chatline	2022-06-05	1	1	12
+398	lar.banks.335	OTR Listens Chatline	2022-06-05	1	0	\N
+398	log.edwards.500	OTR Listens Chatline	2022-06-05	1	1	10
+398	mar.gonzales.971	OTR Listens Chatline	2022-06-05	1	0	\N
+398	mel.acevedo.523	OTR Listens Chatline	2022-06-05	1	1	12
+398	mic.reynolds.319	OTR Listens Chatline	2022-06-05	1	0	\N
+398	mic.thompson.255	OTR Listens Chatline	2022-06-05	1	0	\N
+398	mic.woods.516	OTR Listens Chatline	2022-06-05	1	0	\N
+398	mig.brown.544	OTR Listens Chatline	2022-06-05	\N	\N	\N
+398	phi.wilson.040	OTR Listens Chatline	2022-06-05	1	0	\N
+398	reg.hughes.236	OTR Listens Chatline	2022-06-05	1	1	6
+398	rob.valenzuela.589	OTR Listens Chatline	2022-06-05	1	0	\N
+398	vic.weaver.575	OTR Listens Chatline	2022-06-05	1	1	4
+398	wya.martinez.388	OTR Listens Chatline	2022-06-05	\N	\N	\N

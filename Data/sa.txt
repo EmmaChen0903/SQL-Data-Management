@@ -1,0 +1,11 @@
+AcctName	JobGrade	ExtraPwd
+amb.vargas.583	lvl 3	iounxur80p
+chr.brown.087	lvl 3	jwjr4pbq42
+chr.reyes.970	lvl 5	ce25cdwrhr
+dar.davidson.447	lvl 4	avguj1wbc5
+jas.griffin.117	lvl 3	8kc2zi2uh8
+jes.glass.675	lvl 5	guq4ldjd4c
+jes.lawrence.048	lvl 1	3xub0r1wdu
+lin.henry.179	lvl 3	lm43v4v5w1
+mic.doyle.097	lvl 3	5mt97qdjgt
+sha.martinez.852	lvl 4	4l4sy22js4

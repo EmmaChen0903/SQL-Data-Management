@@ -1,0 +1,79 @@
+VOID	CreateDateTime	StartDate	EndDate	Message	IsPublic	Name	Date
+100	2020-01-08 12:31:35	2020-01-09	2021-05-09	important preliminary of Paws for a Cause	1	Paws for a Cause	2021-05-09
+100	2020-01-12 12:48:57	2020-01-13	2021-08-28	rolling of SMU Host Programme	1	SMU Host Programme	2021-08-28
+100	2020-02-19 15:57:08	2020-02-19	2023-02-04	important preliminary of Helping Hands	1	Helping Hands	2023-02-04
+100	2020-02-23 11:45:38	2020-02-25	2021-05-01	rolling of Singapore International Martial Arts Tournament	1	Singapore International Martial Arts Tournament	2021-05-01
+100	2020-04-19 13:14:02	2020-04-21	2022-01-08	get preprared for the upcoming World Water Day	0	World Water Day	2022-01-08
+100	2020-05-08 09:09:44	2020-05-10	2022-06-22	rolling of Pendeza	1	Pendeza	2022-06-22
+100	2020-06-15 15:28:19	2020-06-17	2022-12-09	rolling of Hands-on workshops	1	Hands-on workshops	2022-12-09
+100	2020-06-17 12:56:45	2020-06-18	2021-02-13	rolling of Annual SMU Basketball Alumni and Corporate Networking Events	1	Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13
+100	2020-07-18 09:05:49	2020-07-20	2022-01-28	rolling of Kidleidoscope 	1	Kidleidoscope 	2022-01-28
+100	2020-07-26 17:43:15	2020-07-26	2021-06-16	get preprared for the upcoming starringSMU	1	starringSMU	2021-06-16
+100	2020-09-23 11:39:23	2020-09-25	2021-09-24	important preliminary of SPLASH!	1	SPLASH!	2021-09-24
+100	2020-11-03 09:57:51	2020-11-05	2021-01-06	rolling of SMU Dragon Battle	1	SMU Dragon Battle	2021-01-06
+100	2021-02-23 11:03:29	2021-02-25	2023-01-19	get preprared for the upcoming Vegan Picnic	1	Vegan Picnic	2023-01-19
+100	2021-04-19 14:36:23	2021-04-20	2021-12-25	get preprared for the upcoming Martial Mayhem	1	Martial Mayhem	2021-12-25
+100	2021-07-23 13:48:28	2021-07-24	2021-07-25	get preprared for the upcoming INSPIRAR	1	INSPIRAR	2021-07-25
+100	2021-12-13 15:35:44	2021-12-14	2021-12-25	rolling of Road Series rideouts	1	Road Series rideouts	2021-12-25
+100	2022-01-31 15:01:22	2022-02-01	2023-09-23	get preprared for the upcoming Old But Gold	0	Old But Gold	2023-09-23
+100	2022-02-22 12:55:36	2022-02-23	2023-07-26	important preliminary of Paddle to the Bay	1	Paddle to the Bay	2023-07-26
+100	2022-03-03 13:49:44	2022-03-05	2022-04-21	important preliminary of Annual Pedal x Paddle	1	Annual Pedal x Paddle	2022-04-21
+100	2022-04-30 12:11:45	2022-04-30	2022-06-16	important preliminary of Teambuilding at the Beach With Plastic, Trash and Garbage Bags	1	Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16
+100	2022-08-24 12:29:44	2022-08-26	2023-05-29	rolling of SMU Buddy Programme	1	SMU Buddy Programme	2023-05-29
+107	2020-05-28 13:15:38	2020-05-29	2021-09-24	important preliminary of SPLASH!	1	SPLASH!	2021-09-24
+107	2020-10-18 11:18:24	2020-10-20	2021-01-06	get preprared for the upcoming SMU Dragon Battle	0	SMU Dragon Battle	2021-01-06
+108	2022-07-10 16:09:46	2022-07-10	2022-12-23	personnel transfer notification	0	\N	\N
+111	2021-03-27 11:46:34	2021-03-27	2023-03-06	rolling of Bandaging Workshop	1	Bandaging Workshop	2023-03-06
+112	2020-05-17 14:49:07	2020-05-17	2021-05-09	important preliminary of Paws for a Cause	1	Paws for a Cause	2021-05-09
+112	2020-08-24 13:20:03	2020-08-25	2021-02-21	get preprared for the upcoming Howl-O-Ween	1	Howl-O-Ween	2021-02-21
+112	2020-10-10 14:11:15	2020-10-11	2023-09-23	important preliminary of Old But Gold	1	Old But Gold	2023-09-23
+112	2022-03-04 10:49:05	2022-03-05	2023-02-04	important preliminary of Helping Hands	1	Helping Hands	2023-02-04
+116	2020-09-19 16:35:06	2020-09-20	2021-06-30	rolling of Project HomeWorks Creating safe & sanitary homes	1	Project HomeWorks: Creating safe & sanitary homes	2021-06-30
+117	2020-08-31 10:44:24	2020-09-02	2021-02-15	rolling of Project Illuminate	1	Project Illuminate	2021-02-15
+117	2020-10-16 16:56:08	2020-10-17	2021-02-18	get preprared for the upcoming Project Enrich	1	Project Enrich	2021-02-18
+117	2021-06-16 11:42:37	2021-06-18	2022-08-09	rolling of Project Ai	1	Project Ai	2022-08-09
+117	2021-11-14 13:32:32	2021-11-15	2022-04-03	rolling of YOLO 2022	1	YOLO 2022	2022-04-03
+118	2020-04-09 16:40:06	2020-04-10	2022-01-08	rolling of World Water Day	1	World Water Day	2022-01-08
+118	2021-03-06 11:59:05	2021-03-07	2022-12-09	important preliminary of Hands-on workshops	1	Hands-on workshops	2022-12-09
+122	2022-12-11 14:49:48	2022-12-11	2023-05-22	important preliminary of Club Cohesion	1	Club Cohesion	2023-05-22
+150	2020-06-01 16:39:53	2020-06-01	2021-08-19	get preprared for the upcoming Annual Nite Bike	1	Annual Nite Bike	2021-08-19
+150	2021-03-09 13:37:23	2021-03-10	2023-07-26	important preliminary of Paddle to the Bay	1	Paddle to the Bay	2023-07-26
+150	2021-04-08 10:40:33	2021-04-08	2021-12-25	important preliminary of Road Series rideouts	1	Road Series rideouts	2021-12-25
+150	2021-12-14 13:38:19	2021-12-15	2022-07-04	get preprared for the upcoming Bike4Change	1	Bike4Change	2022-07-04
+150	2022-03-15 14:31:17	2022-03-17	2022-04-21	rolling of Annual Pedal x Paddle	1	Annual Pedal x Paddle	2022-04-21
+150	2022-11-15 09:56:04	2022-11-16	2022-11-23	finiancial statement	0	\N	\N
+151	2020-02-29 10:02:40	2020-03-01	2021-08-19	rolling of Annual Nite Bike	1	Annual Nite Bike	2021-08-19
+151	2020-07-28 13:43:20	2020-07-28	2021-12-25	rolling of Road Series rideouts	0	Road Series rideouts	2021-12-25
+151	2020-12-30 13:17:17	2020-12-31	2022-04-21	get preprared for the upcoming Annual Pedal x Paddle	0	Annual Pedal x Paddle	2022-04-21
+151	2021-03-22 13:45:36	2021-03-24	2022-07-04	important preliminary of Bike4Change	1	Bike4Change	2022-07-04
+152	2021-09-13 15:51:42	2021-09-14	2022-04-21	important preliminary of Annual Pedal x Paddle	1	Annual Pedal x Paddle	2022-04-21
+152	2021-11-08 15:31:58	2021-11-10	2023-07-26	get preprared for the upcoming Paddle to the Bay	1	Paddle to the Bay	2023-07-26
+313	2020-04-08 10:07:36	2020-04-09	2021-02-19	rolling of Old Is Gold	1	Old Is Gold	2021-02-19
+313	2020-05-29 10:39:22	2020-05-29	2022-05-21	personnel transfer notification	1	\N	\N
+313	2020-06-05 11:31:20	2020-06-05	2021-04-10	rolling of Animal Run	1	Animal Run	2021-04-10
+318	2021-02-20 09:56:46	2021-02-21	2021-12-29	rolling of KIDS TUTORING	1	KIDS TUTORING	2021-12-29
+318	2022-08-11 14:25:47	2022-08-11	2023-07-28	rolling of BAKING FOR THE POOR	0	BAKING FOR THE POOR	2023-07-28
+318	2022-09-24 11:53:00	2022-09-24	2023-11-14	rolling of THE WISHMAKERS PROGRAM	0	THE WISHMAKERS PROGRAM	2023-11-14
+319	2020-12-07 09:29:58	2020-12-08	2021-06-13	important preliminary of Street Count of Rough Sleepers	1	Street Count of Rough Sleepers	2021-06-13
+319	2021-01-02 09:42:15	2021-01-04	2021-06-30	finiancial statement	1	\N	\N
+337	2020-06-29 17:15:00	2020-06-30	2021-08-16	finiancial statement	0	\N	\N
+337	2020-08-11 17:05:00	2020-08-11	2022-09-07	important preliminary of Mural Wall Painting	1	Mural Wall Painting	2022-09-07
+349	2022-01-03 17:24:15	2022-01-03	2023-06-21	get preprared for the upcoming '55km to SHINE' - Distance Challenge Fundraiser	1	'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21
+356	2020-10-09 09:06:24	2020-10-09	2022-07-29	get preprared for the upcoming The GoodLife! Workout 	1	The GoodLife! Workout 	2022-07-29
+356	2021-06-13 15:48:52	2021-06-14	2023-02-09	important preliminary of Activity Ageing Programme	1	Activity Ageing Programme	2023-02-09
+356	2023-11-04 09:31:09	2023-11-04	2023-12-24	rolling of GoodLife! Makan	1	GoodLife! Makan	2023-12-24
+362	2020-10-09 14:30:48	2020-10-11	2021-02-19	rolling of Old Is Gold	1	Old Is Gold	2021-02-19
+362	2021-02-02 10:03:30	2021-02-02	2021-04-10	get preprared for the upcoming Animal Run	1	Animal Run	2021-04-10
+377	2021-06-16 11:29:36	2021-06-18	2021-06-30	important preliminary of Project HomeWorks Creating safe & sanitary homes	1	Project HomeWorks: Creating safe & sanitary homes	2021-06-30
+378	2021-11-22 09:09:53	2021-11-22	2023-01-28	important preliminary of Sparks!	1	Sparks!	2023-01-28
+380	2020-03-02 12:27:38	2020-03-02	2021-01-31	rolling of Christmas Carnival for Migrant Workers	1	Christmas Carnival for Migrant Workers	2021-01-31
+380	2020-03-20 14:56:43	2020-03-22	2021-02-14	important preliminary of Essential Guide to Parenting	1	Essential Guide to Parenting	2021-02-14
+380	2020-06-06 12:46:56	2020-06-07	2022-01-26	get preprared for the upcoming Staying Connected in a 3G Family	1	Staying Connected in a 3G Family	2022-01-26
+380	2020-06-27 16:07:58	2020-06-29	2022-08-11	rolling of How to Coach Your Child on Goal Setting & Time Management	1	How to Coach Your Child on Goal Setting & Time Management	2022-08-11
+380	2020-10-10 09:58:24	2020-10-12	2022-01-26	rolling of Staying Connected in a 3G Family	1	Staying Connected in a 3G Family	2022-01-26
+380	2022-01-05 16:14:52	2022-01-07	2022-08-11	rolling of How to Coach Your Child on Goal Setting & Time Management	1	How to Coach Your Child on Goal Setting & Time Management	2022-08-11
+396	2020-11-13 13:08:02	2020-11-14	2021-07-19	rolling of Racial Harmony Day	1	Racial Harmony Day	2021-07-19
+396	2021-06-03 17:11:50	2021-06-05	2022-05-18	finiancial statement	0	\N	\N
+396	2021-07-01 13:09:15	2021-07-01	2021-12-11	get preprared for the upcoming CHARITY WALK TO UNITY	1	CHARITY WALK TO UNITY	2021-12-11
+397	2021-07-09 12:54:10	2021-07-11	2022-01-03	rolling of Lend a listening ear. Be an SOS hotline volunteer	1	Lend a listening ear. Be an SOS hotline volunteer	2022-01-03
+398	2020-05-10 13:12:11	2020-05-12	2022-06-05	important preliminary of OTR Listens Chatline	1	OTR Listens Chatline	2022-06-05

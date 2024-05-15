@@ -1,0 +1,62 @@
+AcctName	HighestEdQual
+ale.johnson.509	NULL
+amy.floyd.618	certificate
+amy.garcia.871	NULL
+amy.henderson.224	postgraduate degree
+ang.hopkins.264	diploma
+ant.dennis.856	certificate
+ant.fleming.613	NULL
+ash.robinson.400	diploma
+ben.turner.392	certificate
+cas.duran.250	NULL
+chr.rose.465	certificate
+cor.jr..320	postgraduate degree
+cou.brooks.739	diploma
+cry.davis.502	degree
+dan.hayes.093	diploma
+dav.lloyd.779	diploma
+dav.ryan.302	NULL
+daw.davis.370	postgraduate degree
+dr..espinoza.407	NULL
+dyl.romero.144	NULL
+eli.dawson.093	degree
+eri.lopez.817	diploma
+ger.riley.934	diploma
+hea.baldwin.164	certificate
+jam.evans.413	diploma
+jam.johnson.153	degree
+jam.terrell.239	postgraduate degree
+jas.keith.832	certificate
+jas.morton.077	postgraduate degree
+jen.campbell.340	degree
+jen.huerta.328	degree
+jer.rollins.740	postgraduate degree
+jil.payne.892	degree
+joh.coleman.076	certificate
+jos.garcia.375	certificate
+kar.carroll.734	NULL
+ker.mullen.690	NULL
+kri.edwards.715	NULL
+lar.banks.335	postgraduate degree
+log.edwards.500	postgraduate degree
+lyn.tate.654	NULL
+mar.gonzales.971	degree
+mel.acevedo.523	postgraduate degree
+mic.case.027	NULL
+mic.reynolds.319	certificate
+mic.thompson.255	postgraduate degree
+mic.woods.516	certificate
+mig.brown.544	postgraduate degree
+mit.diaz.120	degree
+mit.haynes.006	degree
+mon.barber.526	degree
+mr..ferguson.506	diploma
+nic.horn.309	NULL
+nic.sherman.130	degree
+phi.wilson.040	postgraduate degree
+reg.hughes.236	degree
+rob.valenzuela.589	certificate
+san.wallace.423	NULL
+vic.weaver.575	postgraduate degree
+wya.martinez.388	certificate
+stewart.maria.226	degree

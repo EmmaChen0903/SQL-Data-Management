@@ -1,0 +1,23 @@
+ID	Name	Description
+Comms88	Talking to Animals	NULL
+smu012	Bike4Change	biking programme to help these beneficiaries cover the long distances (>4km) to reach to school
+smu142	Cyber Security Risks, Threats & Vulnerabilities	This workshop aims to provide participants with the foundational knowledge on cyber risk and methodologies.
+smu182	RAMS Workshop for Student Leaders	NULL
+smu192	First Aid Refresher Workshops	Get your Standard First Aid certification with us!
+smu242	Empathy Training & Values-in-Action Field 	Develop skills to recognize emotions in others, and understand their perspectives, with cognitive, emotional and compassionate empathy.
+smu424	CPR+AED Certification	Cardio-Pulmonary Resuscitation & Automated External Defibrillator (CPR+AED) Certification
+smu451	Risk Management Implementation Plan	NULL
+smu460	The Power of Listening Workshop	NULL
+smu555	Release your Unique Strengths 1	NULL
+smu556	Release your Unique Strengths 2	NULL
+smu624	Basic Emergency Management Workshop	NULL
+smu669	SMU SUSTAINABILITY CHANGEMAKERS	NULL
+smu710	RAMS for Student Events	NULL
+smu755	Standard First Aid Certification	Get equipped with first aid skills and learn to use the AED safely.
+smu756	EXIN Certification Module 1	This module provides participants with an understanding and hands on approach to information and cyber security from a management perspective.
+smu757	EXIN Certification Module 2	This module provides participants with an understanding and hands on approach to information and cyber security from a management perspective.
+smu758	EXIN Certification Module 3	This module provides participants with an understanding and hands on approach to information and cyber security from a management perspective.
+smu810	Basic Cardiac Life Support (BCLS) Certification	The Basic Cardiac Life Support and AED Certification course.
+smu866	Managing Difficult People workshop	NULL
+smu967	Build Emotional Resilience	NULL
+Comms89	Level up your MS Word skills	Virtual guided course to create professional documents

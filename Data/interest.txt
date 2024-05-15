@@ -1,0 +1,151 @@
+AcctName	Category
+ale.johnson.509	public health
+amy.floyd.618	animals
+amy.floyd.618	children
+amy.floyd.618	environment
+amy.floyd.618	grassroots
+amy.floyd.618	public health
+amy.floyd.618	teaching
+amy.garcia.871	animals
+amy.garcia.871	grassroots
+amy.henderson.224	animals
+amy.henderson.224	crime prevention
+amy.henderson.224	grassroots
+ang.hopkins.264	public health
+ant.dennis.856	crime prevention
+ant.dennis.856	environment
+ant.dennis.856	grassroots
+ant.fleming.613	crime prevention
+ant.fleming.613	environment
+ant.fleming.613	grassroots
+ant.fleming.613	teaching
+ash.robinson.400	crime prevention
+ash.robinson.400	public health
+ash.robinson.400	teaching
+ben.turner.392	animals
+ben.turner.392	children
+ben.turner.392	crime prevention
+ben.turner.392	environment
+ben.turner.392	grassroots
+ben.turner.392	public health
+ben.turner.392	teaching
+chr.rose.465	animals
+chr.rose.465	environment
+chr.rose.465	teaching
+cor.jr..320	children
+cry.davis.502	teaching
+dan.hayes.093	animals
+dan.hayes.093	crime prevention
+dan.hayes.093	environment
+dan.hayes.093	grassroots
+dan.hayes.093	public health
+dan.hayes.093	teaching
+dav.lloyd.779	children
+dav.lloyd.779	environment
+dav.ryan.302	animals
+dav.ryan.302	grassroots
+dav.ryan.302	teaching
+daw.davis.370	animals
+daw.davis.370	children
+daw.davis.370	crime prevention
+daw.davis.370	grassroots
+daw.davis.370	public health
+daw.davis.370	teaching
+dr..espinoza.407	animals
+dyl.romero.144	crime prevention
+dyl.romero.144	grassroots
+dyl.romero.144	teaching
+eli.dawson.093	animals
+eli.dawson.093	children
+eli.dawson.093	crime prevention
+eri.lopez.817	children
+eri.lopez.817	crime prevention
+eri.lopez.817	grassroots
+eri.lopez.817	teaching
+ger.riley.934	animals
+ger.riley.934	children
+ger.riley.934	grassroots
+hea.baldwin.164	animals
+hea.baldwin.164	children
+hea.baldwin.164	environment
+jam.johnson.153	animals
+jam.johnson.153	crime prevention
+jam.johnson.153	public health
+jam.terrell.239	crime prevention
+jam.terrell.239	grassroots
+jam.terrell.239	public health
+jas.keith.832	children
+jas.keith.832	crime prevention
+jas.morton.077	crime prevention
+jen.campbell.340	crime prevention
+jen.huerta.328	public health
+jer.rollins.740	animals
+jer.rollins.740	public health
+jer.rollins.740	teaching
+jil.payne.892	children
+jil.payne.892	crime prevention
+jil.payne.892	teaching
+jos.garcia.375	animals
+jos.garcia.375	children
+jos.garcia.375	environment
+jos.garcia.375	grassroots
+jos.garcia.375	public health
+jos.garcia.375	teaching
+kar.carroll.734	environment
+kar.carroll.734	grassroots
+kar.carroll.734	public health
+ker.mullen.690	children
+ker.mullen.690	crime prevention
+ker.mullen.690	public health
+kri.edwards.715	teaching
+lar.banks.335	crime prevention
+lar.banks.335	teaching
+log.edwards.500	teaching
+mar.gonzales.971	animals
+mar.gonzales.971	crime prevention
+mar.gonzales.971	environment
+mar.gonzales.971	grassroots
+mar.gonzales.971	public health
+mel.acevedo.523	animals
+mel.acevedo.523	children
+mel.acevedo.523	public health
+mic.case.027	environment
+mic.case.027	teaching
+mic.reynolds.319	environment
+mic.reynolds.319	teaching
+mic.thompson.255	children
+mic.thompson.255	environment
+mic.thompson.255	public health
+mic.woods.516	environment
+mic.woods.516	public health
+mic.woods.516	teaching
+mig.brown.544	animals
+mig.brown.544	environment
+mig.brown.544	public health
+mit.diaz.120	environment
+mit.diaz.120	teaching
+mit.haynes.006	children
+mit.haynes.006	environment
+mit.haynes.006	public health
+mon.barber.526	children
+mon.barber.526	grassroots
+mon.barber.526	public health
+mon.barber.526	teaching
+mr..ferguson.506	environment
+mr..ferguson.506	teaching
+nic.sherman.130	crime prevention
+nic.sherman.130	teaching
+phi.wilson.040	crime prevention
+phi.wilson.040	grassroots
+reg.hughes.236	children
+reg.hughes.236	crime prevention
+reg.hughes.236	public health
+rob.valenzuela.589	animals
+rob.valenzuela.589	crime prevention
+san.wallace.423	crime prevention
+san.wallace.423	environment
+san.wallace.423	public health
+vic.weaver.575	teaching
+wya.martinez.388	children
+wya.martinez.388	environment
+wya.martinez.388	teaching

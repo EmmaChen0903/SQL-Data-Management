@@ -1,0 +1,63 @@
+Name	Date	MinReqEd
+'55km to SHINE' - Distance Challenge Fundraiser	2023-06-21	degree
+Activity Ageing Programme	2023-02-09	NULL
+Animal Run	2021-04-10	NULL
+Annual Nite Bike	2021-08-19	NULL
+Annual Pedal x Paddle	2022-04-21	NULL
+Annual SMU Basketball Alumni and Corporate Networking Events	2021-02-13	degree
+Assessment with Social Service Office?	2021-07-23	NULL
+BAKING FOR THE POOR	2023-07-28	NULL
+Balloon Sculpting Artist	2021-08-18	diploma
+Bandaging Workshop	2023-03-06	NULL
+Beach clean-up	2021-01-02	postgraduate degree
+Biannual Blood Donation	2021-07-19	NULL
+Bike4Change	2022-07-04	certificate
+CHARITY WALK TO UNITY	2021-12-11	certificate
+Chinese New Year Goodie Bag Distribution	2023-03-11	NULL
+Christmas Carnival for Migrant Workers	2021-01-31	postgraduate degree
+Club Cohesion	2023-05-22	NULL
+Essential Guide to Parenting	2021-02-14	certificate
+fostering 101 workshop	2023-11-18	NULL
+GoodLife! Makan	2023-12-24	NULL
+GUI Volunteer Programme	2023-10-10	NULL
+Hands-on workshops	2022-12-09	NULL
+Helping Hands	2023-02-04	NULL
+How to Coach Your Child on Goal Setting & Time Management	2022-08-11	NULL
+Howl-O-Ween	2021-02-21	NULL
+INSPIRAR	2021-07-25	NULL
+Kidleidoscope 	2022-01-28	NULL
+KIDS TUTORING	2021-12-29	NULL
+Lend a listening ear. Be an SOS hotline volunteer	2022-01-03	certificate
+Martial Mayhem	2021-12-25	certificate
+Mural Wall Painting	2022-09-07	NULL
+Old But Gold	2023-09-23	NULL
+Old Is Gold	2021-02-19	NULL
+OTR Listens Chatline	2022-06-05	certificate
+Paddle to the Bay	2023-07-26	NULL
+Paws for a Cause	2021-05-09	postgraduate degree
+Pendeza	2022-06-22	NULL
+Project Ai	2022-08-09	postgraduate degree
+Project Enrich	2021-02-18	certificate
+Project HomeWorks: Creating safe & sanitary homes	2021-06-30	certificate
+Project Illuminate	2021-02-15	NULL
+Racial Harmony Day	2021-07-19	NULL
+Ramadan Drive by Assyafaah Mosque	2021-05-25	NULL
+Road Series rideouts	2021-12-25	NULL
+Singapore International Martial Arts Tournament	2021-05-01	NULL
+SMU Buddy Programme	2023-05-29	NULL
+SMU Dragon Battle	2021-01-06	degree
+SMU Host Programme	2021-08-28	NULL
+South West Community Job Fair	2023-11-20	NULL
+Sparks!	2023-01-28	NULL
+SPLASH!	2021-09-24	degree
+starringSMU	2021-06-16	NULL
+Staying Connected in a 3G Family	2022-01-26	NULL
+Street Count of Rough Sleepers	2021-06-13	degree
+Teambuilding at the Beach With Plastic, Trash and Garbage Bags	2022-06-16	NULL
+The GoodLife! Workout 	2022-07-29	NULL
+THE WISHMAKERS PROGRAM	2023-11-14	degree
+Vegan Picnic	2023-01-19	degree
+Volunteer Give Life, Give Cheer, Give SCS	2021-09-22	NULL
+World Water Day	2022-01-08	NULL
+YOLO 2022	2022-04-03	postgraduate degree
+SMU Run	2023-05-01	NULL

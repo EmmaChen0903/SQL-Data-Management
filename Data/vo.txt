@@ -1,0 +1,31 @@
+VOID	Name
+100	SMU
+102	SMU Safety Center
+106	SMU Wushu
+107	SMU Dragon Boat
+108	SMU Basketball
+111	SMU Red Cross Youth Chapter
+112	SMU PAW
+116	SMU Ember
+117	SMU Caretalyst
+118	SMU VERTS
+122	SMU Youth Mentors
+150	SMUX
+151	SMUX Biking Team
+152	SMUX Kayaking Team
+312	SG Animal Welfare Charter
+313	SPCA
+318	East Youths
+319	SG Cares Volunteer Centre
+322	Ground-Up Initiative (GUI)
+337	Salvation Army
+349	SHINE Children and Youth Services
+356	Montfort Care
+362	Cat Welfare Society
+377	Habitat Singapore
+378	Lakeside Family Services
+379	Singapore Cancer Society
+380	Cornerstone Community Services
+396	Blossom Seeds Limited
+397	Samaritans of Singapore
+398	WholeTree Foundation Limited
